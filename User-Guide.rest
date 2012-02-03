@@ -1,7 +1,7 @@
 User Guide
 ==========
 
-(Can this be auto-generated?)
+(Can table of contents be auto-generated?)
 
 (These will link into other wiki pages):
 
