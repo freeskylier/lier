@@ -1,5 +1,7 @@
-Contents (can this be auto-generated?)
-======================================
+Contents
+========
+
+(Can this be auto-generated?)
 
 (These will link into other wiki pages):
 
