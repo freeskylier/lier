@@ -3,7 +3,7 @@ User Guide
 
 (Can table of contents be auto-generated?)
 
-(These will link into other wiki pages):
+(These could all link to sections of this one page or could link into (sections of) separate subpages):
 
   - Installation
 
