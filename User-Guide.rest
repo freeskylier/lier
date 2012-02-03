@@ -1,0 +1,25 @@
+Contents
+========
+
+  - Installation
+
+    - Mac
+    - Windows
+    - Linux
+
+  - Running Lantern for the first time
+
+    - Giving vs Getting Access
+    - Give Mode
+    - Get Mode
+
+      - Trusted Peers
+      - System Proxy
+
+  - Lantern Dashboard
+
+    - Status
+    - Under the Hood
+    - Contact
+    - Update
+
