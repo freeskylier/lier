@@ -1,5 +1,7 @@
-Contents
-========
+Contents (can this be auto-generated?)
+======================================
+
+(These will link into other wiki pages):
 
   - Installation
 
@@ -22,4 +24,3 @@ Contents
     - Under the Hood
     - Contact
     - Update
-
