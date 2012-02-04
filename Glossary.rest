@@ -1,1 +1,10 @@
-(Could be a good place for definition of terms)
+Glossary
+========
+
+- peer
+- proxy
+- ISP
+- intermediary
+- encryption
+- http
+- https
