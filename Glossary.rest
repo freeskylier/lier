@@ -5,6 +5,6 @@ Glossary
 - proxy
 - ISP
 - intermediary
-- encryption
-- http
-- https
+- encryption / decryption
+- plaintext / ciphertext
+- http / https
