@@ -1,0 +1,6 @@
+HTTP vs HTTPS
+=============
+
+explain what it means when a site offers an https connection -- the contents can't be deciphered by anyone between the client and the destination server (the guy who runs the internet cafe, the ISP, the government, etc.)
+
+explain why you should only send traffic to sites that don't offer https through trusted contacts
