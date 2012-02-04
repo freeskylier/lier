@@ -1,9 +1,9 @@
 User Guide
 ==========
 
-(Can table of contents be auto-generated?)
+XXX Can table of contents be auto-generated?
 
-(These could all link to sections of this one page or could link into (sections of) separate subpages):
+XXX These could all link to sections of this one page or could link into (sections of) separate pages (does github do subpages?):
 
   - Installation
 
