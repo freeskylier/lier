@@ -1,4 +1,4 @@
 System Proxy
 ============
 
-(explain)
+XXX combine with [[Manual Proxy Configuration]] page?
