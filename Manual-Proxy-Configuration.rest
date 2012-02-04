@@ -8,3 +8,5 @@ if you would prefer not to set lantern as your system proxy (see: "under the hoo
 (links to per-browser instructions)
 
 e.g. `firefox <http://support.mozilla.org/en-US/kb/Options%20window%20-%20Advanced%20panel#w_network-tab>`_
+
+XXX combine this into [[System Proxy]] page?
