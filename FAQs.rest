@@ -1,11 +1,20 @@
 FAQs
 ====
 
-:Q: Will Lantern ever cost me money?
-
-:A: Lantern is free to view, modify, and redistribute in accordance with its `license <https://raw.github.com/getlantern/lantern/master/LICENSE>`_.
+:Q: Is there a risk in running Lantern?
+:A: ...
 
 
 :Q: How will running Lantern affect performance on my computer?
 
 :A: Lantern is designed to be as lightweight and unobtrusive as possible.
+
+
+:Q: Will Lantern ever cost me money?
+
+:A: Lantern is free as in money and as in freedom: free to use, modify, and redistribute in accordance with its `license <https://raw.github.com/getlantern/lantern/master/LICENSE>`_.
+
+
+:Q: How can I contribute to the cause?
+
+:A: run in give mode, sponsor a cloud proxy, give feedback, ask or answer questions in the forums, add or translate documentation, submit patches, bug reports, and feature requests, sponsor the development of a feature or bugfix
