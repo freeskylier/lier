@@ -5,6 +5,5 @@ Glossary
 - proxy
 - ISP
 - intermediary
-- encryption / decryption
-- plaintext / ciphertext
+- encryption / decryption - "sent in the clear" vs encrypted
 - http / https
