@@ -18,3 +18,6 @@ FAQs
 :Q: How can I contribute to the cause?
 
 :A: run in give mode, sponsor a cloud proxy, give feedback, ask or answer questions in the forums, add or translate documentation, submit patches, bug reports, and feature requests, sponsor the development of a feature or bugfix
+
+:Q: Could h4x0rz turn Lantern into a massive botnet?
+:A: Samy?!??
