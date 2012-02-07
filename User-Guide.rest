@@ -17,8 +17,8 @@ XXX These could all link to sections of this one page or could link into (sectio
     - Give Mode
     - Get Mode
 
-      - Trusted Peers
-      - System Proxy
+      - [[Trusted Peers]]
+      - [[System Proxy]]
 
   - Lantern Dashboard
 
