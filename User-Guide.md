@@ -1,6 +1,6 @@
 # User Guide
 
-XXX Can table of contents be auto-generated?
+[TOC]
 
 ## Installation
 
