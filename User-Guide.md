@@ -1,4 +1,6 @@
-# User Guide
+User Guide
+==========
+
 
 [TOC]
 

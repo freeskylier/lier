@@ -1,3 +1,6 @@
+Lantern Threat Model
+====================
+
 ### Abstract
 We discuss the threat model for Lantern as a whole, addressing Lantern subsystems in more detail where appropriate. We discusse the problems Lantern solves as well as what it explicitly does not solve.
 
