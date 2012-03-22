@@ -7,13 +7,13 @@
 
 ### How will running Lantern affect performance on my computer?
 
-Lantern's goal is to be as lightweight and unobtrusive as possible. In
-[[Get Mode|En-Give-Mode-and-Get-Mode]], you shouldn't even notice it's running,
-outside of being able to access previously blocked sites of course. In Give
-Mode, a portion of your internet connection may intermittently be donated to
-other users, but based on the other users online at the time, you may not even
-notice. Limiting the resources Lantern uses while you're using your computer is
-currently a [[planned
+Lantern's goal is to be as lightweight and unobtrusive as possible. In [Get
+Mode](En-User-Guide#give-mode-and-get-mode), you shouldn't even notice it's
+running, outside of being able to access previously blocked sites of course. In
+Give Mode, a portion of your internet connection may intermittently be donated
+to other users, but based on the other users online at the time, you may not
+even notice. Limiting the resources Lantern uses while you're using your
+computer is currently a [[planned
 feature|https://github.com/getlantern/lantern/issues/19]].
 
 
