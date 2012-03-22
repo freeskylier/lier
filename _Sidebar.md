@@ -1,5 +1,9 @@
-[[/|Index]]
-[[En-FAQ|FAQ]]
-[[En-User-Guide|User Guide]]
-[[En-Glossary|Glossary]]
-[[En-Contributing|Contributing]]
+[[/]]
+
+[[En-FAQ]]
+
+[[En-User-Guide]]
+
+[[En-Glossary]]
+
+[[En-Contributing]]
