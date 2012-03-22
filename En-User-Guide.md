@@ -36,23 +36,23 @@ to be notified when it is available.
 
 ## Running Lantern for the first time
 
-### Giving vs. Getting Access <a id="give-mode-and-get-mode"/>
+### Giving vs. Getting Access <a name="give-mode-and-get-mode"/>
 
 ...
 
-### Give Mode
+#### Give Mode
 
 ...
 
-### Get Mode
+#### Get Mode
 
 ...
 
-#### Trusted Peers
+##### Trusted Peers
 
 ...
 
-#### System Proxy
+##### System Proxy
 
 ...
 
