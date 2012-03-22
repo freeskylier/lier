@@ -1,12 +1,12 @@
 # User Guide
 
-## Introduction <a name="intro"/>
+## <a name="intro"/> Introduction
 
 ...
 
-## Installation <a name="installation"/>
+## <a name="installation"/> Installation
 
-### Mac <a name="installation-mac"/>
+### <a name="installation-mac"/> Mac
 
 Lantern is compatible with Mac OS X version 10.5 (Leopard) or higher. It's
 a good idea to run the Apple Software Update app before installing Lantern to
@@ -22,29 +22,29 @@ copies files. When it's finished, Lantern will be started automatically and you
 will be greeted with the welcome screen.
 
 
-### Windows <a name="installation-win"/>
+### <a name="installation-win"/> Windows
 
 ...
 
-### Linux <a name="installation-linux"/>
+### <a name="installation-linux"/> Linux
 
 ...
 
-## Running Lantern for the first time <a name="first-run"/>
+## <a name="first-run"/> Running Lantern for the first time
 
-### Giving vs. Getting Access <a name="give-mode-and-get-mode"/>
-
-...
-
-#### Give Mode <a name="give-mode"/>
+### <a name="give-mode-and-get-mode"/> Giving vs. Getting Access
 
 ...
 
-#### Get Mode <a name="get-mode"/>
+#### <a name="give-mode"/> Give Mode
 
 ...
 
-##### Trusted Peers <a name="trusted-peers"/>
+#### <a name="get-mode"/> Get Mode
+
+...
+
+##### <a name="trusted-peers"/> Trusted Peers
 
 Lantern treats trusted peers specially. Lantern always tries to send your
 requests through HTTPS versions of sites where all of your traffic is
@@ -61,7 +61,7 @@ theoretically read your traffic. This is why **you should only choose trusted
 peers you really trust**. It is also why **you should use HTTPS versions of
 web sites whenever possible**.
 
-###### HTTPS Traffic <a name="https-traffic"/>
+###### <a name="https-traffic"/> HTTPS Traffic
 
 When you access a site over HTTPS, you access that site over an encrypted
 connection that prying eyes cannot read. HTTP on the other hand, does not hide
@@ -95,7 +95,7 @@ visited, and the size of the message you sent. In some cases that may even be
 enough information to deduce that you sent a specific Tweet, although it might
 be difficult to prove.
 
-###### Lantern Cloud Proxies <a name="cloud-proxies"/>
+###### <a name="cloud-proxies"/> Lantern Cloud Proxies
 
 Lantern Cloud Proxies are useful when you don't have any trusted peers online
 with uncensored connections you can use. In that case, Lantern Cloud Proxies
@@ -108,40 +108,40 @@ analyzed, or shared with anyone. Any human contact with traffic information is
 limited to only the core Lantern developers and is strictly incidental to
 making sure Lantern works.
 
-##### System Proxy <a name="system-proxy"/>
+##### <a name="system-proxy"/> System Proxy
 
 ...
 
-###### Manual Proxy Configuration <a name="manual-proxy"/>
+###### <a name="manual-proxy"/> Manual Proxy Configuration
 
 Mac: System Preferences -> Network -> Advanced -> Proxies.
 Select "Web Proxy (HTTP)" and then enter 127.0.0.1 for the server and
 whatever port is set in your Lantern Dashboard in the [Settings
 panel](#dashboard-settings).
 
-## Lantern Dashboard <a name="dashboard"/>
+## <a name="dashboard"/> Lantern Dashboard
 
-### Status <a name="dashboard-status"/>
-
-...
-
-### Contact <a name="dashboard-contact"/>
+### <a name="dashboard-status"/> Status
 
 ...
 
-### Settings <a name="dashboard-settings"/>
+### <a name="dashboard-contact"/> Contact
 
 ...
 
-### Update <a name="dashboard-update"/>
+### <a name="dashboard-settings"/> Settings
 
 ...
 
-## Staying in the Loop <a name="loop"/>
+### <a name="dashboard-update"/> Update
+
+...
+
+## <a name="loop"/> Staying in the Loop
 
 [Newsletter](http://getlantern.us2.list-manage.com/subscribe?u=0ac18298d5d0330dcda8f48aa&id=22c546d075)
 
 
-## Further Reference <a name="further-reference"/>
+## <a name="further-reference"/> Further Reference
 
 - [Glossary](En-Glossary)

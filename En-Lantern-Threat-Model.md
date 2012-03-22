@@ -28,4 +28,4 @@ to all web sites on the internet, particularly sites that are blocked in
 certain countries or regions. It explicitly **does not to hide your IP address
 from those sites**. If users are performing some task that might put them in
 danger, we encourage the use of tools that devote more resources to protecting
-users' anonymity online, such as [[Tor|http://www.torproject.org]].
+users' anonymity online, such as [Tor](http://www.torproject.org).

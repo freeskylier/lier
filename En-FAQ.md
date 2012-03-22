@@ -1,11 +1,11 @@
 # FAQ
 
-### Is there a risk in running Lantern? <a name="risk" />
+### <a name="risk" /> Is there a risk in running Lantern?
 
 ...
 
 
-### How will running Lantern affect performance on my computer? <a name="performance" />
+### <a name="performance" /> How will running Lantern affect performance on my computer?
 
 Lantern's goal is to be as lightweight and unobtrusive as possible. In [Get
 Mode](En-User-Guide#wiki-get-mode), you shouldn't even notice it's running,
@@ -17,7 +17,7 @@ you're using your computer is currently a [planned
 feature](https://github.com/getlantern/lantern/issues/19).
 
 
-### Is Lantern free? <a name="free">
+### <a name="is-lantern-free"> Is Lantern free?
 
 Lantern is free as in money and as in freedom: free to use, modify, and
 redistribute in accordance with its
@@ -25,10 +25,6 @@ redistribute in accordance with its
 documentation is likewise distributed under a [[free license|LICENSE.txt]].
 
 
-### How can I contribute? <a name="contributing" />
+### <a name="contributing" /> How can I contribute?
 
-(run in give mode, sponsor a cloud proxy, give feedback, ask or answer questions
-in the forums, translate documentation, submit patches, bug reports, and
-feature requests, sponsor development of a feature or bugfix)
-
-See also: [Contributing](En-Contributing)
+Please see the [Contributing](En-Contributing) page.
