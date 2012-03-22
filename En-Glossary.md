@@ -16,9 +16,9 @@ Another user you're connected to on a computer network.
 
 ### <a name="proxy"/> Proxy
 
-An intermediary which forwards traffic between a user requesting content and
-the server that hosts it, often because the user cannot reach the server
-directly due to censorship.
+An [intermediary](#wiki-intermediary) which forwards traffic between a user
+requesting content and the server that hosts it, often because the user cannot
+reach the server directly due to censorship.
 
 ### <a name="system-proxy"/> System Proxy
 
@@ -33,10 +33,15 @@ cafe, etc.) goes here before being forwarded to its destination, or blocked in
 the case of censorship. Traffic bound for your computer likewise has to make it
 past your ISP before it can reach you.
 
-### encryption / decryption - "sent in the clear" vs encrypted
+### <a name="http"/> HTTP
 
-TODO
+The most common protocol used to transfer web pages and their content over
+the internet. Content is sent in the clear (as plaintext), so any
+[intermediary](#wiki-intermediary) could potentially read the content in
+transit. HTTP is therefore not secure. [HTTPS](#wiki-https) is the secure
+counterpart of HTTP.
 
-### http / https
+### <a name="https"/> HTTPS
 
-TODO
+A secure version of [HTTP](#wiki-http). Content is sent encrypted to prevent
+an [intermediary](#wiki-intermediary) from being able to read it in transit.
