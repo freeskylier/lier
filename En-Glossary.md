@@ -3,14 +3,14 @@
 ### Intermediary
 
 An entity on a computer network in between the requester of some content and
-the server which hosts it, e.g. a [[proxy | #Proxy ]] or an [[internet
-service provider | #ISP]].
+the server which hosts it, e.g. a [[proxy|.#Proxy]] or an [[internet
+service provider|.#ISP]].
 
 ### Peer
 
 Another user you're connected to on the Lantern network.
 
-###Proxy
+### Proxy
 
 An intermediary which forwards traffic between a user requesting content and
 the server that hosts it, often because the user cannot reach the server
@@ -21,7 +21,7 @@ directly due to censorship.
 A program which proxies traffic for all programs on a computer which access the
 network.
 
-###ISP
+### ISP
 
 Internet service provider, the organization which connects you to the internet.
 Traffic leaving your computer's local network (in your home, office, internet
