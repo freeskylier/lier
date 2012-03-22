@@ -38,7 +38,7 @@ to be notified when it is available.
 
 ### Giving vs. Getting Access
 
-(Full article: [[En-Give-Mode-and-Get-Mode.md|Give Mode and Get Mode]])
+(Full article: [[Give Mode and Get Mode|En-Give-Mode-and-Get-Mode]])
 
 ### Give Mode
 
