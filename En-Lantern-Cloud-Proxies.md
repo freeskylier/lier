@@ -1,5 +1,4 @@
-Lantern Cloud Proxies
-=====================
+# Lantern Cloud Proxies
 
 If you are a Get Mode user, Lantern accesses the open internet in two ways.
 First, it uses your Lantern peers who are donating their connections to proxy

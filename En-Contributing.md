@@ -1,19 +1,15 @@
-Contributing
-============
+# Contributing
 
-Documentation
--------------
+## Documentation
 
 (info on contributing to the docs here)
 
 
-Translations
-------------
+## Translations
 
 (info on contributing translations here)
 
 
-Code
-----
+## Code
 
 (info on contributing code here)

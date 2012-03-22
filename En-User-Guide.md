@@ -1,8 +1,4 @@
-User Guide
-==========
-
-
-[TOC]
+# User Guide
 
 ## Installation
 
@@ -40,9 +36,9 @@ to be notified when it is available.
 
 ## Running Lantern for the first time
 
-### Giving vs Getting Access
+### Giving vs. Getting Access
 
-...
+(Full article: [[En-Give-Mode-and-Get-Mode.md|Give Mode and Get Mode]])
 
 ### Give Mode
 
@@ -56,7 +52,7 @@ to be notified when it is available.
 
 ...
 
-#### [[System Proxy]]
+#### System Proxy
 
 ...
 
@@ -67,11 +63,11 @@ to be notified when it is available.
 
 ...
 
-### Under the Hood
+### Contact
 
 ...
 
-### Contact
+### Settings
 
 ...
 

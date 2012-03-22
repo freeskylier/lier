@@ -1,5 +1,4 @@
-HTTPS and Anonymous Peers
-=========================
+# HTTPS and Anonymous Peers
 
 When you access a site over HTTPS, you access that site over an encrypted
 connection that prying eyes cannot read. HTTP on the other hand, does not hide
