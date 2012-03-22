@@ -2,12 +2,12 @@
 
 When you select peers you trust using Lantern, you should know what exact
 behavior you're trusting. Lantern treats trusted peers specially. As described
-in [[En-HTTPS-and-Anonymous-Peers|here]], Lantern always tries to send your requests
+in [[here|En-HTTPS-and-Anonymous-Peers]], Lantern always tries to send your requests
 through HTTPS versions of sites where all of your traffic is encrypted. In some
 cases, however, HTTPS versions of web sites don't exist, or Lantern doesn't
 know about them. In those cases, Lantern will send those request to your
-trusted peers and in some cases to [[En-Lantern-Cloud-Proxies|Lantern Cloud
-Proxies]].
+trusted peers and in some cases to [[Lantern Cloud
+Proxies|En-Lantern-Cloud-Proxies]].
 
 Why is this important? HTTP versions of sites are in plain text, so any shrewd
 entity with enough resources can read traffic sent over HTTP. Lantern encrypts

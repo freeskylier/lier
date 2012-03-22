@@ -3,8 +3,8 @@
 ### Intermediary
 
 An entity on a computer network in between the requester of some content and
-the server which hosts it, e.g. a [[#Proxy]] or an [[#ISP|Internet Service
-Provider]].
+the server which hosts it, e.g. a [[./#Proxy]] or an [[Internet Service
+Provider|./#ISP]].
 
 ### Peer
 
