@@ -1,28 +1,35 @@
 # Contributing
 
-(run in give mode, sponsor a cloud proxy, give feedback, ask or answer questions
-in the forums, translate documentation, submit patches, bug reports, and
-feature requests, sponsor development of a feature or bugfix)
-
 You can make a difference simply by running Lantern. Every additional user on
 the network ...
+
+Other ways to contribute:
 
 
 ## Sponsoring
 
 - sponsor a cloud proxy
 - sponsor development of a feature or bugfix
+- (XXX provide flattr button here?)
 
-## Documentation
 
-(info on contributing to the docs here)
+## Feedback
+
+- give feedback publicly in user forums or privately through Lantern itself
+- ask or answer questions in the forums
+- submit bug report or feature request in the issue tracker
 
 
 ## Translations
 
-(info on contributing translations here)
+- (info on contributing translations here)
+
+
+## Documentation
+
+- (info on contributing to documentation here)
 
 
 ## Code
 
-(info on contributing code here)
+- (info on contributing code here)

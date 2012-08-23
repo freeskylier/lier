@@ -1,1 +1,1 @@
-© 2012 The Lantern Developers. [[Some rights reserved|LICENSE.txt]].
+© 2012 Team Lantern. [[Some rights reserved|LICENSE.txt]].

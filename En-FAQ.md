@@ -1,10 +1,5 @@
 # FAQ
 
-### <a name="risk"/> Is there a risk in running Lantern?
-
-...
-
-
 ### <a name="performance"/> How will running Lantern affect performance on my computer?
 
 Lantern's goal is to be as lightweight and unobtrusive as possible. In [Get
