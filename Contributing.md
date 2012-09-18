@@ -35,4 +35,4 @@ Other ways to contribute:
 
 ## Code
 
-- (info on contributing code here)
+- Please see https://github.com/getlantern/lantern/blob/master/CONTRIBUTING.md
