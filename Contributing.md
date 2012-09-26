@@ -33,9 +33,11 @@ Besides running Lantern on your own computer to share an uncensored internet con
 
 Alternatively, if there is some feature or bugfix you'd like to see in the next version of Lantern, you can sponsor its development. Please <a href="mailto:sponsoring@getlantern.org">contact the Lantern developers</a> about either of these options if you would like to inquire further.
 
-You can also just make a 1-click microdonation to the cause in general thanks to Flattr:
+You can also just make a 1-click microdonation to the cause in general using either Flattr or GitTip:
 
 <a href="http://flattr.com/thing/854882/Team-Lantern-on-GitHub" target="_blank">
 <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+
+<a href="https://www.gittip.com/teamlantern/" target="_blank"><img src="http://i.imgur.com/TK0Sn.jpg" /></a>
 
 Thank you for your interest in contributing to Lantern. A vibrant and active community is our reason for existing.
