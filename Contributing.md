@@ -37,7 +37,6 @@ You can also just make a 1-click microdonation to the cause in general using eit
 
 <a href="http://flattr.com/thing/854882/Team-Lantern-on-GitHub" target="_blank">
 <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
-
 <a href="https://www.gittip.com/teamlantern/" target="_blank"><img src="http://i.imgur.com/TK0Sn.jpg" /></a>
 
 Thank you for your interest in contributing to Lantern. A vibrant and active community is our reason for existing.
