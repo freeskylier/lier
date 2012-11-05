@@ -5,29 +5,53 @@ If you have an uncensored internet connection, you can make a difference simply 
 There are also many other ways to contribute to Lantern:
 
 
-## Communication
+## <a name="communication"></a> Communication
 
 The Lantern community should be as open and collaborative as possible. If you have any questions, answers, or feedback that could be useful for the general community, please post in the <a href="https://groups.google.com/forum/#!forum/lantern-users-en">Lantern users forum</a>.
 
 Any sensitive communication can be sent to the Lantern developers securely through the contact form in Lantern itself.
 
 
-## Documentation
+## <a name="documentation"></a> Documentation
 
 This collaboratively-maintained wiki documentation is a work in progress. If you see an area that needs more work and you would like to pitch in, we welcome your help. Just use the "New Page" or "Edit Page" buttons near the top of any wiki page.
 
 
-## Translations
+## <a name="other-languages"></a> Other Languages
 
-If you are a fluent speaker of another language and would like to conduct an official Lantern users forum in another language, or would like to help translate Lantern's UI, web site, or documentation, we would love to hear from you. Please contact us <a href="mailto:i18n@getlantern.org">here</a>.
+If you are a fluent speaker of another language and would like to help
+translate Lantern's web site, documentation, or the application itself, we
+would welcome your participation.
+
+To translate the documentation, simply click "Edit Page" near the top of any
+page, add a section at the bottom for the language you'll be translating into,
+and add your translations there.
+
+For getlantern.org and Lantern itself, we use transifex.com to manage the
+translation process. To help with translating these, please [create an
+account](https://www.transifex.com/signupXXX) and send a request to join a
+translation team for the project you'd like to help translate:
+
+- https://www.transifex.com/projects/p/lantern-ui/
+- https://www.transifex.com/projects/p/getlantern.org/
+
+Lantern's official English-language public user forum is hosted at
+https://groups.google.com/forum/#!forum/lantern-users-en. Official user forums
+for other languages have been set up and linked off there, but may lack
+moderators fluent in those languages. If you would like to become a moderator
+for one of these forums, please email the list managers at the corresponding
+address (e.g. lantern-users-ar@googlegroups.com). If you would like to start
+a users forum in a new language, feel free to create one. You can then post to
+the other forums announcing its availability, and links to the new forum
+can be added in appropriate places.
 
 
-## Development
+## <a name="development"></a> Development
 
-If you are familiar with open source development processes and would like to submit an issue or a patch, that's awesome. Please see our [CONTRIBUTING](https://github.com/getlantern/lantern/blob/master/CONTRIBUTING.md) file and then go right ahead. Community contributors who get really involved will be welcomed as core developers.
+If you are familiar with open source development processes and would like to submit an issue or a patch, that's awesome. Please see our [CONTRIBUTING](https://github.com/getlantern/lantern/blob/master/CONTRIBUTING.md) file for relevant information and then go right ahead. Community contributors who get really involved will be welcomed as core developers.
 
 
-## Sponsoring
+## <a name="sponsoring"></a> Sponsoring
 
 Besides running Lantern on your own computer to share an uncensored internet connection, you can also pledge USD $10/month to sponsor a Lantern cloud proxy, which provides an additional high-capacity internet connection to the network 24 hours a day, even while your computer is off or disconnected.
 
