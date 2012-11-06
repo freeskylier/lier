@@ -1,6 +1,14 @@
 # Contributing
 
-If you have an uncensored internet connection, you can make a difference simply by running Lantern and sharing it with those without one. Every additional user sharing her connection makes the Lantern network work that much better, and that much harder to block for censors.
+If you have an uncensored internet connection, you can make a difference simply
+by running Lantern and sharing it with those without one. Every additional user
+sharing her connection makes the Lantern network work that much better, and
+that much harder to block for censors.
+
+Whether or not you have an uncensored internet connection, you can also help
+by inviting people you trust to join the Lantern network. Lantern relies on
+a large network of users who trust one another to share internet connections,
+so the more trusted connections in the network, the better Lantern will work.
 
 There are also many other ways to contribute to Lantern:
 
