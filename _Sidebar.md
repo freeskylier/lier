@@ -1,6 +1,6 @@
 [[Index|_pages]]
 
-[[FAQ|FAQ]]
+[[Questions and Answers|Questions-and-Answers]]
 
 [[Glossary|Glossary]]
 
