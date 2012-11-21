@@ -1,4 +1,4 @@
-# Lantern Threat Model
+# Threat Model
 
 (work in progress)
 
