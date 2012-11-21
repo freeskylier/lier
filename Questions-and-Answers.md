@@ -1,4 +1,4 @@
-# FAQ
+# Questions and Answers
 
 ### <a name="performance"/> How will running Lantern affect performance on my computer?
 
