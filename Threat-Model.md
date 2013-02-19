@@ -18,7 +18,17 @@ blocking every packet going in and out of the region they control (typically
 country borders) as well as within that region. Adversaries are capable of
 applying sophisticated system-wide rules to standard protocols. We assume these
 DPI tools are capable of identifying all standardized protocols and can be
-taught to identify custom protocols.
+taught to identify custom protocols. Using these tools, adversaries can:
+
+* Block IP addresses of their choosing
+* Block specific DNS lookups
+* Use any unique characteristics of given network connections to block and drop that connection, such as TLS handshakes
+
+In addition, adversaries are assumed to be able to:
+
+* Control their own certificate authorities to issue certificates for any domain
+* Pose as legitimate users on the network in an attempt to learn of as many access points as possible
+
 
 
 ## Limitations of Adversaries
