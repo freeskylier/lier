@@ -29,7 +29,9 @@ In addition, adversaries are assumed to be able to:
 * Control their own certificate authorities to issue certificates for any domain
 * Pose as legitimate users on the network in an attempt to learn of as many access points as possible
 
+We do not protect against the full compromise of users' machines, including the gaining of remote access to those machines through mechanisms such as malware as well as adversaries gaining access to users' machines directly through means such as arresting users.
 
+While we take steps to mitigate the damage of this threat, including encrypting sensitive Lantern files on the local machine and re-generating all TLS keys on every run of Lantern, we do not protect against every form of attack that is possible with a full system compromise.
 
 ## Limitations of Adversaries
 
