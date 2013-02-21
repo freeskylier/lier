@@ -31,7 +31,13 @@ In addition, adversaries are assumed to be able to:
 
 We do not protect against the full compromise of users' machines, including the gaining of remote access to those machines through mechanisms such as malware as well as adversaries gaining access to users' machines directly through means such as arresting users.
 
-While we take steps to mitigate the damage of this threat, including encrypting sensitive Lantern files on the local machine and re-generating all TLS keys on every run of Lantern, we do not protect against every form of attack that is possible with a full system compromise.
+We do take steps to mitigate the damage of this threat, including: 
+
+* Encrypting sensitive Lantern files on the local machine 
+* Re-generating all TLS keys on every run of Lantern
+* Use of ephemeral Diffie-Hellman key exchange to preserve forward secrecy
+
+We do not, however, protect against every form of attack that is possible with a full system compromise.
 
 ## Limitations of Adversaries
 
