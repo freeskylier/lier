@@ -29,6 +29,11 @@ In addition, adversaries are assumed to be able to:
 * Control their own certificate authorities to issue certificates for any domain
 * Pose as legitimate users on the network in an attempt to learn of as many access points as possible
 
+## Limitations of Adversaries
+
+Adversaries are assumed to have limited ability to manipulate traffic on
+individual connections.
+
 We do not protect against the full compromise of users' machines, including the gaining of remote access to those machines through mechanisms such as malware as well as adversaries gaining access to users' machines directly through means such as arresting users.
 
 We do take steps to mitigate the damage of this threat, including: 
@@ -38,12 +43,6 @@ We do take steps to mitigate the damage of this threat, including:
 * Use of ephemeral Diffie-Hellman key exchange to preserve forward secrecy
 
 We do not, however, protect against every form of attack that is possible with a full system compromise.
-
-## Limitations of Adversaries
-
-Adversaries are assumed to have limited ability to manipulate traffic on
-individual connections.
-
 
 ## Goals of Lantern
 
