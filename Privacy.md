@@ -10,7 +10,7 @@ If enabled, we use Google Analytics to store information about your use of Lante
 Lantern uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Lantern. Although Lantern owns the code, databases, and all rights to the Lantern application, you retain all rights to your data.
 
 ## Disclosure
-Lantern may be compelled to disclose information we have collected under special circumstances, such as to comply with subpoenas.
+Lantern may be compelled to disclose information we have collected under special circumstances, such as to comply with subpoenas. Lantern will challenge any requests for information we believe to be unjust and will notify you of any requests for data about you whenever possible.
 
 ## Commitment
 Lantern takes the responsibility of providing internet access very seriously. We have an explicit interest in keeping any personally identifiable information routed through Lantern servers and clients limited, secret, and ephemeral. All Lantern software and infrastructure has been configured with strong security protections and data expungement policies in accordance with that interest. Any human contact with identifiable information is limited to only the core Lantern developers and is strictly incidental to making sure Lantern works.
