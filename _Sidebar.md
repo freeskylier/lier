@@ -5,3 +5,5 @@
 [[Glossary|Glossary]]
 
 [[Contributing|Contributing]]
+
+[[Privacy]]
