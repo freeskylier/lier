@@ -1,7 +1,8 @@
 Debugging the many complex layers of proxying in Lantern can often get confusing. That combined with browser and OS-specific oddities with proxies can be enough to make a developer's head spin! Here are some frequently encountered issues and how to diagnose them -- this list will grow over time.
 
 * Chrome stops using a proxy when it thinks it's bad. Check out chrome://net-internals/proxyservice.config#proxy to see if this is the case and reset it if it is. Lantern can get on the list if you're working on proxying code and break it, for example, or if a CTRL-C bypasses the shutdown handler and results in the unproxy code not getting called, or if the unproxy code does get called but after the Lantern proxy is shut down. You get the idea!
-
+* If you're working on p2p and/or cipher code, you might stumble across something like the following when creating TLS connections between peers (either over reliable UDP or over TCP): **javax.net.ssl.SSLHandshakeException: no cipher suites in common**. This can have a number of causes, but a frequent one is that there's a mismatch between you and the peer you're connecting to in terms of unlimited strength policy files for encryption. In that case, one peer will be using a weaker cipher suite and the other a stronger one, resulting in "no cipher suites in common." The solution is to install the unlimited strength policy files *for the JVM you're actually running with.*
+ 
 ## Lantern-UI
 
 * The Lantern UI is rendered inside a standalone instance of Google Chrome. As such, the Google Chrome developer tools are available and are an essential debugging tool. (See https://developers.google.com/chrome-developer-tools/docs/console for a guide to their usage.)
