@@ -2,6 +2,14 @@ Debugging the many complex layers of proxying in Lantern can often get confusing
 
 * Chrome stops using a proxy when it thinks it's bad. Check out chrome://net-internals/proxyservice.config#proxy to see if this is the case and reset it if it is. Lantern can get on the list if you're working on proxying code and break it, for example, or if a CTRL-C bypasses the shutdown handler and results in the unproxy code not getting called, or if the unproxy code does get called but after the Lantern proxy is shut down. You get the idea!
 * If you're working on p2p and/or cipher code, you might stumble across something like the following when creating TLS connections between peers (either over reliable UDP or over TCP): **javax.net.ssl.SSLHandshakeException: no cipher suites in common**. This can have a number of causes, but a frequent one is that there's a mismatch between you and the peer you're connecting to in terms of unlimited strength policy files for encryption. In that case, one peer will be using a weaker cipher suite and the other a stronger one, resulting in "no cipher suites in common." The solution is to install the unlimited strength policy files *for the JVM you're actually running with.*
+* **PAC FILE DEBUGGING** Running chrome with the following chrome flags allows logging in pac files:
+```
+--enable-logging --v=1
+```
+That'll be logged here:
+```
+http://dev.chromium.org/user-experience/user-data-directory
+```
  
 ## Lantern-UI
 
