@@ -15,8 +15,12 @@ http://dev.chromium.org/user-experience/user-data-directory
 
 * The Lantern UI is rendered inside a standalone instance of Google Chrome. As such, the Google Chrome developer tools are available and are an essential debugging tool. (See https://developers.google.com/chrome-developer-tools/docs/console for a guide to their usage.)
 
-* To enable debug logging to the Javascript console (disabled when running from a release version), set the config.dev flag to true in [app.js](https://github.com/getlantern/lantern-ui/blob/master/app/js/app.js).
+* If this is your first encounter with an AngularJS app, read the [AngularJS Docs](http://docs.angularjs.org/guide/) and associated references so you understand how it works.
 
-* Setting `logLevel: 'debug'` in the cometdSrvc configuration in [services.js](https://github.com/getlantern/lantern-ui/blob/master/app/js/services.js) can also help debug issues with cometd. In dev mode, the model object is published to the `window` global, so you can easily inspect the model from the console. You can also make local changes to the model by modifying fields on `model`.
+* The [AngularJS Batarang](https://github.com/angular/angularjs-batarang) is also very useful.
 
-* The [AngularJS Batarang](https://github.com/angular/angularjs-batarang) can also be extremely useful for debugging Angular apps. And of course, the [AngularJS Docs](http://docs.angularjs.org/guide/) are an essential resource for understanding how AngularJS apps work.
+* The model object is published to the `window` global for easy interactive inspection from the JavaScript console (as well as a `config` object and a `rootScope` object, the scope of the RootCtrl controller). You can also make local changes by modifying fields on `model`. You may have to call `rootScope.$apply()` afterwards to get your changes to take effect, if an Angular digest cycle is not already triggered automatically by an event within the app.
+
+* To enable debug logging to the Javascript console (disabled when running from a release version), set the config.dev flag to true in [app.js](https://github.com/getlantern/lantern-ui/blob/master/app/js/app.js) and then reload the UI. If you've already loaded the UI and would just like debug logging to take effect going forward, set `config.dev = true` in the JavaScript console.
+
+* Setting `logLevel: 'debug'` in the cometdSrvc configuration in [services.js](https://github.com/getlantern/lantern-ui/blob/master/app/js/services.js) can also help debug issues with cometd.
