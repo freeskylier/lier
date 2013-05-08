@@ -29,6 +29,6 @@
 1. Repeat steps 11-12
 1. Restart Lantern
 1. Check your system proxy settings now have Lantern's pac file set
-1. Repeat steps 20-21
+1. Repeat steps 20-21 and then step 24
 1. Go back to Settings and click Reset
 1. Repeat steps 5-12
