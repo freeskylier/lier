@@ -1,4 +1,4 @@
-## Basic Get Mode tests
+## Basic Get Mode test script
 
 1. Make sure Lantern is not running
 1. Open up your system proxy settings and verify that you have no system proxy set. If your OS keeps this window up-to-date with your system proxy settings without your having to close and reopen it (OS X does, Ubuntu doesn't, afaik), keep this window visible while you interact with Lantern in the following steps so you can see exactly if and when Lantern changes the settings.
