@@ -12,7 +12,7 @@ Lantern require's users to login to Google Talk for the following reasons:
 2. It allows Lantern to use Google's XMPP servers to negotiate direct P2P connections between users
 3. Google Talk is also largely unblocked, so it provides a channel through which Lantern can usually communicate
 
-When you login to Google via OAuth, Lantern stores your OAuth refresh token on your local computer in an encrypted form using your operating systems keychain, or an equivalent if your operating system does not support a keychain.
+When you login to Google via OAuth, Lantern stores your OAuth refresh token on your local computer in an encrypted form using your operating system's keychain, or an equivalent if your operating system does not support a keychain.
 
 ### <a name="hackers"/> Will Lantern make my computer vulnerable to hackers?
 Lantern takes a number of precautions to make sure users are safe. First, Lantern does not allow any external computers to access your hard drive. Instead, Lantern simply acts as a conduit for your trusted contacts, relaying their requests to web pages on the open Internet as well as the replies from those web pages. External users have no access to your computer itself. Lantern also requires what's called mutual authentication for all connections, requiring that anyone connecting through you to the open Internet is someone you have a cryptographic key for, so someone who has learned about your computer through either being a trusted contact directly or through one of your trusted contacts. This ensures that random computers out there cannot use your computer as an access point to the open Internet.
