@@ -4,6 +4,10 @@
 
 Lantern uses the following cipher suite for all connections between peers: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA. That is, we use elliptical curve because of its shorter key lengths along with ephemeral Diffie-Hellman key exchange to preserve forward secrecy. We then use AES 256 in CBC block cipher mode instead of stream ciphers such as RC4 due to the greater number of known attacks on RC4. 
 
+### <a name="certificates"/> What about certificates? Isn't Lantern vulnerable to man-in-the-middle attacks, especially with forges signing certificates from compromised certificate authorities?
+
+First, Lantern connects to Google Talk servers over TLS. Lantern embeds the Google Talk signing certificate in its install and only trusts that certificate and a handful of others as trusted certificates, a sort of hard-coded form of certificate pinning. Lantern's connections between peers use self-signed certificates that are exchanged over XMPP through that trusted Google Talk connection. Lantern then only allows connections with those trusted certificates, thwarting any possible man-in-the-middle attack.
+
 ### <a name="google"/> Why does Lantern require a Google login? What happens with the generated OAuth tokens?
 
 Lantern require's users to login to Google Talk for the following reasons:
