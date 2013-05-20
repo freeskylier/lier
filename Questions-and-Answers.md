@@ -10,7 +10,7 @@ First, Lantern connects to Google Talk servers over TLS. Lantern embeds the Goog
 
 ### <a name="google"/> Why does Lantern require a Google login? What happens with the generated OAuth tokens?
 
-Lantern require's users to login to Google Talk for the following reasons:
+Lantern require's users to login to Google for the following reasons:
 
 1. It allows you to easily connect with your existing Google Talk contacts via Lantern in order to bootstrap the trust network
 2. It allows Lantern to use Google's XMPP servers to negotiate direct P2P connections between users
