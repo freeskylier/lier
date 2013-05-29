@@ -16,4 +16,4 @@ You can also build an installer from the current HEAD without releasing (a throw
 ./osxInstall.bash HEAD false
 ```
 
-In that case you would not use release.bash.
+In that case you would **not use release.bash at all**.
