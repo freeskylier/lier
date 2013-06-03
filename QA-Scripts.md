@@ -24,7 +24,6 @@ The test script should still succeed as long as Lantern can reach a fallback pro
 1. Click Settings button (gear icon)
 1. Click Get Access
 1. You should be taken to the Proxied Sites modal. Click Continue (should be "Continue" and not "Close" if setupComplete was correctly set back to false)
-1. You should be taken to the System Proxy modal. Click Continue.
 1. Check your system proxy settings are now configured to use Lantern's PAC file.
 1. Back in Lantern, you should have been taken back to the visualization. Your dot should now be orange. When you hover over it, your details should be the same as before (including IP address).
 1. You should now see a dark green dot corresponding to your fallback proxy. Hover over it and make a note of its IP.
