@@ -1,13 +1,12 @@
 ## Basic Get Mode test script
 
-Before running this script, you can add the following to your /etc/hosts file to simulate Google being blocked:
+The test script should still succeed as long as Lantern can reach a fallback proxy. When we switch to give mode about halfway through the script, you'll enter the following in your /etc/hosts file:
 
 ```
 0.0.0.0 talk.google.com
 0.0.0.0 accounts.google.com
+0.0.0.0 google.com
 ```
-
-The test script should still succeed as long as Lantern can reach a fallback proxy.
 
 1. Make sure Lantern is not running
 1. Open up your system proxy settings and verify that you have no system proxy set. If your OS keeps this window up-to-date with your system proxy settings without your having to close and reopen it (OS X does, Ubuntu doesn't, afaik), keep this window visible while you interact with Lantern in the following steps so you can see exactly if and when Lantern changes the settings.
@@ -21,6 +20,7 @@ The test script should still succeed as long as Lantern can reach a fallback pro
 1. Verify your green dot is in an accurate spot on the map, and when you hover over it all your details (including IP address) are accurate
 1. Visit whatismyip.com in a browser
 1. Verify your public IP is the same as in step 10
+1. **We're now going go switch to get access mode**. Add the google mappings above to your /etc/hosts file to simulate Google being blocked (see beginning)
 1. Click Settings button (gear icon)
 1. Click Get Access
 1. You should be taken to the Proxied Sites modal. Click Continue (should be "Continue" and not "Close" if setupComplete was correctly set back to false)
