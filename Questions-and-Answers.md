@@ -18,6 +18,12 @@ Lantern require's users to login to Google for the following reasons:
 
 When you login to Google via OAuth, Lantern stores your OAuth refresh token on your local computer in an encrypted form using your operating system's keychain, or an equivalent if your operating system does not support a keychain.
 
+### <a name="fallback"/> What if Google Talk is blocked?
+If Google Talk is blocked, Lantern detects it and starts to tunnel access to Google Talk through fallback proxies. Those proxies are also distributed through the Lantern trust network using Kaleidoscope to keep them from being enumerated and blocked. Those proxies are also used in cases where no peers are available.
+
+### <a name="kscope"/> How does Lantern distribute information about proxies?
+Lantern uses an algorithm called Kaleidoscope to distribute information about proxies. More information is available at Lantern's separate Kaleidoscope library implementation [here](https://github.com/getlantern/kaleidoscope). The core idea behind Kaleidoscope is to distribute information through a trust network in a limited manner such that no single actor on the trust network can enumerate all information distributed even if the trust network is compromised.
+
 ### <a name="hackers"/> Will Lantern make my computer vulnerable to hackers?
 Lantern takes a number of precautions to make sure users are safe. First, Lantern does not allow any external computers to access your hard drive. Instead, Lantern simply acts as a conduit for your trusted contacts, relaying their requests to web pages on the open Internet as well as the replies from those web pages. External users have no access to your computer itself. Lantern also requires what's called mutual authentication for all connections, requiring that anyone connecting through you to the open Internet is someone you have a cryptographic key for, so someone who has learned about your computer through either being a trusted contact directly or through one of your trusted contacts. This ensures that random computers out there cannot use your computer as an access point to the open Internet.
 
