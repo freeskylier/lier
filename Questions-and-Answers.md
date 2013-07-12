@@ -38,6 +38,8 @@ at the time, you may not even notice. We plan to intelligently limit the
 resources Lantern consumes while you're using your computer in the future (see
 [#19](https://github.com/getlantern/lantern/issues/19)).
 
+### <a name="udp"/> How does Lantern use reliable UDP?
+Lantern makes use of UDP to cross NATs and firewall. We then use those NAT/firewall traversed connections to send [UDT](http://udt.sourceforge.net/) data. Lantern runs true TLS directly on top of that UDT layer.
 
 ### <a name="is-lantern-free"/> Is Lantern free?
 
