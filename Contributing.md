@@ -48,7 +48,7 @@ translation process. To help with translating these, please [create an
 account](https://www.transifex.com/signin/) and send a request to join a
 translation team for the project you'd like to help translate:
 
-- https://www.transifex.com/projects/p/lantern-ui/
+- https://www.transifex.com/projects/p/lantern/
 - https://www.transifex.com/projects/p/getlantern.org/
 
 Lantern's official English-language public user forum is hosted at
