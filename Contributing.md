@@ -18,7 +18,7 @@ There are also many other ways to contribute to Lantern:
 The Lantern community should be as open and collaborative as possible. If you
 have any questions, answers, or feedback that could be useful for the general
 community, please post in the <a
-href="https://groups.google.com/forum/#!forum/lantern-users-en">Lantern users
+href="https://groups.google.com/group/lantern-users-en">Lantern users
 forum</a>.
 
 Any sensitive communication can be sent to the Lantern developers securely
@@ -61,12 +61,9 @@ account](https://www.transifex.com/signin/) and send a request to join a
 translation team on our project page: https://www.transifex.com/projects/p/lantern/.
 
 Lantern's official English-language public user forum is hosted at
-https://groups.google.com/group/lantern-users-en. Some official user forums
-for other languages have been set up and linked off there, but may lack
-moderators fluent in those languages. If you would like to become a moderator
-for one of these forums or to start an official user forum in a new language,
-please send us a note on the [lantern-i18n mailing
-list](https://groups.google.com/group/lantern-i18n).
+https://groups.google.com/group/lantern-users-en. If you would like to start an
+official user forum in a new language, please send us a note on the
+[lantern-i18n mailing list](https://groups.google.com/group/lantern-i18n).
 
 
 ## <a name="development"></a> Development
