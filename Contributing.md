@@ -70,6 +70,8 @@ submit an issue or a patch, that's awesome. Please see our
 file for relevant information and then go right ahead. Community contributors
 who get really involved will be welcomed as core developers.
 
+You can also check us out on CodeTriage: http://www.codetriage.com/getlantern/lantern
+
 
 ## <a name="sponsoring"></a> Sponsoring
 
