@@ -1,3 +1,7 @@
+### <a name="know"/> I live in an uncensored region and don't know anyone in a censored region. Can I still help?
+Definitely! People in censored regions can still learn about you through your friends. So while you don't know anyone directly living in censored regions, your friends might, and they'll relay your information to their trusted friends in censored regions. **That's why it's really important to invite your friends to Lantern.** It maximizes the likelihood that your social network will reach into censored regions so you can actually help!
+
+
 ### <a name="whattodo"/> OK, I've installed Lantern. Now what?
 For users in uncensored regions, there are two basic things you can do once you've installed Lantern:
 
