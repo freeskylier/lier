@@ -5,3 +5,4 @@ Please choose a language:
 - [English](Welcome)
 - [Español](Bienvenido)
 - [Português](Bem-vindo)
+- [中文](欢迎)
