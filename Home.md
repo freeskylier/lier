@@ -2,7 +2,7 @@
 
 Please choose a language:
 
-- [English](Welcome)
-- [Español](Bienvenido)
-- [Português](Bem-vindo)
-- [中文](欢迎)
+- [English](wiki/Welcome)
+- [Español](wiki/Bienvenido)
+- [Português](wiki/Bem-vindo)
+- [中文](wiki/欢迎)
