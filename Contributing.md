@@ -1,4 +1,4 @@
-## Use Lantern
+### Use Lantern
 
 If you have an uncensored internet connection, you can make a difference simply
 by running Lantern and sharing it with those without one. Every additional user
@@ -13,7 +13,7 @@ so the more trusted connections in the network, the better Lantern will work.
 There are also many other ways to contribute to Lantern:
 
 
-## <a name="communication"></a> Communication
+### <a name="communication"></a> Communication
 
 The Lantern community should be as open and collaborative as possible. If you
 have any questions, answers, or feedback that could be useful for the general
@@ -29,7 +29,7 @@ on irc.freenode.net. An easy way to join is to go to
 http://webchat.freenode.net/?channels=lantern and complete the form to connect.
 
 
-## <a name="documentation"></a> Documentation
+### <a name="documentation"></a> Documentation
 
 This collaboratively-maintained wiki documentation is a work in progress. If
 you see an area that needs more work and you would like to pitch in, we welcome
@@ -39,7 +39,7 @@ Then to edit just use the "New Page" or "Edit Page" buttons near the top of any
 wiki page.
 
 
-## <a name="other-languages"></a> Other Languages
+### <a name="other-languages"></a> Other Languages
 
 If you are a fluent speaker of another language and would like to help
 translate Lantern's web site, documentation, or the application itself, we
@@ -68,7 +68,7 @@ official user forum in a new language, please send us a note on the
 [lantern-i18n mailing list](https://groups.google.com/group/lantern-i18n).
 
 
-## <a name="development"></a> Development
+### <a name="development"></a> Development
 
 If you are familiar with open source development processes and would like to
 submit an issue or a patch, that's awesome. Please see our
@@ -80,7 +80,7 @@ You can also sign up to help us triage issues on CodeTriage:
 http://www.codetriage.com/getlantern/lantern
 
 
-## <a name="sponsoring"></a> Sponsoring
+### <a name="sponsoring"></a> Sponsoring
 
 Besides running Lantern on your own computer to share an uncensored internet
 connection, you can also pledge a one-time or monthly donation to sponsor a Lantern cloud proxy,
