@@ -1,4 +1,4 @@
-[[Index|_pages]]
+[[Welcome]]
 
 [[Setup]]
 
@@ -9,3 +9,5 @@
 [[Contributing|Contributing]]
 
 [[Privacy]]
+
+[[Index|_pages]]
