@@ -18,8 +18,15 @@ After you enter your information you will be prompted to authorize Lantern to se
 
 ### Configuring your sites
 
-If you chose Get see the page on [[Proxied Sites Configuration]]. Users Giving access will not see this step. Though you are welcome to switch modes to experience what Lantern would be like for a user Getting access.
+If you chose Get see the page on [[Proxied Sites Configuration]]. Note that the proxied sites configuration page can be reached at any time by Get users by clicking on the globe icon in the lower right.
+
+Users Giving access will not see this step. Though you are welcome to switch modes to experience what Lantern would be like for a user Getting access. 
 
 ### Adding Friends
 
 Adding friends is the most important thing you can do to help others connect to the open internet (add more here...)
+
+### Using Lantern
+
+Now you should be all set up! Now you can start [[Using Lantern]].
+
