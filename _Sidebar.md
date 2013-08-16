@@ -1,8 +1,10 @@
 [[Index|_pages]]
 
-[[Questions and Answers|Questions-and-Answers]]
+[[Setup]]
 
-[[Glossary|Glossary]]
+[[Installation]]
+
+[[Questions and Answers|Questions-and-Answers]]
 
 [[Contributing|Contributing]]
 
