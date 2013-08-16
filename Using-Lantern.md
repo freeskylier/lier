@@ -14,7 +14,7 @@ If you are not able to access you might try to invite more friends in uncensored
 
 You can explore the map of the Lantern network. The bottom of the screen shows the global statistics for everyone on the network - how many users are online now, have ever been online, and the total bandwidth transferred (currently broken). If you mouse over a country it will show you similar statistics for that country. You can also mouse over your own user and the users you're connecting to, as dots on the map.
 
-#### Adding Friends <a name="adding-friends"/>
+#### Adding Friends
 
 Building your Lantern network by adding friends is the main task for users Giving Access from open countries. Adding others in uncensored countries is key for expanding the network. And any friend in a censored country that you add to your roster will instantly benefit from your connection and those of your other friends.
 
