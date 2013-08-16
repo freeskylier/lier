@@ -19,3 +19,11 @@ Lantern is free as in money and as in freedom: free to use, modify, and
 redistribute in accordance with its
 [license](https://raw.github.com/getlantern/lantern/master/LICENSE). This
 documentation is likewise distributed under a [[free license|LICENSE.txt]].
+
+### <a name="contributing"/> How can I contribute?
+
+Please see the [[Contributing]] page.
+
+### <a name="more"/> I have more questions, where do I go?
+
+If you have more technical questions see the [Developers Q&A](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers) page. If you still have more questions then ask on the [Lantern Forum](https://groups.google.com/forum/#!forum/lantern-users-en).
