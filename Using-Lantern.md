@@ -30,7 +30,7 @@ This brings up the 'Lantern Friends' screen. You can enter the email address of 
 
 Right now there is unfortunately no feedback as to whether your invite went out or the friend successfully got online with Lantern. Adding someone will instantly put them on your list of friends, and a request goes to a moderation queue, which lets the Lantern team make sure the network doesn't break because too many users join at once. When the user successfully installs and sets up Lantern they will automatically be on your network.
 
-We are working to improve the friending experience. If you have problems don't hesitate to get in touch through the [forum|https://groups.google.com/forum/#!forum/lantern-users-en]. And we also welcome feedback on how to make it better.
+We are working to improve the friending experience. If you have problems don't hesitate to get in touch through the [forum](https://groups.google.com/forum/#!forum/lantern-users-en). And we also welcome feedback on how to make it better.
 
 Removing people from your friend list will make it so they can not access your connection to the internet and vice versa.
 
