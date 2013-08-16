@@ -1,4 +1,4 @@
-# Contributing
+## Use Lantern
 
 If you have an uncensored internet connection, you can make a difference simply
 by running Lantern and sharing it with those without one. Every additional user
