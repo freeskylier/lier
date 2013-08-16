@@ -33,7 +33,9 @@ http://webchat.freenode.net/?channels=lantern and complete the form to connect.
 
 This collaboratively-maintained wiki documentation is a work in progress. If
 you see an area that needs more work and you would like to pitch in, we welcome
-your help. Just use the "New Page" or "Edit Page" buttons near the top of any
+your help. Right now you needed to be added to the Documentation Team to edit, 
+just let us know of your interest on the [forum](https://groups.google.com/forum/#!forum/lantern-users-en). 
+Then to edit just use the "New Page" or "Edit Page" buttons near the top of any
 wiki page.
 
 
