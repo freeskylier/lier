@@ -28,5 +28,8 @@ Adding friends is the most important thing you can do to help others connect to 
 
 ### Using Lantern
 
-Now you should be all set up! Now you can start [[Using Lantern]].
+Now you should be all set up! You should see something like:
 
+(screenshot of lantern dashboard)
+
+As long as it doesn't say 'Your internet connection appears to be offline.' in yellow at the bottom you should be good to go. Now you can start [[Using Lantern]].
