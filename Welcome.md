@@ -4,10 +4,6 @@ Thanks for checking out Lantern. We're still in 'beta' mode, so please don't hes
 
 For common questions see [[Questions and Answers]]. We'll be expanding it as we get more questions on the forum. You also may be interested in how Lantern approaches [[Privacy]].
 
-To get Lantern set up see:
+To get started with Lantern see [[Installation]].
 
-* [[Installation: Linux]]
-* [[Installation: Windows]]
-* [[Installation: Mac]]
-
-Or if you're already installed jump straight to [[Setup]].
+Or if you've already got it installed jump straight to [[Setup]].
