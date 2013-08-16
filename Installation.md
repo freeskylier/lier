@@ -9,3 +9,5 @@ Once you get invited you will receive an email with links to the downloaders. Pi
 * [[Installation: Linux]]
 * [[Installation: Windows]]
 * [[Installation: Mac]]
+
+All three platforms have nice installers, so if you've already downloaded and got Lantern started you can jump straight to [[Setup]].
