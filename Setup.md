@@ -24,7 +24,7 @@ Users Giving access will not see this step. Though you are welcome to switch mod
 
 ### Adding Friends
 
-Adding friends is the most important thing you can do to help others connect to the open internet (add more here...)
+Adding friends is one of the easiest things you can do to [[contribute|Contributing]] to Lantern. You can do this at any time after you're set up, with the same dialog you see in setup. See the [[Adding Friends|Using-Lantern#adding-friends]] section of the 'Using Lantern' page for more.
 
 ### Using Lantern
 
