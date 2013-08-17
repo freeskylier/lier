@@ -34,6 +34,8 @@ We encourage you to just leave Lantern running in the background, so it can be h
 
 If you close the window a lantern icon will still stay in your menubar. To stop it entirely click on the lantern icon and select 'Quit Lantern'.
 
+![quit lantern](https://www.evernote.com/shard/s209/sh/9308b039-b326-4160-b7d1-4f6f15c210a7/41fe4b0ebde601cb9ffd5d0ceb09a8c8/deep/0/Screen%20Shot%202013-08-16%20at%208.07.29%20PM.png)
+
 ### Uninstallation
 
 To fully uninstall Lantern you must move the Lantern icon in the Applications folder to the Trash. You must stop Lantern before doing this. Doing this will also uninstall Lantern's Java Runtime Environment. You can also delete the '''.lantern/''' directory in your home directory. Doing this will prompt you for [[Setup]] if you ever reinstall lantern. If you leave it then Lantern will start working with your existing setup.
