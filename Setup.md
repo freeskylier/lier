@@ -6,9 +6,9 @@ The first is if you want to 'give' or 'get' access.
 
 ![give/get](https://www.evernote.com/shard/s209/sh/72480b8b-2259-4eef-836b-1982a800bc31/71a941bce6482c90d2d66dcf21db57a8/deep/0/Lantern.png)
 
-**'Give'** is for users in uncensored countries who want to share their internet connection. This turns their computer in to a proxy that their trusted Lantern friends can use for free to access the open internet. Lantern runs in the background, and we encourage you to leave it on whenever you can, so your friends can always use your connection.
+**'Give Access'** is for users in uncensored countries who want to share their internet connection. This turns their computer in to a proxy that their trusted Lantern friends can use for free to access the open internet. Lantern runs in the background, and we encourage you to leave it on whenever you can, so your friends can always use your connection.
 
-**'Get'** is for users in censored countries who want access to the internet. Lantern uses a 'peer-to-peer' approach to stream internet access from all your trusted Lantern friends at once. So the more Lantern friends in other countries that you add the better your connection will be.
+**'Get Access'** is for users in censored countries who want access to the internet. Lantern uses a 'peer-to-peer' approach to stream internet access from all your trusted Lantern friends at once. So the more Lantern friends in other countries that you add the better your connection will be.
 
 ### Signing in to Google
 
@@ -32,6 +32,6 @@ Adding friends is one of the easiest things you can do to [[contribute|Contribut
 
 Now you should be all set up! You should see something like:
 
-[dashboard](https://www.evernote.com/shard/s209/sh/cd36738e-f945-4152-88f6-f9a99c28c7e8/6ab833d3c39326a9e0eb466c925c8611/deep/0/Lantern.png)
+![dashboard](https://www.evernote.com/shard/s209/sh/cd36738e-f945-4152-88f6-f9a99c28c7e8/6ab833d3c39326a9e0eb466c925c8611/deep/0/Lantern.png)
 
 As long as it doesn't say 'Your internet connection appears to be offline.' in yellow at the bottom you should be good to go. Now you can start [[Using Lantern]].
