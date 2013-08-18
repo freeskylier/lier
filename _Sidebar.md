@@ -1,8 +1,8 @@
 [[Welcome]]
 
-[[Setup]]
-
 [[Installation]]
+
+[[Setup]]
 
 [[Questions and Answers|Questions-and-Answers]]
 
