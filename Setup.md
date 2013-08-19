@@ -2,7 +2,7 @@ When you first run Lantern you will be asked a series of questions.
 
 ### Give or Get access
 
-The first is if you want to 'give' or 'get' access.
+The first question is if you want to 'give' or 'get' access.
 
 ![give/get](https://www.evernote.com/shard/s209/sh/72480b8b-2259-4eef-836b-1982a800bc31/71a941bce6482c90d2d66dcf21db57a8/deep/0/Lantern.png)
 
@@ -14,9 +14,15 @@ The first is if you want to 'give' or 'get' access.
 
 The next step is to sign in to your Google account. Lantern leverages your existing Google contacts to build up its social network.
 
+![google prompt](https://www.evernote.com/shard/s209/sh/4d31dfce-7bab-4522-811a-51b380cafcdc/a673fb7fd2be64df8ca5b58828606d1f/deep/0/Lantern.png)
+
 The sign-in page is served directly from Google. Your password goes straight to Google's servers, Lantern never stores or even sees the password. 
 
-After you enter your information you will be prompted to authorize Lantern to see your contacts, so that it can build its network from them. Hit authorize, or Lantern will not work properly.
+![google signin](https://www.evernote.com/shard/s209/sh/e7bcf743-984e-45ac-b525-b7f4517cf341/7c4a237f1aa7cb1bf6fb245d76f4a49b/deep/0/Lantern.png)
+
+After you enter your information you will be prompted to authorize Lantern to view your email and basic information, and to view and send chat messages. Lantern asks about chat messages because it uses Google's chat communication channels to bootstrap its network. Hit authorize, or Lantern will not work properly.
+
+![authorize](https://www.evernote.com/shard/s209/sh/bd03de45-d5ac-4cc3-93da-62f24d527687/3bb1691886c46b3f30bc832f2211cdd7/deep/0/Lantern.png)
 
 ### Configuring your sites
 
