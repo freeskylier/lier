@@ -4,6 +4,8 @@
 
 [[Setup]]
 
+[[Using|Using Lantern]]
+
 [[Questions and Answers|Questions-and-Answers]]
 
 [[Contributing|Contributing]]
