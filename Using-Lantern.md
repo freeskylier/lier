@@ -4,7 +4,7 @@ After you've gotten [[Setup]] you're ready to start using Lantern.
 
 To use Lantern simply open your favorite browser and go to a site that is on your [[Proxy Site List|Proxied Sites Configuration]] that you know is blocked. Any browser should work, as your computer itself is set up with the proxy.
 
-If you are not able to access you might try to invite more friends in uncensored countries who would share their connection with you, or sponsor a [[cloud server|Lantern Cloud Server]] to help the lantern network. 
+If you are not able to access you might try to invite more friends in uncensored countries who would share their connection with you, or sponsor a [[cloud server|Lantern Cloud Servers]] to help the lantern network. 
 
 ### All Users
 
