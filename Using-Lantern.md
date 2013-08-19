@@ -1,12 +1,27 @@
 After you've gotten [[Setup]] you're ready to start using Lantern. 
 
-### Users Getting Access
+### Users **Getting Access**
 
-If you are in a censored region and have installed Lantern, simply open your favorite browser and navigate to any blocked site. Any browser should work, as your computer itself is set up with the proxy. If it's not working then check that the site you want is on your [[Proxy Site List|Proxied Sites Configuration]], and add it there if it's not on the list. 
+If you are in a censored region and have installed Lantern, simply open your favorite browser and navigate to any blocked site. Any browser should work, as Lantern configures itself to handle any connection from your computer.
+
+![working lantern](https://www.evernote.com/shard/s209/sh/ebdd003b-5c06-430f-a239-ea4a28c444cf/3f6d143232be6ffe1b1d0edcc5cf309d/deep/0/Fullscreen%208/18/13%209:00%20PM.png)
+
+While your browsing is connecting Lantern reports on the activity. On the map there will be a line between your computer and the computers of your friends (or the fallback [[cloud server|Lantern Cloud Servers]]). Also in the upper right hand corner of Lantern it shows the active bandwidth going up and down - this will be changing as you browse.
+
+If it's not working then check that the site you want is on your [[Proxy Site List|Proxied Sites Configuration]], and add it there if it's not on the list. 
 
 If you are not able to access you might try to invite more friends in uncensored countries who would share their connection with you, or sponsor a [[cloud server|Lantern Cloud Servers]] to help the lantern network. If things still aren't working head to the [[forum|https://groups.google.com/forum/#!forum/lantern-users-en]] and you can get assistance there.
 
+### Users **Giving Access**
+
+Users who are giving access often will not have immediate connections. If you want to make sure that Lantern is working you can try out **Get Access** mode.
+
+![getting access](https://www.evernote.com/shard/s209/sh/e1e59fee-9976-47c0-a9b9-856c4888c521/f34171fc3725a47efb0cdbfd3f163b2a/deep/0/Lantern%20and%20Freedom%20House.png)
+
+Just go to 'settings' and change the mode 'getting access', and try the steps above.
+
 ### All Users
+
 
 #### Exploring the Lantern Network
 
