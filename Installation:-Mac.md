@@ -24,7 +24,7 @@ Next you will get a prompt about 'install4g'. Install4g is a program we use to m
 
 This should extract files and then startup your lantern instance.
 
-(screenshot of lantern at start up page)
+![lantern default](https://www.evernote.com/shard/s209/sh/57a422d3-27f1-4b45-b05c-09b87636ab23/8b8d1d84c456798cd0f3e045590dc3e7/deep/0/Lantern.png)
 
 If you see this screen you're all set. Proceed to [[Setup]].
 
