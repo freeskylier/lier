@@ -1,6 +1,6 @@
 ### Supported Versions
 
-Lantern supports OS/X version 10.6 and higher.
+Lantern supports OS/X version 10.6 and higher, 64-bit only.
 
 ### Installation
 
