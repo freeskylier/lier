@@ -45,27 +45,7 @@ If you are a fluent speaker of another language and would like to help
 translate Lantern's web site, documentation, or the application itself, we
 would welcome your participation.
 
-We have a mailing list for coordinating localization ("l10n") /
-internationalization ("i18n") of Lantern at
-https://groups.google.com/group/lantern-i18n. If you might like to get
-involved, please feel free to introduce yourself on this list.
-
-If you would like to help translate the documentation in this wiki, please
-send us a note asking to be added to our GitHub Translators team. Once you're
-added, simply click "Edit Page" at the top of any page. In the edit form that
-you're taken to, copy the content in English, add a new section below for the
-language you'd like to translate into, paste the English under that section,
-and then translate it in place into the new language.
-
-For getlantern.org and Lantern itself, we use transifex.com to manage the
-translation process. To help with translating these, please [create an
-account](https://www.transifex.com/signin/) and send a request to join a
-translation team on our project page: https://www.transifex.com/projects/p/lantern/.
-
-Lantern's official English-language public user forum is hosted at
-https://groups.google.com/group/lantern-users-en. If you would like to start an
-official user forum in a new language, please send us a note on the
-[lantern-i18n mailing list](https://groups.google.com/group/lantern-i18n).
+See [[Translating Lantern]] for more information.
 
 
 ### <a name="development"></a> Development
