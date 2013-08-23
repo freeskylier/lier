@@ -12,7 +12,7 @@ The two easiest and most important things to translate are Lantern itself and ca
 
 ![lantern on transifex](https://www.evernote.com/shard/s209/sh/d2b67dcd-c1c0-420c-87e5-0f374b0b714d/a1aa1697af0dc827888cc81559bc1780/deep/0/Lantern%20localization.png)
 
-If you're not already a Transifex user you can easily [signup](https://www.transifex.com/signup/). It's totally free for any translator, and they generously provide their full toolset to open source projects like Lantern. Their tools are quite intuitive to use, and they provide a nice [overview](http://support.transifex.com/customer/portal/articles/972120-introduction-to-the-web-editor).
+If you're not already a Transifex user you can easily [sign up](https://www.transifex.com/signup/). It's totally free for any translator, and they generously provide their full toolset to open source projects like Lantern. Their tools are quite intuitive to use, and they provide a nice [overview](http://support.transifex.com/customer/portal/articles/972120-introduction-to-the-web-editor).
 
 The [Lantern Project](https://www.transifex.com/projects/p/lantern/) on transifex lists the status of all the languages. To translate just select your language and get started. If your language is not list there then just hit 'Request Language' and the admins will get it created.
 
@@ -26,7 +26,7 @@ Hit 'join team' to get started, and the admins should approve you quickly. Then 
 
 **Lantern Video Captions** is probably the easiest, with only 224 words. It's a great way to get started, and has a big impact as we can more easily communicate what lantern is. Your translated words will show up as Captions in the [Lantern Video](https://www.youtube.com/watch?v=aiPkCugE-RY). Notify the [internationalization forum](https://groups.google.com/group/lantern-i18n) when you reach 100%, so someone can update the captions. Unlike the UI it won't get pulled in automatically.
 
-**www** is the website at http://getlantern.org  We have not yet fully set it up to easily change languages, but it is coming soon, so translations are very much appreciated.
+**www** is the website at [https://www.getlantern.org](https://www.getlantern.org). We have not yet fully set it up to easily change languages, but it is coming soon, so translations are very much appreciated.
 
 #### Start a forum for your language
 
