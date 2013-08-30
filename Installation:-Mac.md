@@ -6,7 +6,7 @@ Lantern supports OS/X version 10.6 and higher, 64-bit only.
 
 ![download lantern](https://www.evernote.com/shard/s209/sh/8f36ed28-7670-4213-8a2f-e971a8de59ca/88a3b4388faf0766d3a3521a874e1f01/deep/0/Lantern%20Invitation%20-%20cholmes@cartodb.com%20-%20CartoDB%20Mail.png)
 
-Download Lantern from your invite email. This should download a file called lantern-net-installer_mac_os_0_0_1.dmg. This will be relatively small - approximately 1.5mb - as it fetches more needed files from the internet.
+Download Lantern from your invite email. This should download a file called `lantern-net-installer_mac_os_0_0_1.dmg`. This will be relatively small - approximately 1.5mb - as it fetches more needed files from the internet.
 
 ![install](https://www.evernote.com/shard/s209/sh/6b406cb3-6270-4117-ba61-d6a8e3281728/a04236b62b8daf0096ad2f6670c46696/deep/0/Menubar%20and%20lantern-net-inst%202%20and%20Applications.png)
 
@@ -14,7 +14,10 @@ Double-click on the .dmg file, and then double-click on the 'Lantern Installer' 
 
 ![downloading](https://www.evernote.com/shard/s209/sh/b39a5f0d-4aa9-4518-8a26-fd0a86de8737/9d3090f5eab319830f4510bc13bba90e/deep/0/Lantern%20Fetcher.png)
 
-This will do several things. It will detect if you have Java, and if not it will download the Java Runtime Environment from the web. Then it will download the latest Lantern code, to make sure your installation is totally up to date. If you are on a slow connection the download step may take a bit of time.
+If you click on the .dmg and nothing happens the most likely problem is you are not an admin user.
+As of beta2 this will _**not**_ work if you are not running as an admin user. We are [working](https://github.com/getlantern/lantern/issues/819) on getting it to prompt for the admin password instead of just failing. 
+
+As long as you are an admin user clicking on the .dmg will do several things. It will detect if you have Java, and if not it will download the Java Runtime Environment from the web. Then it will download the latest Lantern code, to make sure your installation is totally up to date. If you are on a slow connection the download step may take a bit of time.
 
 ![install4j](https://www.evernote.com/shard/s209/sh/c92df454-472a-4ce1-a578-fc06843802d7/04fd633f4deb9fbeecc44562dff2ea78/deep/0/Screenshot%208/16/13%207:52%20PM.png)
 
