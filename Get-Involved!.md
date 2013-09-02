@@ -8,7 +8,7 @@ Lantern is currently in private beta, but we are [accepting applications](https:
  for 'Ambassadors' - early testers who are excited to get involved. If you're interested in 
 one or more of the tasks below please mention it in your application. We
 are particularly interested in people with trusted contacts in both censored and uncensored
-countries as well as translators.
+countries. But a willingness to dive in to any of the tasks below is all you really need.
 
 ### <a name="use-lantern"></a>Use and Spread Lantern
 
