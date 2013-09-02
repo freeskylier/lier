@@ -8,7 +8,7 @@
 
 [[Questions and Answers|Questions-and-Answers]]
 
-[[Contributing|Contributing]]
+[[Get Involved!]]
 
 [[Privacy]]
 
