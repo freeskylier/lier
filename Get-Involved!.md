@@ -10,7 +10,7 @@ tasks below please mention it in your [questionnaire response](https://docs.goog
 are particularly interested in people with trusted contacts in both censored and uncensored
 countries.
 
-### <a name="use-lantern">Use and Spread Lantern
+### <a name="use-lantern"></a>Use and Spread Lantern
 
 If you have an uncensored internet connection, you can make a difference simply
 by keeping Lantern running. Every additional user sharing her connection makes 
@@ -77,6 +77,9 @@ just let us know of your interest on the [forum](https://groups.google.com/forum
 Then to edit just use the "New Page" or "Edit Page" buttons near the top of any
 wiki page.
 
+### <a name="development"></a> Development
+
+If you are a developer and are interested in helping build Lantern see the [[Contributing]] page.
 
 ### <a name="sponsoring"></a> Sponsoring
 
