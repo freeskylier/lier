@@ -52,7 +52,7 @@ For the early beta releases we have noticed that not everyone added in the
 friends list gets invitations sent to our moderation queue. Fixing this
 is our top priority. In the meantime we believe the best thing to do is
 invite no more than 20 friends. If you are interested in helping us test
-this problem please get in touch on the [forum](https://groups.google.com/forum/#!forum/lantern-users-en)
+this problem please get in touch on the user forum.
 
 ```
 
