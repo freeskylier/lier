@@ -4,11 +4,11 @@ And most of the tasks we need help on require no programming knowledge. Develope
 are of course more than welcome, but this page is for everyone else to find a way to
 help make Lantern great.
 
-Lantern is currently in private beta, but we are accepting applications for 'Ambassadors' - 
-early testers who are excited to get involved. If you're interested in one or more of the
-tasks below please mention it in your [questionnaire response](https://docs.google.com/forms/d/11LiZoCMptcc_lj4b01It9n64gngaDPU53_ge3mhiaIM/viewform). We
+Lantern is currently in private beta, but we are [accepting applications](https://docs.google.com/forms/d/11LiZoCMptcc_lj4b01It9n64gngaDPU53_ge3mhiaIM/viewform)
+ for 'Ambassadors' - early testers who are excited to get involved. If you're interested in 
+one or more of the tasks below please mention it in your application. We
 are particularly interested in people with trusted contacts in both censored and uncensored
-countries.
+countries as well as translators.
 
 ### <a name="use-lantern"></a>Use and Spread Lantern
 
