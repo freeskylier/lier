@@ -49,7 +49,7 @@ in 'get'), and what version of Lantern you're running.
 The above is 1.0.0-beta2, you should see some number there.
 
 
-### <a name="other-languages"></a> Other Languages
+### <a name="other-languages"></a> Translate Lantern
 
 If you are a fluent speaker of another language and would like to help
 translate Lantern's web site, documentation, or the application itself, we
@@ -57,7 +57,7 @@ would welcome your participation.
 
 See [[Translating Lantern]] for more information.
 
-### Promoting Lantern
+### Promote Lantern
 
 We also welcome people who are interested in helping spread the word about Lantern. We
 are mostly software developers, but unlike most developers our software will only work
@@ -68,7 +68,7 @@ And no idea is too big or too small. For right now just introduce yourself on th
 forum](https://groups.google.com/group/lantern-users-en). If we get enough people there 
 we will start a dedicated forum.
 
-### <a name="documentation"></a> Documentation
+### <a name="documentation"></a> Help with documentation
 
 This collaboratively-maintained wiki documentation is a work in progress. If
 you see an area that needs more work and you would like to pitch in, we welcome
@@ -77,11 +77,11 @@ just let us know of your interest on the [forum](https://groups.google.com/forum
 Then to edit just use the "New Page" or "Edit Page" buttons near the top of any
 wiki page.
 
-### <a name="development"></a> Development
+### <a name="development"></a> Develop 
 
 If you are a developer and are interested in helping build Lantern see the [[Contributing]] page.
 
-### <a name="sponsoring"></a> Sponsoring
+### <a name="sponsoring"></a> Sponsor
 
 Besides running Lantern on your own computer to share an uncensored internet
 connection, you can also pledge a one-time or monthly donation to sponsor a Lantern cloud proxy,
