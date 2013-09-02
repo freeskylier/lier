@@ -1,85 +1,35 @@
-### Use Lantern
-
-If you have an uncensored internet connection, you can make a difference simply
-by running Lantern and sharing it with those without one. Every additional user
-sharing her connection makes the Lantern network work that much better, and
-that much harder to block for censors.
-
-Whether or not you have an uncensored internet connection, you can also help
-by inviting people you trust to join the Lantern network. Lantern relies on
-a large network of users who trust one another to share internet connections,
-so the more trusted connections in the network, the better Lantern will work.
-
-There are also many other ways to contribute to Lantern:
-
-
-### <a name="communication"></a> Communication
-
-The Lantern community should be as open and collaborative as possible. If you
-have any questions, answers, or feedback that could be useful for the general
-community, please post in the <a
-href="https://groups.google.com/group/lantern-users-en">Lantern users
-forum</a>.
-
-Any sensitive communication can be sent to the Lantern developers securely
-through the contact form in Lantern itself.
-
-You can also often find members of the Lantern team in the #lantern chat room
-on irc.freenode.net. An easy way to join is to go to
-http://webchat.freenode.net/?channels=lantern and complete the form to connect.
-
-
-### <a name="documentation"></a> Documentation
-
-This collaboratively-maintained wiki documentation is a work in progress. If
-you see an area that needs more work and you would like to pitch in, we welcome
-your help. Right now you needed to be added to the Documentation Team to edit, 
-just let us know of your interest on the [forum](https://groups.google.com/forum/#!forum/lantern-users-en). 
-Then to edit just use the "New Page" or "Edit Page" buttons near the top of any
-wiki page.
-
-
-### <a name="other-languages"></a> Other Languages
-
-If you are a fluent speaker of another language and would like to help
-translate Lantern's web site, documentation, or the application itself, we
-would welcome your participation.
-
-See [[Translating Lantern]] for more information.
-
+This page is now focused on software development. If you are not a software developer there
+are many ways to help out, see our [['Get Involved' page|Get Involved!]].
 
 ### <a name="development"></a> Development
 
-If you are familiar with open source development processes and would like to
-submit an issue or a patch, that's awesome. Please see our
+While Lantern is currently a small group of core developers our goal is to 
+make it a truly collaborative open source project, with contributors from many 
+organizations and countries.
+
+If you aren't familiar with open source development processes we highly recommend
+you read [Producing Open Source Software](http://producingoss.com/) (available for free
+but don't hesitate to buy the book, it's written by a friend of Lantern). We 
+try to follow the best practices it lays down, so is a great primer on how we work.
+
+The first step is to check out our 
 [CONTRIBUTING](https://github.com/getlantern/lantern/blob/master/CONTRIBUTING.md)
-file for relevant information and then go right ahead. Community contributors
-who get really involved will be welcomed as core developers.
+file for relevant information and then get started. We follow standard github model
+of contributors submitting pull requests and then having core authors review.
+
+We have a [development list](https://groups.google.com/forum/#!forum/lantern-devel) to 
+communicate. Though the majority of our communication happens in [tickets](https://github.com/getlantern/lantern/issues), feel free to 'watch' the project in 
+github and you'll be notified of all we're doing. And don't hesitate to introduce yourself 
+on the developers list, we can find tasks you might be interested in.
 
 You can also sign up to help us triage issues on CodeTriage:
 http://www.codetriage.com/getlantern/lantern
 
+We have some developer documentation that is a bit hidden right now, as we are
+transitioning to a better system. But if you go to the [[index|_pages]] the ones marked
+[developer] will give you some information. And if you have any questions don't hesitate
+to ask on the list.
 
-### <a name="sponsoring"></a> Sponsoring
+Lantern decisions are made by all core developers, and we welcome anyone who contributes
+sufficiently to development to become a core developer and help decide the future of Lantern.
 
-Besides running Lantern on your own computer to share an uncensored internet
-connection, you can also pledge a one-time or monthly donation to sponsor a Lantern cloud proxy,
-which provides an additional high-capacity internet connection to the network
-24 hours a day, even while your computer is off or disconnected.
-
-Alternatively, if there is some feature or bugfix you'd like to see in the next
-version of Lantern, you can sponsor its development.
-
-Please <a
-href="mailto:sponsoring@getlantern.org">contact the Lantern developers</a>
-about either of these options if you would like to inquire further.
-
-You can also just make a 1-click microdonation to the cause in general using
-Flattr or GitTip:
-
-<a href="http://flattr.com/thing/854882/Team-Lantern-on-GitHub" target="_blank">
-<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a><br/>
-<a href="https://www.gittip.com/teamlantern/" target="_blank"><img src="http://i.imgur.com/TK0Sn.jpg" /></a>
-
-Thank you for your interest in contributing to Lantern. A vibrant and active
-community is vital to our existence.
