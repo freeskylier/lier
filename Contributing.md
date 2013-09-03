@@ -1,5 +1,5 @@
 This page is now focused on software development. If you are not a software developer there
-are many ways to help out, see our [['Get Involved' page|Get Involved!]].
+are many ways to help out, see our [[Get Involved]] page.
 
 ### <a name="development"></a> Development
 
