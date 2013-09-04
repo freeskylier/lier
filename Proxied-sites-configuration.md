@@ -29,3 +29,21 @@ Be sure to hit 'update' after you've entered it. Lantern will save your changes,
 We recommend scrolling through the list and removing any sites that you know are not blocked in your country. To remove sites just select them in the text field and hit 'delete'. Be sure to hit 'update' when you're done.
 
 ![update](https://www.evernote.com/shard/s209/sh/81bd9e5b-808c-4b3a-bb8f-487fee2601fd/bf5af2b060b92a44336a9ccc7ff8988b/deep/0/Lantern.png)
+
+### Sharing
+
+If you would like to share your list of proxied sites with a friend who's using Lantern, simply select all the sites you'd like to share with your mouse, or click inside the text box and hit Ctrl-A (Command-A on OS X) to select them all, copy them to the clipboard with Ctrl-C (Command-C), and paste them into an email to your friend using Ctrl-V (Command-V). Your friend can then copy the sites you sent her and then paste them into her Proxied Sites screen in Lantern.
+
+If you'd like to share your list of proxied sites publicly, feel free to add them to a new page on the [Lantern Proxied Sites List Wiki](https://github.com/getlantern/lantern-proxied-sites-lists/wiki). Just click the green 'New Page' button, give your page a name, then on the Create New Page screen, paste your list in between two lines containing only three back-tick characters, like so:
+
+\`\`\`
+
+site1.com
+
+site2.com
+
+site3.com
+
+\`\`\`
+
+Feel free to add a post to the [User Forums](https://groups.google.com/group/lantern-users-en) with a link to the list you just created so other users can check it out!
