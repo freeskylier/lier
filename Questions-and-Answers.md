@@ -1,3 +1,6 @@
+### <a name="howto"/> How do I download Lantern?
+Lantern is still in development. We are currently accepting applications to become Lantern Ambassador beta testers. You can sign up to be one of our first beta testers by filling out this survey:  [Lantern Ambassador Questionnaire](https://docs.google.com/forms/d/11LiZoCMptcc_lj4b01It9n64gngaDPU53_ge3mhiaIM/viewform), and visit [https://www.getlantern.org](https://www.getlantern.org) to sign up for our mailing list.
+
 ### <a name="know"/> I live in an uncensored region and don't know anyone in a censored region. Can I still help?
 Definitely! People in censored regions can still learn about you through your friends. So while you don't know anyone directly living in censored regions, your friends might, and they'll relay your information to their trusted friends in censored regions. **That's why it's really important to invite your friends to Lantern.** It maximizes the likelihood that your social network will reach into censored regions so you can actually help!
 
