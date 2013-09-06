@@ -48,6 +48,9 @@ in 'get'), and what version of Lantern you're running.
 
 The above is 1.0.0-beta2, you should see some number there.
 
+You also may be asked to email your logs for the developers to diagnose. See
+[[Emailing Lantern Logs]] for more information.
+
 
 ### <a name="other-languages"></a> Translate Lantern
 
