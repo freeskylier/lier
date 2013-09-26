@@ -48,6 +48,7 @@ Here's a proposal for how to do it in the short term:
 
 6. In the Lantern client, if the client is told to use a different fallback proxy than the one currently in use, switch to the new fallback proxy and save this in .lantern for future startups
 
-(aranhoide: you need to pass the certs to authenticate into those proxies too.  Also, we need a way to 'forget' proxies; I imagine the client will keep using the old ones in addition to the new ones unless we do something about it.)
+(aranhoide: ~~you need to pass the certs to authenticate into those proxies too.~~ Also, we need a way to 'forget' proxies; I imagine the client will keep using the old ones in addition to the new ones unless we do something about it.)
 
 (oxtoacart: how desirable/easy would it be to use the existing fallback's cert when spinning up the new one?)
+(aranhoide: nevermind; we're using the same cert for all proxies.)
