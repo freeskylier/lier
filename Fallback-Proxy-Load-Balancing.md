@@ -34,9 +34,9 @@ Here's a proposal for how to do it in the short term:
 
 1. Currently, LanternUser keeps track of an installerLocation corresponding to a custom installer that encapsulates the fallback proxy for that user (aranhoide: actually, for its invitees; I didn't correct this in place to keep the line of reasoning of the proposal).  Let's change this to be a List of installerLocations that can keep track of new installers as we add them.
 
-2. When sending out an invitation from an existing user with an existing fallback proxy, use the most recent installerLocation from the list (as opposed to just the single installerLocation like we do today)
+2. When sending out an invitation from an existing user with an existing fallback proxy, use the most recent installerLocation from the list (as opposed to just the single installerLocation like we do today) (aranhoide: If there is no fallback proxy running as this user, we must find what is the closest ancestor in the trust graph with a fallback proxy.)
 
-3. Have fallback proxies track and report the maximum # of distinct clients that have connected to that proxy via Librato (already implemented)
+3. Have fallback proxies track and report the maximum # of distinct clients that have connected to that proxy via Librato (already implemented) (aranhoide: if we're going to be reassigning users dynamically, we might as well use cpu/memory/load history directly, which is what ultimately matters?)
 
 4. Implement a batch job in the controller that monitors all fallback proxies for activity using the metric from #3.  If a fallback proxy gets too busy (i.e. # of distinct clients exceeds threshold):
 
