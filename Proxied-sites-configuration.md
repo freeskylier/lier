@@ -10,9 +10,17 @@ This is where users Getting Access can set which sites to access through Lantern
 
 Right now the initial list is just a number of commonly blocked sites. In the future we hope to build the list more dynamically based on what is actually blocked in each country. But for now we recommend adjusting it to your needs. If you run across a site that seems blocked, you can check if it's on the list, and add it if it's not. We also recommend removing sites from the list that are not actually blocked, as they will then load faster for you and help the network run more efficiently.
 
+### Using a crowd-sourced proxy list
+
+While we don't yet have a slick integration, we have set up a [Proxied Sites List Wiki](https://github.com/getlantern/lantern-proxied-sites-lists/wiki) where you can find country specific lists of blocked sites. If you live in a country with a list and it's been updated recently then it will likely work better for you than the default list that ships with lantern.
+
+(screenshot needed)
+
+To make use of the a new simply go to one of the lists, then select and copy the whole list, and paste it in to your list of domains to proxy. You can do this with the mouse, or using ctrl-a (select all), ctrl-c (copy), and ctrl-v (paste) shortcuts.You should delete the default list, so you don't get duplicates and don't proxy sites you don't need to.
+
 ### Finding Sites
 
-Before adding a new site, you can check to see if it exists. This can be done by scrolling through the list, but the search box on the right lets you find it more quickly:
+Before adding a new site, you can check to see if it is already on your proxy list. This can be done by scrolling through the list, but the search box on the right lets you find it more quickly:
 
 ![searching](https://www.evernote.com/shard/s209/sh/f97bd235-eeeb-4e07-a6bd-a47f991254c1/f048f14a6d5d9aeae030ec1b00a445bb/deep/0/Lantern.png)
 
