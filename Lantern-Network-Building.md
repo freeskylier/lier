@@ -72,3 +72,10 @@ This suggests a hierarchy of metrics like the following (all broken down on a mo
 The first two sub-metrics, # of peers and # of hours, present points for clear calls to action when the numbers are low, namely "grow your network" and "run lantern".
 
 These are both things about which we can and should remind people via email.
+
+#### Email Schedule
+
+ 1. Welcome to Lantern
+ 2. (If user hasn't added any friends) - Add Some Friends
+ 3. Monthly Status Update
+ 4. ???
