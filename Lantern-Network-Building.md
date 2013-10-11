@@ -33,13 +33,6 @@ Item 2 can be accomplished with LinkedIn.  The upside to this is that it can hel
 
 What else do we need here?  Many social networking invite systems have a way of tracking replies, resending reminders and so on...
 
-##### Related Tickets
-
- * https://github.com/getlantern/lantern/issues/654
- * https://github.com/getlantern/lantern/issues/964
- * https://github.com/getlantern/lantern/issues/647
- * https://github.com/getlantern/lantern/issues/580
-
 ### Education and Encouragement
 
 There are many angles to this.  It is instructive to look at what both social networks and electronic appliances like the [Nest thermostat](http://nest.com/).
@@ -79,3 +72,23 @@ These are both things about which we can and should remind people via email.
  2. (If user hasn't added any friends) - Add Some Friends
  3. Monthly Status Update
  4. ???
+
+
+### Related Tickets
+
+ * https://github.com/getlantern/lantern/issues/988
+ * https://github.com/getlantern/lantern/issues/972
+ * https://github.com/getlantern/lantern/issues/971
+ * https://github.com/getlantern/lantern/issues/969
+ * https://github.com/getlantern/lantern/issues/967
+ * https://github.com/getlantern/lantern/issues/966
+ * https://github.com/getlantern/lantern/issues/965
+ * https://github.com/getlantern/lantern/issues/654
+ * https://github.com/getlantern/lantern/issues/964
+ * https://github.com/getlantern/lantern/issues/647
+ * https://github.com/getlantern/lantern/issues/580
+ * https://github.com/getlantern/lantern/issues/960
+ * https://github.com/getlantern/lantern/issues/947
+ * https://github.com/getlantern/lantern/issues/946
+ * https://github.com/getlantern/lantern/issues/945
+ * https://github.com/getlantern/lantern/issues/937
