@@ -31,14 +31,44 @@ Item 1 can be accomplished with most social APIs that include location informati
 
 Item 2 can be accomplished with LinkedIn.  The upside to this is that it can help us expand the pool of "connectors".
 
+What else do we need here?  Many social networking invite systems have a way of tracking replies, resending reminders and so on...
+
 ##### Related Tickets
 
-* https://github.com/getlantern/lantern/issues/654
-* https://github.com/getlantern/lantern/issues/964
-* https://github.com/getlantern/lantern/issues/647)
-* https://github.com/getlantern/lantern/issues/580
+ * https://github.com/getlantern/lantern/issues/654
+ * https://github.com/getlantern/lantern/issues/964
+ * https://github.com/getlantern/lantern/issues/647
+ * https://github.com/getlantern/lantern/issues/580
 
 ### Education and Encouragement
 
+There are many angles to this.  It is instructive to look at what both social networks and electronic appliances like the [Nest thermostat](http://nest.com/).
 
+Social networks constantly prod you to build out your network by:
 
+ * Suggesting new friends based on existing friends and interests
+ * Suggesting new friends based on contacts in your contact list
+ * Providing a mechanism for friends to message each other
+ * Reminding you about events in friends' lives (e.g. birthdays) to get you to reach out and communicate with that friend.  In the case of Lantern, this could be something like "Joe proxied a request for Sally for the first time ever" (see https://github.com/getlantern/lantern/issues/1048)
+
+The Nest thermostat has some interesting parallels with Lantern because it's also something with which you interact infrequently and that you use to meet a very specific goal (saving energy while staying comfortable).  Two things that the Nest thermostat does particularly well are:
+
+ 1. It collects a variety of interesting metrics but distills these down into a single easy-to-understand number, namely how many hours your heating/cooling system ran in the last month.  From there, one can drill down into the other metrics to understand what led to that usage, but having that single bottom-line number makes it easy to keep track of what's happening without having to invest too much mental bandwidth.
+
+ 2. It uses monthly emails to let you know how you're doing, make you feel like part of a community and remind you that there's a team of people constantly making Nest better.
+
+In the case of Lantern, Give and Get mode users have complimentary but slightly different goals.
+
+Get mode users are interested in availability and speed.  Give mode users are interested in helping out as many people as possible but also limiting how much of their bandwidth is consumed.
+
+This suggests a hierarchy of metrics like the following (all broken down on a monthly basis if possible):
+
+ * Number of bytes proxied
+   * Number of peers active at any time during month
+   * Number of hours that Lantern was running (see https://github.com/getlantern/lantern/issues/1025)
+   * Top 5 domains proxied by # of requests (see https://github.com/getlantern/lantern/issues/1027)
+   * ???
+
+The first two sub-metrics, # of peers and # of hours, present points for clear calls to action when the numbers are low, namely "grow your network" and "run lantern".
+
+These are both things about which we can and should remind people via email.
