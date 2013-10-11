@@ -24,7 +24,7 @@ Lantern should make it easy to find Lantern friends, in particular ones who can 
 
 Not all friends are created equally.  We want to connect users from uncensored countries with users in censored countries.  To this end, we want to prioritize relationships where:
 
- 1. The friends have different censorship status (e.g. U.S. and China)
+ 1. The friends have different censorship status
  2. One of the friends has connections to people with a different censorship status
 
 Item 1 can be accomplished with most social APIs that include location information about friends (which is most of them).  The problem is that there aren't necessarily a lot of people who have friends across the censorship divide.
