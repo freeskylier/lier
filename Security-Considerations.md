@@ -15,7 +15,7 @@ In particular, a Lantern proxy advertises itself as follows:
 
 ### Certificate Exchange
 
-Lantern proxies and clients mutually authenticate using client certificates.  These certificates are exchanged via XMPP messages between the client and the proxy sent through Google Talk.  The exchange happens as a result of the client becoming aware of the server through the Kaleidoscope advertising process (see above).
+Lantern proxies and clients mutually authenticate using certificates.  These certificates are exchanged via XMPP messages between the client and the proxy sent through Google Talk.  The exchange happens as a result of the client becoming aware of the server through the Kaleidoscope advertising process (see above).
 
 One the client becomes aware of a proxy, the client sends that proxy its own certificate via a direct XMPP message.  Note - we do not relay this message through the chain of friends that advertised the proxy because that would require all of them to be online at the time that the client wants to access the internet.
 
