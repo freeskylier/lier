@@ -36,6 +36,18 @@ To add a new site, you just need to add it to a new line in the text box. You ca
 
 Be sure to hit 'update' after you've entered it. Lantern will save your changes, and the next time you access that site, it will be routed through a Lantern user in your network to circumvent any blocking.
 
+##### Formatting Note
+
+Note that Lantern does not need or use specific parts of a site. So if you have `4.bp.blogspot.com` and `3.bp.blogspot.com` in your list you can just put `blogspot.com`. Same goes for `nobelprize.org/nobel_prizes/peace/laureates/2010`. Indeed Lantern will complain if there are `/`'s in the site, so just put the whole site: `nobelprize.org`. Search terms are similar - just put the entire search engine, and all your searches will go through Lantern. Right now there is no way to only have certain searches go through Lantern.
+
+
+##### Bulk Adding of new sites
+
+If you've got a list of proxies from another source you will likely have to clean up the formatting. Lantern does not understand any 'commenting' in its proxy list, so you will have to remove those. Make sure that you meet all the formatting requirements above. If you know [regular expressions](http://www.regular-expressions.info/) then those can be quite useful in cleaning up the list.
+
+Note that Lantern's UI does not work ideally for bulk adding. You may get an 'invalid line' error. If you've got a long list it can be quite hard to find that line. The lantern UI will report that line, so we recommend copying that and then searching for it (like with ctrl-f, to do it automatically) in the program you pasted the list from. So it's best to work on your list outside of Lantern, then paste it in and keep editing until there are no more errors.
+
+
 ### Removing sites
 
 We recommend scrolling through the list and removing any sites that you know are not blocked in your country. To remove sites just select them in the text field and hit 'delete'. Be sure to hit 'update' when you're done.
