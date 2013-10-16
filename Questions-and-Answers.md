@@ -1,3 +1,34 @@
+### <a name="no-connections"/> How does Lantern work if I have no trusted connections online?
+
+To help get the Lantern network started we have set up '[[Lantern Cloud Servers]]'. These are dedicated servers that serve as a 'fallback' to proxy user traffic if no one else is available. So users with no connections will make use of these. We know this approach is not scalable, as it would end up costing tons of money. Lantern is built with a unique algorithm that lets you make use of connections of friends of friends, up to four 'hops' away - friends of friends of friends of friends. So our hope is that the social network grows dense enough that there is very little load on the fallback servers. When there gets to be too many people we will likely throttle the connections, so that people who do make good connections get faster access.
+
+Our other plan is to give people an option to buy or donate additional Lantern Cloud Servers. So people in censored countries who know no one outside, or just want a reliable connection, could sponsor a server for just them or their friends. We hope to eventually let people sign up for free servers like Google App Engine as well. We also hope to partner with companies that have spare computing capacity and want to help internet freedom by donating virtual servers to run Lantern and add more Lantern Cloud Servers to the pool.
+
+### <a name="compare"/>How does Lantern compare to other tools?
+
+Lantern's main focus is access, with a big emphasis on usability. Tor is one of the most popular tools in this space, but their primary focus is 'anonymity', with access coming as a side effect. Because of this Tor can be relatively slow to surf the web if one does not care about being completely anonymous. Compared to the other tools aimed at access (GoAgent, Freegate, Ultrasurf, Psiphon, Autoproxy) Lantern's strength is the ease with which it can be installed and used. It is designed to 'just work' without having to understand what a proxy is. 
+
+Lantern is also a bit different in that it runs as a 'system proxy', meaning any program you run will automatically use the proxy. Other programs will only work with the browser, or take complex configuration. Since Lantern adjusts the core system every program works more naturally. Lantern also only proxies the sites that you configure it for, so sites that are not blocked are not run through the proxy. VPN's and others just run your traffic through indiscriminately. 
+
+The other unique thing about Lantern is its peer-to-peer approach, which makes downloading faster because data comes from many computers at once, not just one server. This also makes it so it can eventually handle millions of users without costing a fortune, since it just needs spare bandwidth from any computer, instead of specialized servers running.
+
+<a name="proxy-list"/> Why does Lantern not proxy every site? 
+
+Lantern relies on its configured proxied site list for a couple reasons. One is efficiency. Though Lantern is designed to be fast it is always more faster to go to the site directly than to go through a proxy, or even a bunch of peer proxies. So sites that aren't blocked will be fastest if they are reached directly instead of through Lantern. 
+
+The second is that it potentially helps mask the traffic more. Instead of seeing a user always connect to a handful of special locations (their trusted friends), a censor will see them accessing lots of normal sites, with standard usage patterns. So proxying only what is blocked helps that traffic 'blend in' with everything a user is doing.
+
+###<a name="trust-network"/>How does this 'trust network' work? What happens when I add someone as a Lantern 'friend'?
+
+Adding someone as a 'friend' in Lantern means that the two of you will share an internet connection. The user in 'get mode' - in a censored country - will trust their friend to flow internet traffic through their computer. A stranger could potentially analyze that traffic and use it for harm, so you should only become Lantern friends with people you actually know. On the flip side the user in 'give mode' trusts that their Lantern friend is not using their connection to do anything illegal, like download child pornography, as the traffic the user in a censored country generates will show up as their own traffic.
+
+These individual connections of trust build up a full network of trust, where users can proxy not just through friends, but through friends of friends. This trust network also makes Lantern much more resistant to censorship blocking techniques than other approaches.
+
+### <a name="resist-blocking"/>How does the trust network make Lantern resistant to blocking?
+
+(TODO)
+
+
 ### <a name="howto"/> How do I download Lantern?
 Lantern is still in development. We are currently accepting applications to become Lantern Ambassador beta testers. You can sign up to be one of our first beta testers by filling out this survey:  [Lantern Ambassador Questionnaire](https://docs.google.com/forms/d/11LiZoCMptcc_lj4b01It9n64gngaDPU53_ge3mhiaIM/viewform), and visit [https://www.getlantern.org](https://www.getlantern.org) to sign up for our mailing list.
 
