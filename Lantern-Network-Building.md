@@ -2,13 +2,13 @@ Lantern depends on a strong trust network of users that spans the censorship div
 
 To this end, both Give and Get mode users need tools to help them grow their trust networks.  The benefits of growing the Lantern trust network aren't immediately palpable to users.  It may take Give mode users a while before they see any Get mode users connecting through their proxy. Due to the immediate availability of fallback proxies, Get mode users may not sense the importance of building their trust network in order to improve the speed and reliability of the Lantern proxy network.
 
-Given these challenges, Lantern should both make it as easy as possible to grow one's trust network, as well as provide education and encouragement to get users to engage in this process.
+Given these challenges, Lantern should both make it as easy as possible to grow one's trust network, as well as provide education, encouragement, and engaging experiences to get users to do so.
 
-The tools for growing ones network are universally applicable, while education and encouragement need to be sensitive to differences in the Give and the Get mode experiences.
+The tools for growing ones network are applicable for both Give and Get mode, while education and encouragement need to be sensitive to differences in the Give and the Get mode experiences.
 
 This document outlines approaches for addressing all of these aspects of building the trust network.
 
-note - It is important to remember that much network building can proceed informally and outside of the Lantern application - ultimately Lantern just needs to know once the connection has been made.  Before going too far down the road of building specific tooling, we should make sure to talk with our "connnectors", i.e. the people who have relationships that bridge the censorship divide and who are likely to be the lynchpins of the Lantern trust network in its early stages.
+note - It is important to remember that much network building can proceed informally and outside of the Lantern application - ultimately Lantern just needs to know once the connection has been made.  Before going too far down the road of building specific tooling, we should make sure to talk with our "connectors", i.e. the people who have relationships that bridge the censorship divide and who are likely to be the lynchpins of the Lantern trust network in its early stages.
 
 ### Tools
 
@@ -37,12 +37,12 @@ What else do we need here?  Many social networking invite systems have a way of 
 
 There are many angles to this.  It is instructive to look at what both social networks and electronic appliances like the [Nest thermostat](http://nest.com/).
 
-Social networks constantly prod you to build out your network by:
+Social networks repeatedly encourage you to build out your network by:
 
  * Suggesting new friends based on existing friends and interests
  * Suggesting new friends based on contacts in your contact list
  * Providing a mechanism for friends to message each other
- * Reminding you about events in friends' lives (e.g. birthdays) to get you to reach out and communicate with that friend.  In the case of Lantern, this could be something like "Joe proxied a request for Sally for the first time ever" (see https://github.com/getlantern/lantern/issues/1048)
+ * Reminding you about events in friends' lives (e.g. birthdays) to get you to reach out and communicate with that friend.  In the case of Lantern, this could be something like "Sally got access through Joe for the first time ever" (see https://github.com/getlantern/lantern/issues/1048)
 
 The Nest thermostat has some interesting parallels with Lantern because it's also something with which you interact infrequently and that you use to meet a very specific goal (saving energy while staying comfortable).  Two things that the Nest thermostat does particularly well are:
 
@@ -50,13 +50,13 @@ The Nest thermostat has some interesting parallels with Lantern because it's als
 
  2. It uses monthly emails to let you know how you're doing, make you feel like part of a community and remind you that there's a team of people constantly making Nest better.
 
-In the case of Lantern, Give and Get mode users have complimentary but slightly different goals.
+In the case of Lantern, Give and Get mode users have complementary but slightly different goals.
 
-Get mode users are interested in availability and speed.  Give mode users are interested in helping out as many people as possible but also limiting how much of their bandwidth is consumed.
+Get mode users are interested in availability and speed.  Give mode users are interested in helping out as many people as possible (or specific people), but also limiting how much of their bandwidth is consumed, and what sites are being visited through their connections.
 
 This suggests a hierarchy of metrics like the following (all broken down on a monthly basis if possible):
 
- * Number of bytes proxied
+   * Number of bytes proxied
    * Number of peers active at any time during month
    * Number of hours that Lantern was running (see https://github.com/getlantern/lantern/issues/1025)
    * Top 5 domains proxied by # of requests (see https://github.com/getlantern/lantern/issues/1027)
