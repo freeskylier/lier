@@ -36,9 +36,13 @@ To add a new site, you just need to add it to a new line in the text box. You ca
 
 Be sure to hit 'update' after you've entered it. Lantern will save your changes, and the next time you access that site, it will be routed through a Lantern user in your network to circumvent any blocking.
 
-##### Formatting Note
+##### What parts of a site's address to use
 
-Note that Lantern does not need or use specific parts of a site. So if you have `4.bp.blogspot.com` and `3.bp.blogspot.com` in your list you can just put `blogspot.com`. Same goes for `nobelprize.org/nobel_prizes/peace/laureates/2010`. Indeed Lantern will complain if there are `/`'s in the site, so just put the whole site: `nobelprize.org`. Search terms are similar - just put the entire search engine, and all your searches will go through Lantern. Right now there is no way to only have certain searches go through Lantern.
+Rather than having you specify individual pages on a site you'd like to access through Lantern, Lantern allows you to specify entire sites at a time. In other words, you should enter only the domain name of sites you want to access through Lantern. For example, you wouldn't enter the full address of the page `nobelprize.org/nobel_prizes/peace/laureates/2010`; instead you should just add whole site: `nobelprize.org`. Search terms are similar - just put the entire search engine, and all your searches on that search engine will go through Lantern.
+
+###### Subdomains
+
+If you have `foo.blogspot.com` and `bar.blogspot.com` in your list, they will both be accessed through Lantern, but `baz.blogspot.com` will not. However, if you have just `blogspot.com` in your list, then any blogspot.com site will be accessed through Lantern.
 
 
 ##### Bulk Adding of new sites
