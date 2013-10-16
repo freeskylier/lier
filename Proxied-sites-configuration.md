@@ -71,3 +71,21 @@ site3.com
 \`\`\`
 
 Feel free to add a post to the [User Forums](https://groups.google.com/group/lantern-users-en) with a link to the list you just created so other users can check it out!
+
+##### Making a 'raw' list
+
+If your list is super long it can be a pain for people to copy and paste it from the wiki. Some lists are put in the GitHub repository, and then linked to from the wiki page, so they can be copied much more easily. 
+
+If you're not that comfortable with tech then feel free to email a Lantern user's group and someone can easily do it for you. If you are super comfortable with github just fork the repo and make a pull request. For everyone else read on.
+
+To add a new list to the repository you need a GitHub account. There should be a link to 'sign up' in the upper right hand corner. Once you've done that go to https://github.com/getlantern/lantern-proxied-sites-lists and hit the 'plus' button.
+
+![add](https://www.evernote.com/shard/s209/sh/f7185f3d-9ca5-45bf-aac5-8978f7fefb39/6868a4884f375bb854b24b4f663fab91/deep/0/getlantern/lantern-proxied-sites-lists.png)
+
+This will 'clone' the main repository, making a copy of all the files that are under your control. You can create and edit these files, and it won't affect the main repository - they're your private copy. You should then create a new file under a country folder. You can do this by just entering the folder name and then typing '/'. So just enter like `china/my-folder/list.txt', and that will create it under the china folder.
+
+![animated folders](http://i.stack.imgur.com/9Ifmj.gif)
+
+After you've made your list you can propose the changes to the core contributors. To do this you create a 'pull request'. To do this you hit the green 'compare & review' button from your repository. And then hit 'create pull request'. The contributors on the main site will then review and pull it in. 
+
+Note you can also use pull requests to update or correct other lists. Just make the edits from your repository and then create a pull request.
