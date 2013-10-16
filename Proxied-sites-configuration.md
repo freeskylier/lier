@@ -47,7 +47,7 @@ If you have `foo.blogspot.com` and `bar.blogspot.com` in your list, they will bo
 
 ##### Bulk Adding of new sites
 
-If you've got a list of sites to proxy from another source that doesn't use Lantern's format, you will likely have to clean up the formatting. For instance, if the list includes [comments](https://en.wikipedia.org/wiki/Comment_(computer_programming)), you will have to remove them, as Lantern currently does not support comments. Make sure that you meet all the formatting requirements above. If you know [regular expressions](http://www.regular-expressions.info/) then those can be quite useful in cleaning up the list.
+If you've got a list of sites to proxy from another source that doesn't use Lantern's format, you will likely have to clean up the formatting. For instance, if the list includes [comments](https://en.wikipedia.org/wiki/Comment_(computer_programming\)), you will have to remove them, as Lantern currently does not support comments. Make sure that you meet all the formatting requirements above. If you know [regular expressions](http://www.regular-expressions.info/) then those can be quite useful in cleaning up the list.
 
 Note that Lantern works well for bulk adding only of lists already in Lantern's format. If you paste in a long list of sites that are not in Lantern's format, you may get an 'invalid line' error. Lantern will report that line, so we recommend copying that and then searching for it with Ctrl-F or Edit > Find in the program you pasted the list from. In a pinch you can do this in Lantern too (in Windows and Ubuntu), but it's best to work on your list outside of Lantern, then paste it in and keep editing until there are no more errors.
 
