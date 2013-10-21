@@ -2,7 +2,7 @@
 
 Lantern takes great pains to ensure that users are safe, but there are cases we cannot protect against, so users need to be aware of how they can use Lantern safely. 
 
-For users in censored regions it's extremely important that you only choose Lantern friends who you really trust. By only adding people you trust to your list of friends, you **reduce the risk of being monitored but you do not eliminat it entirely.** Your Internet traffic will run through those peers. If you add people who you don't trust, you run the risk of adding a user who could be monitoring you.**Only add Lantern friends who you really trust**. Adding more friends will make Lantern perform better, but they need to be trusted friends.
+For users in censored regions it's extremely important that you only choose Lantern friends who you really trust. By only adding people you trust to your list of friends, you **reduce the risk of being monitored but you do not eliminate it entirely.** Your Internet traffic will run through those peers. If you add people who you don't trust, you run the risk of adding a user who could be monitoring you.**Only add Lantern friends who you really trust**. Adding more friends will make Lantern perform better, but they need to be trusted friends.
 
 **Lantern is not designed to be an anonymity tool**. If you require that the websites you visit do not learn your physical location (they normally can, which may come as a surprise!) or you cannot risk network monitors being able to determine what web sites you visit, we recommend you use [Tor](https://www.torproject.org). Tor is great software, and we communicate with the Tor team frequently. Lantern is much more focused on access and usability, and Tor does a much better job with anonymity.
 
