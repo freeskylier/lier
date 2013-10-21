@@ -10,7 +10,7 @@ One last point on safety: with any tool, including both Lantern and Tor, you sho
 
 For give mode users, Lantern doesn't compromise your personal information and data. It works in the background and it shouldn't effect your operating system speed.  
 
-### <a name="no-connections"/> How does Lantern work if I have no trusted connections online?
+### <a name="no-connections"/> How does Lantern work if I can't reach any users giving access?
 
 To help get the Lantern network started we have set up '[[Lantern Cloud Servers]]'. These are dedicated servers that serve as a 'fallback' to proxy user traffic if no one else is available. Users with no connections will make use of these. We know this approach is not scalable, as it would end up costing tons of money. Lantern is built with a unique algorithm that lets you make use of connections of friends of friends, up to four 'hops' away - friends of friends of friends of friends. Our hope is that the social network grows dense enough that there is very little load on the fallback servers. When there gets to be too many people we will likely throttle the connections, so that people who do make good connections get faster access.
 
