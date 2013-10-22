@@ -8,6 +8,20 @@ The test script should still succeed as long as Lantern can reach a fallback pro
 0.0.0.0 google.com
 ```
 
+Alternately, if you have access to a firewall, you can block the below ip/port ranges:
+
+```
+216.239.32.1 - 216.239.63.254/1 - 65534
+54.233.160.1 - 54.233.191.254/1 - 65534
+66.249.80.1 - 66.249.95.254/1 - 65534
+72.14.192.1 - 72.14.255.254/1 - 65534
+209.85.128.1 - 209.85.255.254/1 - 65534
+74.125.0.1 - 74.125.255.254/1 - 65534
+207.126.144.1 - 207.126.159.254/1 - 65534
+```
+
+Note - these will change over time.  Up to date ranges can be obtained by calling `dig @ns1.google.com -t txt _netblocks.google.com` and converting the resulting _netblocks to ip ranges using this [online ip calculator](http://jodies.de/ipcalc).
+
 1. Make sure Lantern is not running
 1. Open up your system proxy settings and verify that you have no system proxy set. If your OS keeps this window up-to-date with your system proxy settings without your having to close and reopen it (OS X does, Ubuntu doesn't, afaik), keep this window visible while you interact with Lantern in the following steps so you can see exactly if and when Lantern changes the settings.
 1. Nuke your ~/.lantern directory if you have one
