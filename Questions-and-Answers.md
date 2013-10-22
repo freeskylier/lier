@@ -24,17 +24,23 @@ The other unique thing about Lantern is its peer-to-peer approach, which can mak
 
 Recently, the Lantern team has been contributing to UProxy, a new effort sponsored by Google Ideas. While there are similarities in the P2P approach, Lantern is a separate software program that runs in the background. The plan for UProxy is for it to work as a browser extension. 
 
-<a name="proxy-list"/> Why does Lantern not proxy every site by default? 
+### <a name="proxy-list"/> Why does Lantern not proxy every site by default? 
 
-Lantern relies on its configured proxied site list for a couple reasons. One is efficiency. Though Lantern is designed to be fast it is always more faster to go to the site directly than to go through a proxy, or even a bunch of peer proxies. So sites that aren't blocked will be fastest if they are reached directly instead of through Lantern. 
+Lantern relies on its configured proxied site list for a couple reasons. One is efficiency. Though Lantern is designed to be fast, it is always more faster to go to the site directly than to go through a proxy, or even a bunch of peer proxies. So sites that aren't blocked will be fastest if they are reached directly instead of through Lantern. 
 
-The second is that it potentially helps mask the traffic more. Instead of seeing a user always connect to a handful of special locations (users in their Lantern network giving access), a censor will see them accessing sites that aren't blocked directly, the same patterns as when they aren't running Lantern. So proxying only what is blocked helps that traffic 'blend in' with everything a user is doing.
+The second is that it potentially helps mask the traffic more. Instead of seeing a user always connect to a handful of special locations (users in their Lantern network giving access), a censor will see them accessing sites that aren't blocked directly, the same patterns as when they aren't running Lantern. So proxying only what is blocked helps that traffic blend in with everything a user is doing.
 
 ###<a name="trust-network"/>How does this 'trust network' work? What happens when I add someone as a Lantern friend?
 
-Adding someone as a friend in Lantern means that the two of you will share an internet connection. The user in 'get mode' - in a censored country - will trust their friend to flow internet traffic through their computer. A stranger could potentially analyze that traffic and use it for harm, so you should only become Lantern friends with people you actually know. On the flip side the user in 'give mode' trusts that their Lantern friend is not using their connection to do anything illegal, like download child pornography, as the traffic the user in a censored country generates will show up as their own traffic.
+Lantern is built on an extended trust network.  This network consists of people who chose to trust each other as Lantern friends.  These friends can proxy traffic directly through each other using Lantern.  However, if Lantern proxied only through immediate friends, users might often not have any proxies available to them because none of their immediate friends are online.
 
-These individual connections of trust build up a full network of trust, where users can proxy not just through friends, but through friends of friends. This trust network also makes Lantern much more resistant to censorship blocking techniques than other approaches.
+This is where the “extended” part of the network comes in.  Lantern tells everyone’s friends about a few* of their other friends, allowing friends of friends to proxy for each other.  This “advertisement” of friends proceeds to 4 degrees of separation, such that Joe’s brother’s girlfriend’s mother’s chiropractor Jane could end up proxying Joe’s internet traffic.
+
+If Jane is a censor, this puts her in a position to block or analyze Joe’s traffic.  Conversely, if Joe is using Lantern to do something illegal (like download child pornography), it will look to the outside world as though Jane is doing these things.  Because of this, it’s important that everyone in the network, including Joe, his brother, his girlfriend and her mother all add only people they trust to their list of Lantern friends.
+
+By being careful about adding only trustworthy Lantern friends, you protect not only yourself but your friends and a lot of other people who depend on Lantern.
+
+* - by only telling friends about a few of their other friends, Lantern achieves a level of blocking resistance that would not otherwise be possible.
 
 ### <a name="resist-blocking"/>How does the trust network make Lantern resistant to blocking?
 
