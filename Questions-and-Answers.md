@@ -16,7 +16,7 @@ Our other plan is to give people an option to buy or donate additional Lantern C
 
 ### <a name="compare"/>How does Lantern compare to other tools?
 
-Lantern's main focus is access, with a big emphasis on usability. Tor is one of the most popular tools in this space, but their primary focus is anonymity. Because of this, Tor can be relatively slow to surf the web. For those who do not care about being completely anonymous, Lantern provides an alternative with faster access. Compared to the other tools aimed at access (GoAgent, Freegate, Ultrasurf, Psiphon, Autoproxy) Lantern's strength is the ease with which it can be installed and used. It is designed to just work without having to understand what a proxy is. 
+Lantern's main focus is access, with a big emphasis on usability. Tor is one of the most popular tools in this space with a primary focus on anonymity. For those who do not care about being completely anonymous, Lantern provides an alternative with typically faster access. Compared to the other tools aimed at access (GoAgent, Freegate, Ultrasurf, Psiphon, Autoproxy) Lantern's strength is the ease with which it can be installed and used. It is designed to just work without having to understand what a proxy is. 
 
 Lantern is also a bit different in that it runs as a system proxy, meaning any program you run will automatically use the proxy. Other programs will only work with the browser, or take complex configuration. Since Lantern adjusts the core system every program works more naturally. Lantern also only proxies the sites that you configure it for, so sites that are not blocked are not run through the proxy. VPN's and others generally run all your traffic through the proxy.
 
