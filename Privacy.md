@@ -15,7 +15,7 @@ Lantern may be compelled to disclose information we have collected under special
 ## <a name="commitment"></a>Commitment
 Lantern takes the responsibility of providing internet access very seriously. We have an explicit interest in keeping any personally identifiable information routed through Lantern servers and clients limited, secret, and ephemeral. All Lantern software and infrastructure has been configured with strong security protections and data expungement policies in accordance with that interest. Any human contact with identifiable information is limited to only the core Lantern developers and is strictly incidental to making sure Lantern works.
 
-We promise to use any information we collect only to provide the Lantern service, and to provide it to other Lantern users only for the same purpose. If you would like us to delete your account and the associated information that has been collected from it, please email us at privacy@getlantern.org.
+We promise to use any information we collect only to provide the Lantern service, and to provide it to other Lantern users only for the same purpose. If you would like us to delete your account and the associated information that has been collected about it, please email us at privacy@getlantern.org.
 
 ## <a name="changes"></a>Changes
 Lantern may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address associated with your Lantern account or by placing a prominent notice in the Lantern software.
