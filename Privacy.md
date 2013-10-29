@@ -3,6 +3,8 @@ Lantern's central servers store the following information: Your email address, t
 
 Participating in the Lantern network in Give Access mode entails proxying traffic for users in your extended Lantern social network (your "trust graph"), and advertising the Lantern users you know about to other users in your social network, according to the [Kaleidoscope Limited Advertisement Protocol](https://github.com/getlantern/kaleidoscope#kaleidoscope-limited-advertisement-protocol). This allows Lantern users to share internet connections with one another only when connected on the trust graph.
 
+For details on what information Lantern collects and for what purpose, see our [Information Disclosure Matrix](https://docs.google.com/a/getlantern.org/spreadsheet/pub?key=0Ap6nn0WEcFTRdHUtTm9GcFpsNFpoOGFXQlBfODN4TkE&single=true&gid=0&output=html).
+
 ## <a name="optional-information"></a>Optional Information
 If enabled, we use Google Analytics to store information about your use of Lantern, exceptional.io to store information about errors in the Lantern software, and Google App Engine to store information about the countries you have logged in from and the number of bytes that you have sent and received. We use [IP Anonymization in Google Analytics](https://support.google.com/analytics/answer/2763052?hl=en) for extra privacy protection. We ask before enabling any of this collection. Users who decline enjoy the same level of service as users who opt in.
 
