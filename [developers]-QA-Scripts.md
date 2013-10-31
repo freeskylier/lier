@@ -54,3 +54,8 @@ Note - these will change over time.  Up to date ranges can be obtained by callin
 1. Repeat steps 20-21 and then step 24
 1. Go back to Settings and click Reset
 1. Repeat steps 5-12
+
+
+**Also Test:**
+- autostart on system startup
+- p2p
