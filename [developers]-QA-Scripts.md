@@ -32,7 +32,7 @@ Note - these will change over time.  Up to date ranges can be obtained by callin
 1. Click Continue (on the Lantern Friends modal)
 1. Click Finish
 1. Verify your green dot is in an accurate spot on the map, and when you hover over it all your details (including IP address) are accurate
-1. Visit whatismyip.com in a browser
+1. Visit whatismyipaddress.com in a browser
 1. Verify your public IP is the same as in step 10
 1. **We're now going go switch to get access mode**. Add the google mappings above to your /etc/hosts file to simulate Google being blocked (see beginning)
 1. Click Settings button (gear icon)
@@ -41,8 +41,8 @@ Note - these will change over time.  Up to date ranges can be obtained by callin
 1. Check your system proxy settings are now configured to use Lantern's PAC file.
 1. Back in Lantern, you should have been taken back to the visualization. Your dot should now be orange. When you hover over it, your details should be the same as before (including IP address).
 1. You should now see a dark green dot corresponding to your fallback proxy. Hover over it and make a note of its IP.
-1. Reload whatismyip.com, and see that an arc is drawn connecting your orange dot to the green dot.
-1. Verify the IP that whatismyip.com is showing is now that of the fallback proxy.
+1. Reload whatismyipaddress.com, and see that an arc is drawn connecting your orange dot to the green dot.
+1. Verify the IP that whatismyipaddress.com is showing is now that of the fallback proxy.
 1. Click Proxied Sites button (web icon)
 1. Add geoiptool.com to the textarea and click Continue
 1. Visit geoiptool.com and verify the IP and location it shows for you are the same as the fallback proxy's and not your orange dot's.
