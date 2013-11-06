@@ -33,9 +33,9 @@ Recently, the Lantern team has contributed to [uProxy](https://uproxy.org), a ne
 
 ### <a name="proxy-list"/> Why does Lantern not proxy every site by default? 
 
-Lantern uses a proxied sites list for a couple reasons. The primary reason is efficiency. It is always faster to go to a site directly rather than through a proxy, even when you can use many proxies simultaneously. So sites that arenʼt blocked will be fastest if they are reached directly instead of through Lantern.
+By default, Lantern only provides access to a list of known blocked sites. We do this for a couple of reasons. First, it is always faster to go to a site directly rather than through a proxy regardless of how fast or efficient that proxy is. So sites that arenʼt blocked will be fastest if they are reached directly instead of through Lantern.
 
-The second reason is that, to a censor watching your activity, your traffic will look more like it would if you werenʼt running a circumvention tool. So instead of seeing you making encrypted connections to only one or a handful of computers outside the country (i.e. the Lantern users giving you access), a censor will see you also connecting to all the sites not on your list directly, just as when you arenʼt running Lantern. So proxying only blocked sites helps that traffic blend in with all your other traffic.
+The second reason is that not proxying access to sites that are known to be unblocked frees up Lantern network resources. Because the Lantern network as a whole doesn't have to carry the burden of providing access to unblocked sites, it can instead use those resources to provide you with better access to blocked sites.
 
 
 ###<a name="trust-network"/>How does the trust network work? What happens when I add someone as a Lantern friend?
@@ -45,6 +45,8 @@ Lantern is built on a trust network. This network connects people who trust one 
 To mitigate this, Lantern users getting access can discover a subset of the users giving access up to 4 degrees away from them in the trust network. So for instance, if you use Lantern to get access, your brother’s partner’s mother’s friend could end up proxying your Lantern traffic. If this person is a censor, she could block or analyze your traffic. On the other hand, if you use Lantern to read or post something private or sensitive, it will look as though this traffic is coming from her computer. Because of this, everyone running Lantern should only friend people they trust, and **only use Lantern to proxy traffic that is not private or sensitive**.
 
 By only adding people you trust, you protect not only yourself, but also your friends, their friends, their friendsʼ friends, and so on. And by allowing users to discover a subset of users farther away from them in the trust network, Lantern increases available proxies while maintaining blocking resistance.
+
+In any scenario, however, **you as a user have to explicitly approve each user who will proxy access for you**. Lantern will never send your traffic through any peer, regardless of how far away they are in the trust network, without your explicit approval.
 
 
 ### <a name="howto"/> How do I download Lantern?
@@ -83,6 +85,10 @@ If your Internet connection is limited, then giving access through Lantern will 
 ### <a name="contributing"/> How can I contribute?
 
 Please see [[Getting Involved|Get-Involved]].
+
+### <a name="notworking"/> Lantern's not working for me. What's up?
+
+There is a known incompatibility between Lantern and Proxy Switchy. If you have Proxy Switchy installed, you can temporarily disable it to use Lantern.
 
 
 ### <a name="more"/> I have more questions, where do I go?
