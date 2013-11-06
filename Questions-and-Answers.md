@@ -46,7 +46,7 @@ To mitigate this, Lantern users getting access can discover a subset of the user
 
 By only adding people you trust, you protect not only yourself, but also your friends, their friends, their friendsʼ friends, and so on. And by allowing users to discover a subset of users farther away from them in the trust network, Lantern increases available proxies while maintaining blocking resistance.
 
-In any scenario, however, **you as a user have to explicitly approve each user who will proxy access for you**. Lantern will never send your traffic through any peer, regardless of how far away they are in the trust network, without your explicit approval.
+In any scenario, however, **you have to explicitly approve each user who will proxy access for you**. You are always in control. Lantern will never send your traffic through any peer, regardless of how far away they are in the trust network, without your explicit approval.
 
 
 ### <a name="howto"/> How do I download Lantern?
