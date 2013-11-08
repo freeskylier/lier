@@ -5,11 +5,11 @@ To do this you need to find the logs directory on your platform:
 
 ##### Windows Vista/7/8
 
-`C:/Users/USERNAME/AppData/Roaming/Lantern/logs`
+`C:\Users\USERNAME\AppData\Roaming\Lantern\logs`
 
 ##### Windows XP
 
-`C:/Documents and Settings/USERNAME/Application Data/Lantern/Logs`
+`C:\Documents and Settings\USERNAME\Application Data\Lantern\Logs`
 
 ##### OSX 
 
