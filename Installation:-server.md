@@ -14,7 +14,7 @@ You need to edit the latter to substitute your email address for the {{ pillar['
 
 Once you have that, you run Lantern like this:
 
-<path to lantern> --disable-ui --force-give --oauth2-client-secrets-file <path to your client secrets> --oauth2-user-credentials-file <path to your user credentials>
+    <path to lantern> --disable-ui --force-give --oauth2-client-secrets-file <path to your client secrets> --oauth2-user-credentials-file <path to your user credentials>
 
 (--force-give is so it will run in give access mode.  That's the default as of this writing, but it can't hurt to pass it.)
 
