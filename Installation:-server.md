@@ -10,7 +10,12 @@ https://github.com/getlantern/lantern/blob/master/src/main/resources/client_secr
 
 https://github.com/getlantern/lantern_aws/blob/master/salt/fallback_proxy/user_credentials.json
 
-You need to edit the latter to substitute your email address for the {{ pillar['user'] }} string (that is, keep the double quotes, but replace everything inside them with your email).  You need to replace the entry that reads {{ pillar['refresh_token'] }} too.  The easiest way to obtain the "refresh token" you need to substitute there is to run the attached script (it needs Python 2 in your system).  You need to pass it the path to a local copy of the client_secrets_installed.json mentioned above, then follow instructions.
+You need to edit the latter to substitute your email address for the {{ pillar['user'] }} string (that is, keep the double quotes, but replace everything inside them with your email).  You need to replace the entry that reads {{ pillar['refresh_token'] }} too.  The easiest (but still admittedly cumbersome) way to obtain the "refresh token" you need to substitute there is to
+ - build Lantern from source in a machine with a windowing system (using an installer won't do),
+ - run Lantern passing no command line arguments,
+ - log in normally as the user you want the server to run as,
+ - open file `~/.lantern/test.properties` (where ~ is your home directory),
+ - your refresh token is everything to the right of the first `=` in the line that reads something like `refresh_token=1/qBOzC[...]qkLE`.
 
 Once you have that, you run Lantern like this:
 
