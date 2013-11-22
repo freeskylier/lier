@@ -71,7 +71,7 @@ Whenever you run Lantern, you create a new access point users in censored region
 
 ### <a name="upgrade"/>How do I upgrade to a newer version of Lantern?
 
-Please see [Upgrading to a New Version of Lantern](https://github.com/getlantern/lantern/wiki/Upgrading-to-New-Version)
+Please see [Upgrading to a New Version of Lantern](https://github.com/getlantern/lantern/wiki/Upgrading-to-a-New-Version-of-Lantern).
 
 ### <a name="hackers"/> Will Lantern make my computer vulnerable to hackers?
 
