@@ -69,6 +69,9 @@ For users in uncensored regions, there are two basic things you can do once you�
 
 Whenever you run Lantern, you create a new access point users in censored regions can use to access the open Internet. Remember, though, that only people in your Lantern network will be able to connect to you. Thatʼs why the second step is critical. The larger your Lantern network, the higher the odds youʼll provide access to users who need it. **So please invite as many trusted contacts as you can!**
 
+### <a name="upgrade"/>How do I upgrade to a newer version of Lantern?
+
+Please see [Upgrading to a New Version of Lantern](https://github.com/getlantern/lantern/wiki/Upgrading-to-New-Version)
 
 ### <a name="hackers"/> Will Lantern make my computer vulnerable to hackers?
 
