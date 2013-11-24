@@ -6,6 +6,14 @@ Lantern supports Windows version XP and higher.
 
 Lantern requires Chrome to be installed. If you don't have Chrome you can get it at the [chrome download page](https://www.google.com/intl/en/chrome/browser/). Lantern uses Chrome to render the user interface. Future Lantern versions will automatically install it for you.
 
+### Checking Authenticity 
+
+Before installing, make sure that the installation file is valid by checking the signature.
+
+Right click on the installer file and click the "Digital Signatures" tab. Under the "General" tab of the new window, click "View Certificate". Under "Details" you can verify the signature.
+
+Each (".exe") is digitally by signed by Brave New Software Project, Inc. For June 11, 2013 to June 11, 2016, the SHA1 thumbprint should be ‎44:99:0c:72:fb:a0:e6:dd:f9:2a:b9:34:46:02:e7:56:00:d8:be:3c.
+
 ### Installation
 
 ![Download from E-mail](http://i.imgur.com/4vRaT68.png)
