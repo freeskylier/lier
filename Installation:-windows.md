@@ -34,4 +34,4 @@ We encourage you to just leave Lantern running in the background, so it can be h
 
 ### Uninstallation
 
-TODO:
+Uninstall using the Lantern Uninstaller link in the start up folder.
