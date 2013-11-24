@@ -59,7 +59,7 @@ Lantern is still in private beta. You can request an invitation and updates [her
 Definitely! People in censored regions can still learn about you through your friends. So while you donʼt know anyone directly living in censored regions, your friends might, and the odds are even better that their friends might (and so on). If you keep Lantern running and adding the people you trust, eventually youʼll be connected with users who need access. **Thatʼs why itʼs really important to invite your friends to Lantern**. It maximizes the likelihood that your social network will reach into censored regions so you can help.
 
 ### <a name="gmail"/>Is a Gmail account required to use Lantern?
-Yes. For details, see [Why Does Lantern Require a Google Login?](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers#-why-does-lantern-require-a-google-login-what-happens-with-the-generated-oauth-tokens).
+Yes. Lantern requires a Gmail or Google Apps e-mail address. For details, see [Why Does Lantern Require a Google Login?](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers#-why-does-lantern-require-a-google-login-what-happens-with-the-generated-oauth-tokens).
 
 ### <a name="whattodo"/> OK, I've installed Lantern. Now what?
 
