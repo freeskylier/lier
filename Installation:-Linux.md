@@ -38,8 +38,17 @@ running install script
   13.  Welcome to Lantern!
   ![welcome to lantern](http://i.imgur.com/nnXoFjr.png)
 
+After you've run the installer the next step is to [[Setup]] Lantern.
+
 ### Uninstallation
 
-To uninstall Lantern on Linux (help please...)
+  1. Change directories to "/usr/local/lantern-net-installer/"
+    + `cd /usr/local/lantern-net-installer/`
+  2. Run the uninstall program.
+    + `sudo ./uninstall`
+    + ![run uninstall script](http://i.imgur.com/PW3hiCF.png)
+  3. A window should popup.  Click "Next >" to continue uninstallation.
+  ![uninstall program](http://i.imgur.com/PuEPZrB.png)
+  4. The uninstall process should begin.  When finished, click "Finish".
+  ![uninstall complete](http://i.imgur.com/7XZayjD.png)
 
-After you've run the installer the next step is to [[Setup]] Lantern.
