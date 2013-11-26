@@ -4,11 +4,6 @@ And most of the tasks we need help on require no programming knowledge. Develope
 are of course more than welcome, but this page is for everyone else to find a way to
 help make Lantern great.
 
- If you're interested in 
-one or more of the tasks below please mention it in your application. We
-are particularly interested in people with trusted contacts in both censored and uncensored
-countries. But a willingness to dive in to any of the tasks below is all you really need.
-
 ### <a name="use-lantern"></a>Use and Spread Lantern
 
 If you have an uncensored internet connection, you can make a difference simply
