@@ -84,12 +84,11 @@ wiki page.
 
 If you are a developer and are interested in helping build Lantern see the [[Contributing]] page.
 
-### <a name="sponsoring"></a> Sponsor
+### <a name="donating"></a> Donate
 
-Besides running Lantern on your own computer to share an uncensored internet
-connection, you can also pledge a one-time or monthly donation to sponsor a Lantern cloud proxy,
+Lantern also welcomes donations through our [Rally page](https://rally.org/getlantern) You can pledge a one-time or monthly donation to sponsor a Lantern cloud proxy,
 which provides an additional high-capacity internet connection to the network
-24 hours a day, even while your computer is off or disconnected.
+24 hours a day.
 
 Alternatively, if there is some feature or bugfix you'd like to see in the next
 version of Lantern, you can sponsor its development.
@@ -97,13 +96,6 @@ version of Lantern, you can sponsor its development.
 Please <a
 href="mailto:sponsoring@getlantern.org">contact the Lantern developers</a>
 about either of these options if you would like to inquire further.
-
-You can also just make a 1-click microdonation to the cause in general using
-Flattr or GitTip:
-
-<a href="http://flattr.com/thing/854882/Team-Lantern-on-GitHub" target="_blank">
-<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a><br/>
-<a href="https://www.gittip.com/teamlantern/" target="_blank"><img src="http://i.imgur.com/TK0Sn.jpg" /></a>
 
 Thank you for your interest in contributing to Lantern. A vibrant and active
 community is vital to our existence.
