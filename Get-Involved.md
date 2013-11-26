@@ -1,12 +1,12 @@
 As with any open source project, Lantern will only be truly successfully if _you_ help out. 
 Right now we're in a 'beta' state, with tons to do before we spread it to the world. 
 And most of the tasks we need help on require no programming knowledge. Developers
-are of course more than welcome, but this page is for everyone else to find a way to
+are, of course, more than welcome, but this page is for everyone else to find a way to
 help make Lantern great.
 
 ### <a name="use-lantern"></a>Use and Spread Lantern
 
-If you have an uncensored internet connection, you can make a difference simply
+You can request an invite from [getlantern.org](https://www.getlantern.org) using your Gmail address. If you have an uncensored internet connection, you can make a difference simply
 by keeping Lantern running. Every additional user sharing her connection makes 
 the Lantern network work that much better, and that much harder to block for censors.
 
@@ -56,12 +56,9 @@ See [[Translating Lantern]] for more information.
 
 ### Promote Lantern
 
-We also welcome people who are interested in helping spread the word about Lantern. We
-are mostly software developers, but unlike most developers our software will only work
-if lots of people in uncensored countries run it. So we welcome ideas and actions to 
-get more and more people to run Lantern. Social media campaigns, magazine articles, blog
+We also welcome people who are interested in helping spread the word about Lantern. You can find and share the latest from Lantern on [Twitter](https://twitter.com/getlantern), [Facebook](https://www.facebook.com/getlantern)and [Tumblr](http://get-lantern.tumblr.com. We welcome ideas and actions to get more and more people to run Lantern. Social media campaigns, magazine articles, blog
 posts, videos, kickstarter, etc. - if you've got experience promoting great stuff then get in touch.
-And no idea is too big or too small. For right now just introduce yourself on the [users 
+No idea is too big or too small. For right now just introduce yourself on the [users 
 forum](https://groups.google.com/group/lantern-users-en). If we get enough people there 
 we will start a dedicated forum.
 
@@ -69,7 +66,7 @@ we will start a dedicated forum.
 
 This collaboratively-maintained wiki documentation is a work in progress. If
 you see an area that needs more work and you would like to pitch in, we welcome
-your help. Right now you needed to be added to the Documentation Team to edit, 
+your help. Right now you need to be added to the Documentation Team to edit, 
 just let us know of your interest on the [forum](https://groups.google.com/forum/#!forum/lantern-users-en). 
 Then to edit just use the "New Page" or "Edit Page" buttons near the top of any
 wiki page.
