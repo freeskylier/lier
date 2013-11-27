@@ -1,4 +1,4 @@
-Currently installation on Linux is only available on Ubuntu. Contributions for other Linux distros and improvements to make better use of package managers are much appreciated.
+Currently packaged installation on Linux is only available on Ubuntu. Contributions for other Linux distros and improvements to make better use of package managers are much appreciated. Other distros can also always [build from source](https://github.com/getlantern/lantern/blob/master/README.md#setting-up-a-development-environment).
 
 The invitation to lantern has a link to an installation script. This script:
 
