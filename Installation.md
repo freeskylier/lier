@@ -9,6 +9,5 @@ Once you get invited you will receive an email with links to the downloaders. Pi
 * [[Installation: Linux]]
 * [[Installation: Windows]]
 * [[Installation: Mac]]
-* [[Installation: Server]]
 
-All three platforms have nice installers, so if you've already downloaded and got Lantern started you can jump straight to [[Setup]].
+All three platforms have nice installers, so if you've already downloaded and got Lantern started you can jump straight to [[Setup]]. If you want to run Lantern on a server (like EC2) headless, to provide it full time for other people, see [[Installation: Server]]. And if your operating system is not supported you can always [build from source](https://github.com/getlantern/lantern/blob/master/README.md#setting-up-a-development-environment).
