@@ -28,4 +28,4 @@ Click Reset.
 
 Lantern resets and you can go through the setup process using a different account.
 
-See [https://github.com/getlantern/lantern/wiki/Setup](Setup) for details.
+See [Setup](https://github.com/getlantern/lantern/wiki/Setup) for details.
