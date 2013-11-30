@@ -4,7 +4,7 @@ You can change the Google email that you use with Lantern by resetting Lantern a
 
 As awesome as it is to watch Lantern connections crossing the globe, most of the time you will probably have Lantern running without the network map visible.
 
-**Select Show Lantern from the Lantern icon in the Status Bar**
+Select **Show Lantern** from the Lantern icon in the Status Bar.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Show_Lantern.png)
 
@@ -12,11 +12,11 @@ As awesome as it is to watch Lantern connections crossing the globe, most of the
 
 Next, reset Lantern and go through the setup process again. Resetting Lantern clears all saved information since your last setup.
 
-**Click the Settings icon.**
+Click the Settings icon.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Settings_Icon.png)
 
-**Click Reset.**
+Click Reset.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Reset_Button.png)
 
