@@ -41,22 +41,13 @@ You can add friends at any time with the friend button on the lower right.
 
 ![friends](https://www.evernote.com/shard/s209/sh/5f777d62-6c2f-405d-b065-1fb8ba948e6c/c3493f15bd539a174f5a901d5404dea9/deep/0/Lantern.png)
 
-This brings up the 'Lantern Friends' screen. You can enter the email address of any friend who has a google account. Any gmail address will definitely work. If you aren't sure you can just try to add them, as many people have other email addresses set up to work with Google. Adding them will send an invitation to join Lantern, with a link to the download.
+This brings up the 'Lantern Friends' screen. You can enter the email address of any friend who has a google account. Any gmail address will definitely work. If you aren't sure you can just try to add them, as many people have other email addresses set up to work with Google. Adding them will send an invitation to join Lantern, with a link to the download. Once they sign on at the same time as you are on their status in your friends window will change. 
 
-Right now there is unfortunately no feedback as to whether your invite went out or the friend successfully got online with Lantern. Adding someone will instantly put them on your list of friends, and a request goes to a moderation queue, which lets the Lantern team make sure the network doesn't break because too many users join at once. When the user successfully installs and sets up Lantern they will automatically be on your network.
+The image below shows friends successfully transferring from a user in 'give' mode. 
 
-```
-PROBLEMS WITH BULK ADD
+![friends transferring](https://www.evernote.com/shard/s209/sh/ba32dfb0-959d-494b-9065-2053aab61875/839570ec5c5e0df068455bc7a00daa96/deep/0/Lantern%20and%20Editing%20Using%20Lantern%20%C2%B7%20getlantern/lantern%20Wiki.png)
 
-For the early beta releases we have noticed that not everyone added in the 
-friends list gets invitations sent to our moderation queue. Fixing this
-is our top priority. In the meantime we believe the best thing to do is
-invite no more than 20 friends. If you are interested in helping us test
-this problem please get in touch on the user forum.
-
-```
-
-We are working to improve the friending experience. If you have problems don't hesitate to get in touch through the [forum](https://groups.google.com/forum/#!forum/lantern-users-en). And we also welcome feedback on how to make it better.
+Note that there will not always be connection lines between friends. This happens when the rough location can not be established. You will always be able to see if transferring is happening by looking in the upper right corner, or watching the friends list.
 
 Removing people from your friend list will make it so they can not access your connection to the internet and vice versa.
 
