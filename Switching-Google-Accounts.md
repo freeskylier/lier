@@ -10,7 +10,7 @@ As awesome as it is to watch Lantern connections crossing the globe, most of the
 
 ### Reset Lantern
 
-Next, reset Lantern and go through the setup process again.
+Next, reset Lantern and go through the setup process again. Resetting Lantern clears all saved information since your last setup.
 
 **Click the Settings icon.**
 
@@ -20,7 +20,7 @@ Next, reset Lantern and go through the setup process again.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Reset_Button.png)
 
-Resetting Lantern clears all saved information since your last setup. A message will appear asking you to confirm that you want to reset Lantern.
+A message will appear asking you to confirm that you want to reset Lantern.
 
 
 
