@@ -12,17 +12,17 @@ Select Show Lantern from the Lantern icon in the Status Bar.
 
 Next, reset Lantern and go through the setup process again. Resetting Lantern clears all saved information since your last setup.
 
-#. Click the Settings icon.
+Click the Settings icon.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Settings_Icon.png)
 
-#. Click Reset.
+Click Reset.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Reset_Button.png)
 
 A message will appear asking you to confirm that you want to reset Lantern.
 
-#. Click Reset.
+Click Reset.
 
 ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Confirm_Reset.png)
 
