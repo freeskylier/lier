@@ -20,7 +20,7 @@ Next, reset Lantern and go through the setup process again. Resetting Lantern cl
 
     ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Reset_Button.png)
 
-A message will appear asking you to confirm that you want to reset Lantern.
+    A message will appear asking you to confirm that you want to reset Lantern.
 
 1. Click Reset.
 
