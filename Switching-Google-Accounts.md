@@ -26,6 +26,6 @@ Next, reset Lantern and go through the setup process again. Resetting Lantern cl
 
     ![Show Lantern](https://dl.dropboxusercontent.com/u/253631/Lantern_Confirm_Reset.png)
 
-Lantern resets and you can go through the setup process using a different account.
+    Lantern resets and you can go through the setup process using a different account.
 
-See [Setup](https://github.com/getlantern/lantern/wiki/Setup) for details.
+    See [Setup](https://github.com/getlantern/lantern/wiki/Setup) for details.
