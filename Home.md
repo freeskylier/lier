@@ -6,3 +6,4 @@ Please choose a language:
 - [Español](wiki/Bienvenido)
 - [Português](wiki/Bem-vindo)
 - [中文](wiki/欢迎)
+- [German](wiki/Willkommen)
