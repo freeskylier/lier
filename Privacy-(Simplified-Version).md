@@ -1,5 +1,5 @@
-This page is not complete.
-The official privacy page is [Privacy](https://github.com/getlantern/lantern/wiki/Privacy)
+This page is a draft in progress.
+Please see the complete [Privacy](https://github.com/getlantern/lantern/wiki/Privacy) page.
 
 ## <a name="information-gathering-and-usage"></a>Information Gathering and Usage
 Lantern's central servers store the following information:
