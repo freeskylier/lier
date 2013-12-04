@@ -27,7 +27,7 @@ Lantern uses third party vendors and hosting partners to provide the necessary h
 Lantern may be compelled to disclose information we have collected under special circumstances, such as to comply with subpoenas. Lantern will challenge any requests for information we believe to be unjust and will notify you of any requests for data about you whenever possible.
 
 ## <a name="optional-information"></a>Usage Data
-When using Lantern, you can choose to provide us with usage data by selecting the option to Securely Report Anonymous Usage Statistics in the settings menu.
+When using Lantern, you can choose to provide us with usage data by selecting the option to Securely Report Anonymous Usage Statistics from the settings menu.
 
 ![Settings Icon](https://dl.dropboxusercontent.com/u/253631/Lantern_Settings_Icon_Crop.png)
 
