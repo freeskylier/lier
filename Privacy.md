@@ -33,14 +33,14 @@ When using Lantern, you can choose to provide us with usage data by selecting th
 
 If you enable this option we use:
 
-* Google Analytics with [IP Anonymization](https://support.google.com/analytics/answer/2763052?hl=en) for extra privacy protection to store information about your use of Lantern.
-* Exceptional.io to store information about errors in the Lantern software
-* Google App Engine to store information about the countries you have logged-in from and the number of bytes that you have sent and received.
+* Google Analytics with [IP Anonymization](https://support.google.com/analytics/answer/2763052?hl=en) to store information about your use of Lantern.
+* Exceptional.io to store information about errors in the Lantern software.
+* Google App Engine to store information about the countries you have logged-in from and the number of bytes you have sent and received.
 
 We ask before enabling any of this collection. Users who decline enjoy the same level of service as users who opt in.
 
-## <a name="changes"></a>Changes
+## <a name="changes"></a>Changes to this Policy
 Lantern may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address associated with your Lantern account or by placing a prominent notice in the Lantern software.
 
 ## <a name="questions"></a>Questions
-Any questions about this Privacy Policy should be addressed to support@getlantern.org.
+Any questions about this policy or any privacy matters should be addressed to support@getlantern.org.
