@@ -15,7 +15,7 @@ For specific details on what information Lantern collects and for what purpose, 
 
 Participating in the Lantern network in Give Access mode means that people in your Lantern network can access the internet through your computer. Your Lantern network is made up of the people you are friends with on Lantern, and their friends, branching out through 4 levels of connections.
 
-## <a name="commitment"></a>Commitment
+## <a name="commitment"></a>Commitment to Your Privacy and Safety
 Lantern takes the responsibility of providing internet access very seriously. It is extremely important to us that we keep information that could identify you limited and secret. 
 
 All Lantern software and infrastructure has been configured with strong security protections and our data deletion policies are in accordance with our goal to allow everyone safe and uncensored access to the Internet. Any human contact with information that could identify you is limited to only the core Lantern developers and is strictly incidental to making sure Lantern works.
