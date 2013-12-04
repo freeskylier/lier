@@ -43,4 +43,4 @@ We ask before enabling any of this collection. Users who decline enjoy the same 
 Lantern may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address associated with your Lantern account or by placing a prominent notice in the Lantern software.
 
 ## <a name="questions"></a>Questions
-Any questions about this policy or any privacy matters should be addressed to support@getlantern.org.
+Any questions about this policy or any privacy concerns should be addressed to support@getlantern.org.
