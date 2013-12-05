@@ -9,4 +9,6 @@ For example, let's say that we have the following situation:
 * When development is ready to start on 1.1, a maintenance branch is created for the prior release (e.g. 1_0).
 * Development for the next minor or major release (e.g. 1.1) happens on master.
 * Bug fixes for the release candidate (1.0-rc*) are made directly on the maintenance branch (1_0)
-* Development of bugs/features for the maintenance release (1.0.1) are made in feature branches that will be merged into the maintenance_branch once the final 1.0 release has been cut.  They should at this same time be immediately merged into master.
+* The maintenance branch is frequently (preferably right after each bug fix) merged into master
+* Development of bugs/features for the maintenance release (1.0.1) are made in feature branches that will be merged into the maintenance_branch once the final 1.0 release has been cut.
+* As soon as feature branches are merged into the maintenance branch, the maintenance branch is immediately merged into master
