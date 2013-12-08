@@ -16,7 +16,7 @@ We use the [Kaleidoscope Limited Advertisement Protocol](https://github.com/getl
 ## <a name="commitment"></a>Commitment to Your Privacy and Safety
 Lantern takes the responsibility of providing internet access very seriously. It is extremely important to us that we limit how much information we store and that we keep your information secret.
 
-All Lantern software and infrastructure has been configured with strong security protections and our data retention policies are in accordance with our goal to allow everyone safe and uncensored access to the Internet. Only the core lantern developers have access to information that could identify you. Any contact they have with your data is related to making sure that Lantern is working correctly.
+All Lantern software and infrastructure has been configured with strong security protections and our data deletion policies are in accordance with our goal to allow everyone safe and uncensored access to the Internet. Only the core lantern developers have access to information that could identify you. Any contact they have with your data is related to making sure that Lantern is working correctly.
 
 We will not use any information we collect for any other purpose other than providing the Lantern service to you and others. If you would like us to delete your account and its associated information, please send us an e-mail at team@getlantern.org.
 
