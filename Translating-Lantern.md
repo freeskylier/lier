@@ -6,7 +6,7 @@ There are a few different aspects of Lantern that need translation. We list them
 
 #### Transifex for Lantern Application and Video
 
-The two easiest and most important things to translate are Lantern itself and captions for the [video](https://www.youtube.com/watch?v=aiPkCugE-RY) (featured at http://getlantern.org).
+The two easiest and most important things to translate are Lantern itself and captions for the [video](https://www.youtube.com/watch?v=aiPkCugE-RY) (featured at https://www.getlantern.org).
 
 [Transifex](http://transifex.com) is the platform we use to manage the most important translations. If you've not used it before you can check out their [explanation](http://support.transifex.com/customer/portal/articles/869950-what-is-transifex-). And then just head to the [Lantern Transifex Project](https://www.transifex.com/projects/p/lantern/). 
 
