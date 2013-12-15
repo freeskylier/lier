@@ -6,9 +6,9 @@
 
 #### Transifex for Lantern Application and Video（lantern应用和视频翻译）
 
-两个最容易和最重要的lantern翻译是翻译lantern和[视频](https://www.youtube.com/watch?v=aiPkCugE-RY)标题  (featured at https://www.getlantern.org).
+两个最容易和最重要的lantern翻译是翻译lantern和[视频](https://www.youtube.com/watch?v=aiPkCugE-RY)标题 (https://www.getlantern.org).
 
-[Transifex](http://transifex.com) is the platform we use to manage the most important translations. If you've not used it before you can check out their [explanation](http://support.transifex.com/customer/portal/articles/869950-what-is-transifex-). And then just head to the [Lantern Transifex Project](https://www.transifex.com/projects/p/lantern/). 
+[Transifex](http://transifex.com) 是我们管理这个最重要翻译的平台。 If you've not used it before you can check out their [explanation](http://support.transifex.com/customer/portal/articles/869950-what-is-transifex-). And then just head to the [Lantern Transifex Project](https://www.transifex.com/projects/p/lantern/). 
 
 ![lantern on transifex](https://www.evernote.com/shard/s209/sh/d2b67dcd-c1c0-420c-87e5-0f374b0b714d/a1aa1697af0dc827888cc81559bc1780/deep/0/Lantern%20localization.png)
 
