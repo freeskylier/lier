@@ -4,9 +4,9 @@
 
 有几个lantern的不同方面需要翻译，我们把它们按照大致重要程度列举在下面。我们已经尽最大努力使得最重要的部分易于翻译。
 
-#### Transifex for Lantern Application and Video
+#### Transifex for Lantern Application and Video（lantern应用和视频翻译）
 
-The two easiest and most important things to translate are Lantern itself and captions for the [video](https://www.youtube.com/watch?v=aiPkCugE-RY) (featured at https://www.getlantern.org).
+两个最容易和最重要的lantern翻译是翻译lantern和[视频](https://www.youtube.com/watch?v=aiPkCugE-RY)标题  (featured at https://www.getlantern.org).
 
 [Transifex](http://transifex.com) is the platform we use to manage the most important translations. If you've not used it before you can check out their [explanation](http://support.transifex.com/customer/portal/articles/869950-what-is-transifex-). And then just head to the [Lantern Transifex Project](https://www.transifex.com/projects/p/lantern/). 
 
