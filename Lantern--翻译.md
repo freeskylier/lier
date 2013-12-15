@@ -1,8 +1,8 @@
-### Introduction
+### Introduction简介
 
-One of the best ways to help Lantern grow is by translating it to your local language. Our hope is to have Lantern available in as many languages as possible. We've started a **[forum](https://groups.google.com/group/lantern-i18n) (lantern-i18n@googlegroups.com)** coordinating localization ("l10n") / internationalization ("i18n") of Lantern. If you'd like to get involved don't hesitate to introduce yourself there. You can also just start on translations and get in touch there when you need help. Also feel free to look for us in our IRC channel, **[#lantern on Freenode](http://webchat.freenode.net/?channels=lantern)**, to chat with us in real time.
+帮助lantern成长的最好途径之一就是把它翻译成你的母语。 我们的希望是让尽可能多的语言都能使用lantern。我们启用一个 **[论坛](https://groups.google.com/group/lantern-i18n) (lantern-i18n@googlegroups.com)** 来配合lantern的本地化("l10n") /国际化("i18n")。如果你愿意参与这项事业，请毫不犹豫到论坛介绍你自己。如果你需要帮助，你也可以只是过去看看解答或只是接触一下。 或者空闲时到我们的即时聊天频道，来和我们实时沟通  **[#lantern on Freenode](http://webchat.freenode.net/?channels=lantern)**。
 
-There are a few different aspects of Lantern that need translation. We list them below in sections, roughly ordered by importance. And the more important ones are the ones we've spent more time on making it easy to translate.
+有几个lantern的不同方面需要翻译，我们把它们按照大致重要程度列举在下面。我们已经尽最大努力使得最重要的部分易于翻译。
 
 #### Transifex for Lantern Application and Video
 
