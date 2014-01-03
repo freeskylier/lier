@@ -1,0 +1,2 @@
+Como em qualquer projeto de código aberto, Lantern só será verdadeiramente um sucesso se _você_ nos ajudar.
+Neste momento estamos em um estado de 'beta', com toneladas de coisas para fazer antes de espalhá-lo para o mundo. E a maioria das tarefas em que precisamos de ajuda não exigem nenhum conhecimento de programação. Desenvolvedores são, naturalmente, mais do que bem-vindos, mas esta página é para todos os outros para encontrar uma maneira de ajudar a tornar o Lantern excelente.
