@@ -38,4 +38,4 @@ em 'pegar'), e qual versão do Lanterna você está rodando.
 A descrição acima é 1.0.0-beta2, você deve ver algum número ali.
 
 Você também pode ser solicitado a enviar seus registros para os desenvolvedores para diagnosticar. ver
-[[Emailing Lantern Logs]] para mais informações.
+[[Enviar registros do Lantern]] para mais informações.
