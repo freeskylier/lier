@@ -4,6 +4,6 @@ Obrigado por verificar o Lantern. Nós ainda estamos no modo 'beta', então por 
 
 Para começar com o Lantern veja [[Instalação]].
 
-Ou se você já tem instalado avançe direto para [[Setup]], ou se você tem tudo configurado, mas não sabe o que fazer a seguir ver [[Using Lantern]].
+Ou se você já tem instalado avançe direto para [[Configuração]], ou se você tem tudo configurado, mas não sabe o que fazer a seguir ver [[Using Lantern]].
 
 Em caso de dúvidas comuns ver [[Questions and Answers]]. Estaremos expandindo-o quando tivermos mais perguntas no fórum. Você pode também estar interessado em como são as abordagens de Lantern [[Privacy]].
