@@ -12,3 +12,30 @@ uma grande rede de usuários que confiam uns nos outros para compartilhar conex�
 então quanto mais conexões confiáveis ​​na rede, melhor o Lantern vai funcionar. Portanto, se
 você é um usuário novo, por favor divulgue o Lantern entre seus amigos de confiança para ajudar
 a rede a crescer.
+
+### Informe Problemas
+
+Na atual fase 'beta' do desenvolvimento uma das coisas mais valiosas que você pode fazer é
+informar-nos se _não_ estiver funcionando para você. A maneira ideal de fazer isso é no 
+[fórum dos usuários] (https://groups.google.com/group/lantern-users-en). Se você
+não se sentir confortável com o seu nome em público sinta-se livre para usar o modelo
+conta / nome. Você também pode usar o formulário de "contato" do próprio Lanterna
+para enviar uma mensagem privada para os desenvolvedores do núcleo.
+
+![contact](https://www.evernote.com/shard/s209/sh/b0ebafae-f50e-41e7-b003-11299102d348/feefe49505573ab528410b708e48b0e1/deep/0/Lantern%20and%20Welcome%20to%20Mail.png)
+
+A coisa mais importante para que possamos saber é se você está em um país censurado e são
+incapazes de se conectar a todos. Mas sinta-se livre para relatar erros mais pequenos, e também
+fazer sugestões sobre maneiras que Lantern poderiam trabalhar melhor para você. tente
+dar o máximo de detalhes possível. Veja isto [how to report bugs 
+effectively] (http://www.chiark.greenend.org.uk/ ~ sgtatham / bugs.html) para geral
+diretrizes. Para Lantern se esqueça de incluir o seu sistema operacional, onde você está, e
+se você estiver no modo 'dar' ou 'pegar' (todos os usuários em países censurados são automaticamente
+em 'pegar'), e qual versão do Lanterna você está rodando.
+
+![lantern version](https://www.evernote.com/shard/s209/sh/dca46162-f8f4-4e19-9719-f83405a35305/0167dda5f704e71697bbe7124a8a1b79/deep/0/Lantern%20and%20Create%20New%20Page%20%C2%B7%20getlantern/lantern%20Wiki.png)
+
+A descrição acima é 1.0.0-beta2, você deve ver algum número ali.
+
+Você também pode ser solicitado a enviar seus registros para os desenvolvedores para diagnosticar. ver
+[[Emailing Lantern Logs]] para mais informações.
