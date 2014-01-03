@@ -40,4 +40,4 @@ Agora deve estar tudo pronto! Você deve ver algo como:
 
 ![dashboard](https://www.evernote.com/shard/s209/sh/cd36738e-f945-4152-88f6-f9a99c28c7e8/6ab833d3c39326a9e0eb466c925c8611/deep/0/Lantern.png)
 
-Contanto que ela não diz 'Sua conexão internet parece estar offline.' em amarelo, na parte inferior, você está pronto para usar. Agora você pode começar [[Using Lantern]].
+Contanto que ela não diz 'Sua conexão internet parece estar offline.' em amarelo, na parte inferior, você está pronto para usar. Agora você pode começar [[Usando Lantern]].
