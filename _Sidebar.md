@@ -1,6 +1,6 @@
-[[Bem vindo]]
+[[Welcome]]
 
-[[Instalação]]
+[[Installation]]
 
 [[Setup]]
 
@@ -8,7 +8,7 @@
 
 [[Questions and Answers|Questions-and-Answers]]
 
-[[Se Envolva!|Se Envolva]]
+[[Get Involved!|Get Involved]]
 
 [[Privacy]]
 
