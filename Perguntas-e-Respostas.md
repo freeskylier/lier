@@ -42,9 +42,9 @@ Adicionando apenas pessoas que você confia, você proteja não apenas a si mesm
 Em qualquer cenário, no entanto, **você deve aprovar explicitamente cada usuário que terá acesso ao proxy por você**. Você está sempre no controle. O Lantern nunca vai enviar o seu tráfego através de nenhum ponto, independentemente de quão longe eles estão na rede confiável, sem sua aprovação explícita.
 
 
-### <a name="howto"/> How do I download Lantern?
+### <a name="howto"/> Como eu baixo o Lantern?
 
-Lantern is still in private beta. You can request an invitation and updates [here](https://getlantern.us2.list-manage.com/subscribe/post?u=0ac18298d5d0330dcda8f48aa&id=f06770f311).
+O Lantern ainda está na versão beta privado. Você pode solicitar um convite e updates [aqui](https://getlantern.us2.list-manage.com/subscribe/post?u=0ac18298d5d0330dcda8f48aa&id=f06770f311).
 
 
 ### <a name="know"/> I live in an uncensored region and don't know anyone in a censored region. Can I still help?
@@ -79,13 +79,13 @@ Lantern is free as in money and as in freedom: free to use, modify, and redistri
 If your Internet connection is limited, then giving access through Lantern will count against your limit. We recommend using Lantern with unlimited Internet connections.
 
 
-### <a name="contributing"/> How can I contribute?
+### <a name="contributing"/> Como eu posso contribuir?
 
-Please see [[Getting Involved|Get-Involved]].
+Por favor veja como [[Se envolver|Se-Envolva]].
 
-### <a name="notworking"/> Lantern's not working for me. What's up?
+### <a name="notworking"/> O Lantern não está funcionando pra mim. Qual o problema?
 
-There is a known incompatibility between Lantern and Proxy Switchy. If you have Proxy Switchy installed, you can temporarily disable it to use Lantern.
+Existe uma incompatibilidade conhecida entre o Lantern e o Proxy Switchy. Se você tem o Proxy Switchy instalado, você pode temporariamente desabilitar ele para usar o Lantern.
 
 
 ### <a name="more"/> I have more questions, where do I go?
