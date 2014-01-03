@@ -6,4 +6,4 @@ Para começar com o Lantern veja [[Instalação]].
 
 Ou se você já tem instalado avançe direto para [[Configuração]], ou se você tem tudo configurado, mas não sabe o que fazer a seguir ver [[Usando Lantern]].
 
-Em caso de dúvidas comuns ver [[Questions and Answers]]. Estaremos expandindo-o quando tivermos mais perguntas no fórum. Você pode também estar interessado em como são as abordagens de Lantern [[Privacidade]].
+Em caso de dúvidas comuns ver [[Perguntas e Respostas]]. Estaremos expandindo-o quando tivermos mais perguntas no fórum. Você pode também estar interessado em como são as abordagens de Lantern [[Privacidade]].
