@@ -1,6 +1,6 @@
 [[Bem vindo]]
 
-[[Installation]]
+[[Instalação]]
 
 [[Setup]]
 
