@@ -1,0 +1,37 @@
+Quando você executar o Lantern será solicitado uma série de perguntas.
+
+### Dar ou Pegar acesso
+
+A primeira questão é se você quer 'dar' ou 'pegar' acesso.
+
+![give/get](https://www.evernote.com/shard/s209/sh/72480b8b-2259-4eef-836b-1982a800bc31/71a941bce6482c90d2d66dcf21db57a8/deep/0/Lantern.png)
+
+**'Dar acesso'** é para usuários em países sem censura que querem compartilhar sua conexão de internet. Isso transforma seu computador em um proxy que seus amigos confiáveis do Lantern ​​podem utilizar gratuitamente para acessar a internet aberta. Lantern é executado em segundo plano, e nós encorajamos você a deixá-lo ligado sempre que puder, para que seus amigos sempre possam usar sua conexão.
+
+**'Pegar acesso'** é para usuários em países censurados que querem ter acesso à internet. Lantern usa uma abordagem 'ponto-a-ponto' para transmitir acesso à Internet a partir de todos os seus amigos de confiança do Lantern ao mesmo tempo. Assim, quanto mais amigos Lantern em outros países você adicionar a sua conexão melhor será.
+
+### Iniciar a sessão no Google
+
+O próximo passo é fazer login em sua conta do Google. Lantern aproveita seus contatos do Google existentes para construir sua rede social.
+
+![google prompt](https://www.evernote.com/shard/s209/sh/4d31dfce-7bab-4522-811a-51b380cafcdc/a673fb7fd2be64df8ca5b58828606d1f/deep/0/Lantern.png)
+
+A página de login é servido diretamente do Google. Sua senha vai direto para os servidores do Google, Lanterna nunca armazena ou mesmo vê a senha.
+
+![google signin](https://www.evernote.com/shard/s209/sh/e7bcf743-984e-45ac-b525-b7f4517cf341/7c4a237f1aa7cb1bf6fb245d76f4a49b/deep/0/Lantern.png)
+
+Depois de inserir suas informações, você será solicitado a autorizar o Lantern para ver o seu e-mail e informações básicas, e para ver e enviar mensagens de chat. Lantern pergunta sobre mensagens de chat, pois utiliza canais de comunicação bate-papo do Google para o arranque da sua rede. Selecione autorizar, ou Lantern não irá funcionar corretamente.
+
+![authorize](https://www.evernote.com/shard/s209/sh/bd03de45-d5ac-4cc3-93da-62f24d527687/3bb1691886c46b3f30bc832f2211cdd7/deep/0/Lantern.png)
+
+### Configurando seus locais
+
+Se você optou ver a página em [[Proxied Sites Configuration]]. Note que a página de configuração de locais de proxy pode ser alcançado a qualquer momento por, Get users (usuários que pegam acesso), clicando no ícone de globo no canto inferior direito.
+
+Usuários que dão acesso não verão esta etapa. Embora você está convidado a mudar os modos para experimentar o que o Lantern seria para um usuário conseguir o acesso.
+
+### Adicionando amigos
+
+Adicionando amigos é uma das coisas mais fáceis que você pode fazer para [[contribuir | Contributing]] com  Lantern. Você pode fazer isso a qualquer momento depois que você configurar, com a mesma caixa de diálogo que você vê no setup. Veja o [[Adding Friends|Using-Lantern#adding-friends]] da página 'Using Lantern' para mais informações.
+
+### Usando Lantern
