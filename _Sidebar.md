@@ -1,4 +1,4 @@
-[[Welcome]]
+[[Bem vindo]]
 
 [[Installation]]
 
@@ -8,7 +8,7 @@
 
 [[Questions and Answers|Questions-and-Answers]]
 
-[[Get Involved!|Get Involved]]
+[[Se Envolva!|Se Envolva]]
 
 [[Privacy]]
 
