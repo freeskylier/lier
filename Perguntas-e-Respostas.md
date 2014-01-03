@@ -8,7 +8,7 @@ Um último ponto sobre segurança: Com qualquer ferramenta, incluindo ambos Lant
 
 ### <a name="no-connections"/> Como o Lantern funciona se eu não conseguir alcançar nenhum usuário dando acesso?
 
-Para ajudar a inicar a rede Lantern nós montamos Servidores Lantern na Nuvem ([[Lantern Cloud Servers]]). Eles servem como reserva para o tráfego quando nenhum outro usuário está disponível para dar acesso. Nossa esperança é que conforme a rede Lantern cresça, existirá usuários suficientes dando acesso que nós precisaremos cada vez menos servidores reservas.
+Para ajudar a iniciar a rede Lantern nós montamos Servidores Lantern na Nuvem ([[Lantern Cloud Servers]]). Eles servem como reserva para o tráfego quando nenhum outro usuário está disponível para dar acesso. Nossa esperança é que conforme a rede Lantern cresça, existirá usuários suficientes dando acesso que nós precisaremos cada vez menos servidores reservas.
 
 Nosso outro plano é dar às pessoas uma opção de financiar Servidores Lantern na Nuvem adicionais dedicados para elas e para seus amigos. Nós também esperamos fazer parcerias com empresas que tem capacidade computacional sobrando e queira ajudar a liberdade na internet doando servidores para a rede Lantern.
 
@@ -47,36 +47,37 @@ Em qualquer cenário, no entanto, **você deve aprovar explicitamente cada usuá
 O Lantern ainda está na versão beta privado. Você pode solicitar um convite e updates [aqui](https://getlantern.us2.list-manage.com/subscribe/post?u=0ac18298d5d0330dcda8f48aa&id=f06770f311).
 
 
-### <a name="know"/> I live in an uncensored region and don't know anyone in a censored region. Can I still help?
+### <a name="know"/> Eu moro numa região sem censura e não conheço ninguém em uma região censurada. Ainda posso ajudar?
 
-Definitely! People in censored regions can still learn about you through your friends. So while you donʼt know anyone directly living in censored regions, your friends might, and the odds are even better that their friends might (and so on). If you keep Lantern running and adding the people you trust, eventually youʼll be connected with users who need access. **Thatʼs why itʼs really important to invite your friends to Lantern**. It maximizes the likelihood that your social network will reach into censored regions so you can help.
+Definitivamente! Pessoas em regiões censuradas ainda podem conhecer você através dos seus amigos. Então enquanto você não conhece ninguém diretamente vivendo em regiões censuradas, seus amigos podem, e as chances são ainda melhores que os amigos deles conheçam (e assim por diante). Se você deixar o Lantern rodando e adicionando pessoas que você confia, eventualmente você estará conectado com usuários que precisam acesso. **É por isso que é muito importante que você convide seus amigos para o Lantern**. Isso maximiza a probabilidade que a sua rede social alcance regiões com cesura para que você possa ajudar.
 
-### <a name="gmail"/>Is a Gmail account required to use Lantern?
-Yes. Lantern requires a Gmail or Google Apps e-mail address. For details, see [Why Does Lantern Require a Google Login?](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers#-why-does-lantern-require-a-google-login-what-happens-with-the-generated-oauth-tokens).
+### <a name="gmail"/>É necessária uma conta no Gmail para usar o Lantern?
 
-### <a name="whattodo"/> OK, I've installed Lantern. Now what?
+Sim. O Lantern necessita um endereço de email no Gmail ou no Google Apps. Para detalhes, veja [Por que o Lantern precisa um login do Google?](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers#-why-does-lantern-require-a-google-login-what-happens-with-the-generated-oauth-tokens).
 
-For users in uncensored regions, there are two basic things you can do once youʼve installed Lantern:
+### <a name="whattodo"/> OK, eu instalei o Lantern. E agora?
 
-1. **Run Lantern as much as possible.**
-1. **Add more users you trust as Lantern friends.**
+Para usuários em regiões sem censura, tem duas coisas básicas que você pode fazer após instalar o Lantern:
 
-Whenever you run Lantern, you create a new access point users in censored regions can use to access the open Internet. Remember, though, that only people in your Lantern network will be able to connect to you. Thatʼs why the second step is critical. The larger your Lantern network, the higher the odds youʼll provide access to users who need it. **So please invite as many trusted contacts as you can!**
+1. **Rodar o Lantern o máximo possível**
+1. **Adicionar mais usuários que você confia como amigos no Lantern.**
 
-### <a name="upgrade"/>How do I upgrade to a newer version of Lantern?
+Sempre que você roda o Lantern, você cria um novo ponto de acesso que usuários em regiões com censura podem usar para acessar a internet aberta. Mas lembre que apenas pessoas na sua rede do Lantern será capaz de se conectar a você. Por isso o segundo passo é crítico. Quanto maior sua rede no Lantern, maiores as chances de você prover acesso para um usuário que precisa. **Então por favor, convide o máximo de contatos confiáveis que você puder!**
 
-Please see [Upgrading to a New Version of Lantern](https://github.com/getlantern/lantern/wiki/Upgrading-to-a-New-Version-of-Lantern).
+### <a name="upgrade"/>Como eu atualizo para uma versão mais nova do Lantern?
 
-### <a name="hackers"/> Will Lantern make my computer vulnerable to hackers?
+Por favor veja [Atualizando para uma nova versão do Lantern](https://github.com/getlantern/lantern/wiki/Upgrading-to-a-New-Version-of-Lantern).
 
-Lantern takes a number of precautions to make sure users are safe. First, Lantern does not allow anyone it connects you to to read the contents of your computer. It simply allows you to share Internet connections. The data passing between you is encrypted so that no intermediaries (e.g. your government or Internet service provider or theirs) can read it. Lantern also requires mutual authentication for all connections, which means that Lantern will only allow users to connect to you that it can verify are in your Lantern network, and not just anyone.
+### <a name="hackers"/> O Lantern deixa meu computador vulnerável a hackers?
+
+O Lantern toma várias precauções para garantir a segurança dos usuários. Primeiro, o Lantern não permite que ninguém conectado a você leia o conteúdo do seu computador. Ele simplesmente permite que você compartilhe sua conexão com a Internet. Os dados passando por você são encriptados para que nenhum intermediário (e.g. seu governo ou o provedor do serviço de Internet) possa lê-los. O Lantern também necessita autenticação manual para todas as conexões, o que significa que o Lantern apenas permitirá que os usuários que se conectem a você sejam da sua rede, e não apenas qualquer um.
 
 
-### <a name="is-lantern-free"/> Is Lantern free? Will running it cost me anything?
+### <a name="is-lantern-free"/> O Lantern é de graça? Rodar ele vai me custar alguma coisa?
 
-Lantern is free as in money and as in freedom: free to use, modify, and redistribute in accordance with its [license](https://raw.github.com/getlantern/lantern/master/LICENSE).
+O Lantern é livre tanto no dinheiro como na liberdade: livre para usar, modificar, e redistribuir de acordo com sua [licença](https://raw.github.com/getlantern/lantern/master/LICENSE).
 
-If your Internet connection is limited, then giving access through Lantern will count against your limit. We recommend using Lantern with unlimited Internet connections.
+Se sua conexão com a internet é limitada, então dar acesso através do Lantern vai além do seu limite. Nós recomendamos usar o Lantern com conexões ilimitadas de internet.
 
 
 ### <a name="contributing"/> Como eu posso contribuir?
