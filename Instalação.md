@@ -10,4 +10,4 @@ Depois de ser convidado, você receberá um e-mail com links para os downloaders
 * [[Installation: Windows]]
 * [[Installation: Mac]]
 
-All three platforms have nice installers, so if you've already downloaded and got Lantern started you can jump straight to [[Setup]]. If you want to run Lantern on a server (like EC2) headless, to provide it full time for other people, see [[Installation: Server]]. And if your operating system is not supported you can always [build from source](https://github.com/getlantern/lantern/blob/master/README.md#setting-up-a-development-environment).
+Todas as três plataformas tem instaladores agradáveis, por isso, se você já baixou e iniciou o Lantern, você pode pular direto para o [[Setup]]. Se você deseja executar o Lantern em um servidor (como EC2) sem cabeça, para fornecê-lo em tempo integral para outras pessoas, ver [[Installation: Server]]. E se o seu sistema operacional não é suportado, você pode sempre [construir a partir do código](https://github.com/getlantern/lantern/blob/master/README.md#setting-up-a-development-environment).
