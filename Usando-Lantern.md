@@ -42,7 +42,7 @@ Você pode adicionar amigos a qualquer momento com o botão amigo no canto infer
 
 Isso traz a tela de 'Lantern Friends'. Você pode digitar o endereço de email de qualquer amigo que tenha uma conta do Google. Qualquer endereço gmail vai certamente funcionar. Se você não tem certeza de que você pode apenas tentar adicioná-los, como muitas pessoas têm outros endereços de e-mail configurado para trabalhar com o Google. Adicionando-os irá enviar um convite para participar de Lantern, com um link para o download. Uma vez que assinar ao mesmo tempo que você está no seu status a sua janela de amigos vai mudar.
 
-A imagem abaixo mostra os amigos transferindo com sucesso a partir de um usuário no modo de "dar".
+A imagem abaixo mostra os amigos transferindo com sucesso a partir de um usuário no modo de 'dar'.
 
 ![friends transferring](https://www.evernote.com/shard/s209/sh/ba32dfb0-959d-494b-9065-2053aab61875/839570ec5c5e0df068455bc7a00daa96/deep/0/Lantern%20and%20Editing%20Using%20Lantern%20%C2%B7%20getlantern/lantern%20Wiki.png)
 
