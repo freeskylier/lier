@@ -88,6 +88,6 @@ Por favor veja como [[Se envolver|Se-Envolva]].
 Existe uma incompatibilidade conhecida entre o Lantern e o Proxy Switchy. Se você tem o Proxy Switchy instalado, você pode temporariamente desabilitar ele para usar o Lantern.
 
 
-### <a name="more"/> I have more questions, where do I go?
+### <a name="more"/> Eu tenho mais dúvidas, onde eu vou?
 
-If you have more technical questions, please see the [Developers Q&A](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers) page. Also feel free to post to the [user forums](https://groups.google.com/group/lantern-users-en) or the [develepors forum](https://groups.google.com/group/lantern-devel).
+Se você tem mais dúvidas técnicas, por favor veja a página [Developers Q&A](https://github.com/getlantern/lantern/wiki/%5Bdevelopers%5D-Questions-and-Answers). Também sinta-se livre para postar no [fórum do usuário](https://groups.google.com/group/lantern-users-en) ou no [fórum dos desenvolvedores](https://groups.google.com/group/lantern-devel).
