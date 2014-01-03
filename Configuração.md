@@ -35,3 +35,9 @@ Usuários que dão acesso não verão esta etapa. Embora você está convidado a
 Adicionando amigos é uma das coisas mais fáceis que você pode fazer para [[contribuir | Contributing]] com  Lantern. Você pode fazer isso a qualquer momento depois que você configurar, com a mesma caixa de diálogo que você vê no setup. Veja o [[Adding Friends|Using-Lantern#adding-friends]] da página 'Using Lantern' para mais informações.
 
 ### Usando Lantern
+
+Agora deve estar tudo pronto! Você deve ver algo como:
+
+![dashboard](https://www.evernote.com/shard/s209/sh/cd36738e-f945-4152-88f6-f9a99c28c7e8/6ab833d3c39326a9e0eb466c925c8611/deep/0/Lantern.png)
+
+Contanto que ela não diz 'Sua conexão internet parece estar offline.' em amarelo, na parte inferior, você está pronto para usar. Agora você pode começar [[Usando Lantern]].
