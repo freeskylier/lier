@@ -2,7 +2,7 @@ Quando você executar o Lantern será solicitado uma série de perguntas.
 
 ### Dar ou Pegar acesso
 
-A primeira questão é se você quer 'dar' ou 'pegar' acesso.
+A primeira questão é se você quer 'dar' (give) ou 'pegar' (get) acesso.
 
 ![give/get](https://www.evernote.com/shard/s209/sh/72480b8b-2259-4eef-836b-1982a800bc31/71a941bce6482c90d2d66dcf21db57a8/deep/0/Lantern.png)
 
