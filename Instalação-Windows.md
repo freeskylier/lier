@@ -4,7 +4,7 @@ Lanterna é compatível com o Windows XP e superior.
 
 #### Requisitos
 
-Lanterna requer Chrome para ser instalado. Se você não tem o Chrome , você pode obtê-lo no [página cromo download] (https://www.google.com/intl/pt/chrome/browser/) . Lanterna usa Chrome para carregar a interface do usuário. Futuras versões da Lanterna irá instalá-lo automaticamente para você.
+Lanterna requer Chrome para ser instalado. Se você não tem o Chrome , você pode obtê-lo na [página de download do Chrome] (https://www.google.com/intl/pt/chrome/browser/) . Lanterna usa Chrome para carregar a interface do usuário. Futuras versões da Lanterna irá instalá-lo automaticamente para você.
 
 ### Verificação de autenticidade
 
