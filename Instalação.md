@@ -6,7 +6,7 @@ Lanterna está atualmente em um beta fechado, o que significa que você não pod
 
 Depois de ser convidado, você receberá um e-mail com links para os downloaders. Escolha o mais adequado para o seu sistema e, em seguida, ir para a página correspondente:
 
-* [[Installation: Linux]]
+* [[Instalação: Linux]]
 * [[Installation: Windows]]
 * [[Installation: Mac]]
 
