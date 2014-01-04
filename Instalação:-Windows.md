@@ -30,7 +30,7 @@ Dê um clique duplo sobre o arquivo .exe, e a instalação será iniciada.
 
 Isso vai fazer várias coisas. Você provavelmente vai ser solicitado para permitir que o instalador faça alterações no seu computador. Clique "yes".
 
-Em seguida, ele irá detectar se você tem Java, e se não for seu caso, você deve fazer o download do Java Runtime Environment a partir da web. Em seguida, ele irá baixar o código mais recente Lantern, para se certificar de sua instalação é totalmente atualizada. Se você estiver em uma conexão lenta esta etapa de download pode demorar um pouco de tempo.
+Em seguida, ele irá detectar se você tem Java, e se não for seu caso, você deve fazer o download do Java Runtime Environment a partir da web. Em seguida, ele irá baixar o código mais recente Lantern, para se certificar de sua instalação é totalmente atualizada. Se você estiver em uma conexão lenta esta etapa de download pode demorar um pouco.
 
 ![Baixando os arquivos extra] (http://i.imgur.com/ne6LUem.png)
 
