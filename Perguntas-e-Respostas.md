@@ -8,7 +8,7 @@ Um último ponto sobre segurança: Com qualquer ferramenta, incluindo ambos Lant
 
 ### <a name="no-connections"/> Como o Lantern funciona se eu não conseguir alcançar nenhum usuário dando acesso?
 
-Para ajudar a iniciar a rede Lantern nós montamos Servidores Lantern na Nuvem ([[Lantern Cloud Servers]]). Eles servem como reserva para o tráfego quando nenhum outro usuário está disponível para dar acesso. Nossa esperança é que conforme a rede Lantern cresça, existirá usuários suficientes dando acesso que nós precisaremos cada vez menos servidores reservas.
+Para ajudar a iniciar a rede Lantern nós montamos [[Servidores Lantern na Nuvem]]. Eles servem como reserva para o tráfego quando nenhum outro usuário está disponível para dar acesso. Nossa esperança é que conforme a rede Lantern cresça, existirá usuários suficientes dando acesso que nós precisaremos cada vez menos servidores reservas.
 
 Nosso outro plano é dar às pessoas uma opção de financiar Servidores Lantern na Nuvem adicionais dedicados para elas e para seus amigos. Nós também esperamos fazer parcerias com empresas que tem capacidade computacional sobrando e queira ajudar a liberdade na internet doando servidores para a rede Lantern.
 
