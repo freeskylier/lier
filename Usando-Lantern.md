@@ -6,11 +6,11 @@ Se você estiver em uma região censurada e instalou Lantern, basta abrir o seu 
 
 ![working lantern](https://www.evernote.com/shard/s209/sh/ebdd003b-5c06-430f-a239-ea4a28c444cf/3f6d143232be6ffe1b1d0edcc5cf309d/deep/0/Fullscreen%208/18/13%209:00%20PM.png)
 
-Enquanto a sua navegação está conectando relatórios Lantern na atividade. No mapa, haverá uma linha entre o seu computador e os computadores dos seus amigos (ou o retorno [[cloud server|Lantern Cloud Servers]]). Além disso, no canto superior direito da lanterna mostra a largura de banda ativa subindo e descendo - isto vai mudar enquanto você navega.
+Enquanto a sua navegação está conectando relatórios Lantern na atividade. No mapa, haverá uma linha entre o seu computador e os computadores dos seus amigos (ou com os [[servidores na nuvem|Servidores Lantern na Nuvem]]). Além disso, no canto superior direito da lanterna mostra a largura de banda ativa subindo e descendo - isto vai mudar enquanto você navega.
 
 Se não estiver funcionando, então verifique se o site que você quer está em seu [[Proxy Site List|Proxied Sites Configuration]], e adicione se não estiver na lista.
 
-Se você não é capaz de acessar você pode tentar convidar mais amigos em países sem censura que iria partilhar a sua ligação com você, ou patrocinar um [[cloud server|Lantern Cloud Servers]] para ajudar a rede Lantern. Se as coisas ainda não estão funcionando vá para o [[Fórum|https://groups.google.com/forum/#!forum/lantern-users-en]] e você pode obter assistência lá.
+Se você não é capaz de acessar você pode tentar convidar mais amigos em países sem censura que iria partilhar a sua ligação com você, ou patrocinar um [[servidor na nuvem|Servidores Lantern na Nuvem]] para ajudar a rede Lantern. Se as coisas ainda não estão funcionando vá para o [[Fórum|https://groups.google.com/forum/#!forum/lantern-users-en]] e você pode obter assistência lá.
 
 ### Usuários **Dando Acesso**
 
