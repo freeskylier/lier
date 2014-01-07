@@ -66,7 +66,7 @@ Sempre que você roda o Lantern, você cria um novo ponto de acesso que usuário
 
 ### <a name="upgrade"/>Como eu atualizo para uma versão mais nova do Lantern?
 
-Por favor veja [Atualizando para uma nova versão do Lantern](https://github.com/getlantern/lantern/wiki/Upgrading-to-a-New-Version-of-Lantern).
+Por favor veja [Atualizando para uma nova versão do Lantern](https://github.com/getlantern/lantern/wiki/Atualizando-para-uma-nova-vers%C3%A3o-do-Lantern).
 
 ### <a name="hackers"/> O Lantern deixa meu computador vulnerável a hackers?
 
