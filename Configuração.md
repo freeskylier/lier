@@ -32,7 +32,7 @@ Usuários que dão acesso não verão esta etapa. Embora você está convidado a
 
 ### Adicionando amigos
 
-Adicionando amigos é uma das coisas mais fáceis que você pode fazer para [[contribuir | Contributing]] com  Lantern. Você pode fazer isso a qualquer momento depois que você configurar, com a mesma caixa de diálogo que você vê no setup. Veja o [[Adding Friends|Using-Lantern#adding-friends]] da página 'Using Lantern' para mais informações.
+Adicionando amigos é uma das coisas mais fáceis que você pode fazer para [[contribuir | Contribuindo]] com  Lantern. Você pode fazer isso a qualquer momento depois que você configurar, com a mesma caixa de diálogo que você vê no setup. Veja o [[Adicionando Amigos|Usando-Lantern#adicionando-amigos]] da página 'Usando Lantern' para mais informações.
 
 ### Usando Lantern
 
