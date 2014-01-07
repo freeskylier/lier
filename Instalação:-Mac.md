@@ -41,4 +41,4 @@ Se você fechar a janela um ícone Lantern ainda vai ficar no seu menu. Para par
 
 ### A desinstalação
 
-Para desinstalar completamente Lantern você deve mover o ícone de lantern na pasta Aplicativos para a lixeira. Você deve parar lantern antes de fazer isso. Isso também irá desinstalar o Java Runtime Environment do Lantern. Você também pode excluir o '''.lantern/''' diretório no seu diretório home. Fazendo isso vai lhe solicitar [[Setup]], se você reinstalar lantern. Se você continuar, em seguida, Lantern vai começar a trabalhar com a sua configuração existente.
+Para desinstalar completamente Lantern você deve mover o ícone de lantern na pasta Aplicativos para a lixeira. Você deve parar lantern antes de fazer isso. Isso também irá desinstalar o Java Runtime Environment do Lantern. Você também pode excluir o '''.lantern/''' diretório no seu diretório home. Fazendo isso vai lhe solicitar [[Configuração]], se você reinstalar lantern. Se você continuar, em seguida, Lantern vai começar a trabalhar com a sua configuração existente.
