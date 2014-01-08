@@ -15,7 +15,7 @@ Dê um clique duplo sobre o arquivo .dmg, e , em seguida, clique duas vezes no �
 ![downloading](https://www.evernote.com/shard/s209/sh/b39a5f0d-4aa9-4518-8a26-fd0a86de8737/9d3090f5eab319830f4510bc13bba90e/deep/0/Lantern%20Fetcher.png)
 
 Se você clicar sobre o arquivo .Dmg e nada acontece, o problema provavelmente é que você não é um usuário administrador.
-A partir de beta2 o lantern _**não* _ funciona se você não está executando como um usuário administrador. Estamos [working] (https://github.com/getlantern/lantern/issues/819) em solicitar para solicitar a senha do administrador em vez de apenas apresentar uma falha.
+A partir de beta2 o lantern _**não* _ funciona se você não está executando como um usuário administrador. Estamos [trabalhando] (https://github.com/getlantern/lantern/issues/819) para solicitar a senha do administrador em vez de apenas apresentar uma falha.
 
 Contanto que você é um usuário administrador, clicando no .dmg o instalador irá fazer várias coisas. Ele irá detectar se você tem Java, e caso não tenha, ele irá baixar o Java Runtime Environment a partir da web. Em seguida, ele irá baixar o código mais recente Lantern, para se certificar de sua instalação é totalmente atualizada. Se você estiver em uma conexão lenta esta etapa de download pode demorar um pouco.
 
@@ -29,7 +29,7 @@ Essa ação deve extrair os arquivos e, em seguida, iniciará um exemplo do func
 
 ![lantern default](https://www.evernote.com/shard/s209/sh/57a422d3-27f1-4b45-b05c-09b87636ab23/8b8d1d84c456798cd0f3e045590dc3e7/deep/0/Lantern.png)
 
-Se você vê esta tela, está tudo pronto. Vá para [[Setup]].
+Se você vê esta tela, está tudo pronto. Vá para [[Configuração]].
 
 ### Parando o Lantern
 
