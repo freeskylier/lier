@@ -38,7 +38,7 @@ Depois de baixar ele vai extrair os arquivos e, em seguida, iniciará um exemplo
 
 ![Lantern no Windows] (http://i.imgur.com/K6yBha5.png)
 
-Se você vê esta tela está tudo pronto . Vá para [[Setup]].
+Se você vê esta tela está tudo pronto . Vá para [[Configuração]].
 
 ### Parando o Lantern 
 
