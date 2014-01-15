@@ -20,7 +20,7 @@ Os usuários que estão dando acesso muitas vezes não terão conexões imediata
 
 Basta ir a "Configurações" e alterar o modo 'pegando acesso', e tentar os passos acima.
 
-### All Users
+### Todos os Usuários
 
 #### Explorando a rede Lantern
 
