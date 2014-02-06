@@ -1,15 +1,15 @@
-[[Welcome]]
+[[Wilkommen|Welcome]]
 
 [[Installation]]
 
-[[Setup]]
+[[Einrichtung|Setup]]
 
-[[Using|Using Lantern]]
+[[Lantern benutzen|Using Lantern]]
 
-[[Questions and Answers|Questions-and-Answers]]
+[[Fragen und Antworten|Questions-and-Answers]]
 
-[[Get Involved!|Get Involved]]
+[[Mitmachen|Get Involved]]
 
-[[Privacy]]
+[[Privatsphäre|Privacy]]
 
-[[Index|_pages]]
+[[Verzeichnis|_pages]]
