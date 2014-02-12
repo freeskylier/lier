@@ -16,4 +16,10 @@ You can also build an installer from the current HEAD without releasing (a throw
 ./osxInstall.bash HEAD false
 ```
 
+If you just want to build an installer from what you have in your local environment, use `local` like this:
+
+```
+./osxInstall.bash local false
+```
+
 In that case you would **not use release.bash at all**.
