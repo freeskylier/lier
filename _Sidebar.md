@@ -1,15 +1,5 @@
-[[Wilkommen|Welcome]]
-
-[[Installation]]
-
-[[Einrichtung|Setup]]
-
-[[Lantern benutzen|Using Lantern]]
-
-[[Fragen und Antworten|Questions-and-Answers]]
-
-[[Mitmachen|Get Involved]]
-
-[[Privatsphäre|Privacy]]
-
-[[Verzeichnis|_pages]]
+- [English](wiki/Welcome)
+- [Español](wiki/Bienvenido)
+- [Português](wiki/Bem-vindo)
+- [中文](wiki/欢迎)
+- [German](wiki/Willkommen)
