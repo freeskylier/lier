@@ -10,7 +10,7 @@ The official Lantern web site is [https://getlantern.org](https://getlantern.org
 
 ## "getlantern" lookalikes
 
-Also notice that "getlantern.org" looks a lot like "getIantern.org" (with a capital "i" in place of the lowercase "l") and also looks a lot like "getlantem.org" (with an "m" in place of the "rn"), especially with certain fonts. Team Lantern has bought up all these lookalike domains, as well as registered the lookalike usernames on GitHub, Twitter, and other sites, to stop harmful impersonation.
+Also notice that "getlantern.org" looks a lot like "getIantern.org" (with a capital "i" in place of the lowercase "l") and also looks a lot like "getlantem.org" (with an "m" in place of the "rn"), especially with certain fonts. Team Lantern has bought up all these lookalike domains, as well as registered the lookalike usernames on GitHub, Twitter, and other sites, to prevent harmful impersonation, but you should beware that this trick can still show up in other places.
 
 ## getlantern.org Official Mirror
 
@@ -26,16 +26,18 @@ TODO
 
 ## Official Lantern Software
 
-All 
+TODO
 
 ## Other Official Lantern Accounts
+
+The following is an exhaustive list of all official Lantern accounts. If you ever come across Lantern content that is not listed here, please [email team@getlantern.org with subject "Genuine Content?"](mailto:team@getlantern.org?subject=Genuine+Content%3F) and we will verify it and add it here.
 
 - https://twitter.com/getlantern
 - https://www.facebook.com/getlantern
 - https://www.youtube.com/getlantern
 - http://get-lantern.tumblr.com/
 - http://lanterndev.tumblr.com/
-
+- http://instagram.com/getlantern
 
 ***
 
