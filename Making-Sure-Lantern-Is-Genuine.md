@@ -16,7 +16,7 @@ Also notice that "getlantern.org" looks a lot like "getIantern.org" (with a capi
 
 The getlantern.org web site is blocked in certain countries, but Amazon S3 -- a widely used web hosting provider -- is often unblocked in these countries. For this reason, the Lantern developers maintain an official mirror of getlantern.org on S3 at the following address:
 
-https://s3-ap-southeast-1.amazonaws.com/getlantern/index.html (note the "https" here as well)
+https://s3.amazonaws.com/getlantern.org/index.html
 
 **This is the one and only official mirror of getlantern.org.** If you ever see a web site claiming to be Lantern that is neither https://getlantern.org nor the official mirror above, **don't trust it.**
 
