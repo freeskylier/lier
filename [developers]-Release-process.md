@@ -1,13 +1,15 @@
-After running through QA scripts, simply run the following for our example 0.21.3-1 release:
+Make sure that you've run the Lantern client and authenticated against Google to properly initialize your ~/.lantern folder.
+
+Make sure that the <version> in your pom is correct and ends in -SNAPSHOT (e.g. 1.3.0-beta1-SNAPSHOT).
 
 ```
-./release.bash 0.21.3-1 
+./release.bash
 ```
 
-That will create a 0.21.3-1 tag you can release from any time thereafter. To build the OSX installer for the above release, simply run:
+That will create a lantern-1.3.0-beta1 tag you can release from any time thereafter. To build the OSX installer for the above release, simply run:
 
 ```
-./osxInstall.bash 0.21.3-1 true
+./osxInstall.bash 1.3.0-beta1 true
 ```
 
 You can also build an installer from the current HEAD without releasing (a throwaway installer for testing, for example) with the following:
