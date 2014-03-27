@@ -2,6 +2,8 @@ Make sure that you've run the Lantern client and authenticated against Google to
 
 Make sure that the <version> in your pom is correct and ends in -SNAPSHOT (e.g. 1.3.0-beta1-SNAPSHOT).
 
+Set up the environment variables described in [env-vars](https://github.com/getlantern/too-many-secrets/blob/master/build-installers/env-vars.txt) from too-many-secrets.
+
 ```
 ./release.bash
 ```
