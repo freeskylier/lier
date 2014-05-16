@@ -1,8 +1,14 @@
+### Prerequisites
+
 Make sure that you've run the Lantern client and authenticated against Google to properly initialize your ~/.lantern folder.
 
 Make sure that the <version> in your pom is correct and ends in -SNAPSHOT (e.g. 1.3.0-beta1-SNAPSHOT).
 
 Set up the environment variables described in [env-vars](https://github.com/getlantern/too-many-secrets/blob/master/build-installers/env-vars.txt) from too-many-secrets.
+
+If building for Linux from OS X, you'll need to download the Linux jre bundles ([32-bit](https://s3.amazonaws.com/bundled-jres/linux-x86-jre.tar.gz ) and/or [64-bit](https://s3.amazonaws.com/bundled-jres/linux-amd64-jre.tar.gz) and make sure that they're placed in `~/.install4j5/jres/./jres/`.
+
+### Scripts
 
 ```
 ./release.bash
