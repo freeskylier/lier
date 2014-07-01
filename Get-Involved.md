@@ -77,9 +77,7 @@ If you are a developer and are interested in helping build Lantern see the [[Con
 
 ### <a name="donating"></a> Donate
 
-Lantern also welcomes donations through our [Indiegogo campaign](https://www.indiegogo.com/projects/fund-internet-freedom-with-lantern/x/204580) You can pledge a one-time or monthly donation to sponsor a Lantern cloud proxy,
-which provides an additional high-capacity internet connection to the network
-24 hours a day.
+Lantern also welcomes donations through our [Indiegogo campaign](https://www.indiegogo.com/projects/fund-internet-freedom-with-lantern/x/204580) 
 
 Alternatively, if there is some feature or bugfix you'd like to see in the next
 version of Lantern, you can sponsor its development.
