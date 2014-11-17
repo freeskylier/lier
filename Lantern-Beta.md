@@ -1,0 +1,1 @@
+Here you can download upcoming releases of Lantern. These versions are still in the beta phase and not every feature may work correctly. Feedback is especially welcome!
