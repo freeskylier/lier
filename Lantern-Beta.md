@@ -13,6 +13,6 @@ The current Beta Versions feature Natty, our new WebRTC-based module for NAT and
 * Resource usage – the presence of runaway "Natty" processes
 
 ### Download Links
-Insert Mac Version link here
-Insert Windows Version link here
-Insert Linux Version link here
+* Insert Mac Version link here
+* Insert Windows Version link here
+* Insert Linux Version link here
