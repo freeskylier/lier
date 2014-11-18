@@ -10,7 +10,7 @@ If you are willing to brave the bugs and test a beta version, we hope that you w
 ### About The Current Versions
 The current Beta Versions feature Natty, our new WebRTC-based module for NAT and Firewall traversal. We are particularly interested in feedback pertaining to: 
 * _General functionality_ – any strange behavior not present in the stable version
-* )Resource usage_ – the presence of runaway "Natty" processes
+* _Resource usage_ – the presence of runaway "Natty" processes
 
 ### Download Links
 * Insert Mac Version link here
