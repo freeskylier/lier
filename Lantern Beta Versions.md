@@ -13,6 +13,7 @@ The current Beta versions feature Natty, our new WebRTC-based module for NAT and
 * _Resource usage_ – the presence of runaway "Natty" processes
 
 ### Download Links
-* Insert Mac Version link here
-* Insert Windows Version link here
-* Insert Linux Version link here
+[Windows](https://s3.amazonaws.com/lantern/lantern-beta.exe)
+[Mac](https://s3.amazonaws.com/lantern/lantern-beta.dmg)
+[Linux 32-bit](https://s3.amazonaws.com/lantern/lantern-beta-32-bit.deb)
+[Linux 64-bit](https://s3.amazonaws.com/lantern/lantern-beta-64-bit.deb)
