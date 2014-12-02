@@ -8,6 +8,7 @@ This document outlines general coding guidelines for programmers working on the 
 
 ##Coding
 Code on specific features and/or bugs should include the following:
+
 1. A corresponding ticket
 1. Unit tests
 1. Reasonable code coverage
