@@ -3,8 +3,8 @@
 This document outlines general coding guidelines for programmers working on the Lantern code base:
 
 ##Branches
-1. In general all work should take place on **feature branches**. In many cases those branch names will correspond with the number of the actual ticket. Depending on the feature, those branches will be merged into **either the devel branch or the beta branch**, with the beta branch typically containing more significant changes that will be merged into the main Lantern version within approximately three months. Stable releases are made from the master branch with a merge from devel prior to each release.
-1. The devel branch, and correspondingly master, should always be stable enough to release at any moment.
+1. We follow the branching strategy described in more detail [here](http://nvie.com/posts/a-successful-git-branching-model/)
+1. In general all work should take place on **feature branches**. In many cases those branch names will correspond with the number of the actual ticket. Depending on the feature, those branches will be merged into **either the devel branch or the current release branch**, with the current release branch being reserved for changes going into the next version. As such, they should generally only contain more stable changes while more destabilizing changes should be merged to devel for inclusion in the subsequent release.
 
 ##Coding
 Code on specific features and/or bugs should include the following:
@@ -21,7 +21,8 @@ Code on specific features and/or bugs should include the following:
 1. The code reviewer should both review the code and QA the change.
 1. The code reviewer should always be the one who actually does the merge.
 1. If a PR is for a project outside of Lantern that requires new binaries in Lantern, those binaries should be integrated and committed as a part of the code review process.
-1. If any client-side change depends on another module, including a server-side change, branches for the other module and/or binaries should be merged at the same time as client-side branches.
+1. If any change depends on another module branches for the other module and/or binaries should be reviewed and merged at the same time as client-side branches.
+1. When a merge is complete the feature branch should be deleted to avoid proliferation of branches.
 
 ##Tests
 1. All tests should pass always.
