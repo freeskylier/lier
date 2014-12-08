@@ -10,8 +10,11 @@ This document outlines general coding guidelines for programmers working on the 
 Priorities are tracked as labels in GitHub. All issues in the short-term milestone should have priorities, and engineers should work on issues in order of priority as they see fit.
 
 **P0** -- This is a severe issue in production that needs to be fixed right away.
+
 **P1** -- We will consider ourselves abject failures if this is not included in the next release.
+
 **P2** -- This an important feature for the next release.
+
 **P3** -- A "nice to have" for the next release.
 
 
