@@ -34,7 +34,7 @@ Code on specific features and/or bugs should include the following:
 1. The code reviewer should always be the one who actually does the merge.
 1. If a PR is for a project outside of Lantern that requires new binaries in Lantern, those binaries should be integrated and committed as a part of the code review process.
 1. If any change depends on another module branches for the other module and/or binaries should be reviewed and merged at the same time as client-side branches.
-1. When a merge is complete the feature branch should be deleted to avoid proliferation of branches.
+1. When a merge is complete the feature branch **should be deleted** to avoid proliferation of branches.
 
 ##Tests
 1. All tests should pass always.
