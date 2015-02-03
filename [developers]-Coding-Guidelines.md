@@ -4,7 +4,7 @@ This document outlines general coding guidelines for programmers working on the 
 
 ##Branches
 1. We follow the branching strategy described in more detail [here](http://nvie.com/posts/a-successful-git-branching-model/)
-1. In general all work should take place on **feature branches**. In many cases those branch names will correspond with the number of the actual ticket. Depending on the feature, those branches will be merged into **either the devel branch or the current release branch**, with the current release branch being reserved for changes going into the next version. As such, they should generally only contain more stable changes while more destabilizing changes should be merged to devel for inclusion in the subsequent release.
+1. In general all work should take place on **feature branches**. In most cases those branch names will correspond with the number of the actual ticket prepended with "issue-" to avoid potential conflicts with commit short codes (happens surprisingly often when ticket numbers get large apparently). Depending on the feature, those branches will be merged into **either the devel branch or the current release branch**, with the current release branch being reserved for changes going into updates to the current beta. As such, they should generally only contain more stable changes while more destabilizing changes should be merged to devel for inclusion in the subsequent, as yet unreleased beta version.
 
 ##Priorities
 Priorities are tracked as labels in GitHub. All issues in the short-term milestone should have priorities, and engineers should work on issues in order of priority as they see fit.
@@ -29,7 +29,7 @@ Code on specific features and/or bugs should include the following:
 1. End to end testing of the feature, including integrating new binaries into Lantern if necessary
 
 ##Code Reviews
-1. Each pull request should be code reviewed
+1. Each change should happen through a pull request (PR), and each pull request should be code reviewed
 1. The code reviewer should both review the code and QA the change.
 1. The code reviewer should always be the one who actually does the merge.
 1. If a PR is for a project outside of Lantern that requires new binaries in Lantern, those binaries should be integrated and committed as a part of the code review process.
