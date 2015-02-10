@@ -51,7 +51,7 @@ In any scenario, however, **you have to explicitly approve each user who will pr
 
 ### <a name="howto"/> How do I download Lantern?
 
-Lantern is still in private beta. You can request an invitation and updates [here](https://getlantern.us2.list-manage.com/subscribe/post?u=0ac18298d5d0330dcda8f48aa&id=f06770f311).
+You can download the latest version of Lantern from our website, [here](https://getlantern.org).
 
 
 ### <a name="know"/> I live in an uncensored region and don't know anyone in a censored region. Can I still help?
