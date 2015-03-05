@@ -13,5 +13,4 @@ The current Beta versions port Lantern to the Go programming language, significa
 ### Download Links
 * [Windows](https://s3.amazonaws.com/lantern/lantern-installer-beta.exe)
 * [Mac](https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg)
-* [Linux 32-bit](https://s3.amazonaws.com/lantern/lantern-installer-beta-32.deb)
 * [Linux 64-bit](https://s3.amazonaws.com/lantern/lantern-installer-beta-64.deb)
