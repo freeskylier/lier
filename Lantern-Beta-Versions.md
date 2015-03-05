@@ -8,9 +8,7 @@ If you are willing to brave the bugs and test a beta version, we hope that you w
 * If you are a non-technical user or looking for a forum in a language other than English, posting on one of our [user forums](https://groups.google.com/forum/#!forum/lantern-users-en). (See the message at the top for links to non-English forums.)
 
 ### About The Current Release
-The current Beta versions feature Natty, our new WebRTC-based module for NAT and Firewall traversal. We are particularly interested in feedback pertaining to: 
-* _General functionality_ – any strange behavior not present in the stable version
-* _Resource usage_ – the presence of runaway "Natty" processes
+The current Beta versions port Lantern to the Go programming language, significantly reducing installer size. They also introduce panning and zooming on the map and performance improvements.
 
 ### Download Links
 * [Windows](https://s3.amazonaws.com/lantern/lantern-installer-beta.exe)
