@@ -36,6 +36,10 @@ Code on specific features and/or bugs should include the following:
 1. If any change depends on another module branches for the other module and/or binaries should be reviewed and merged at the same time as client-side branches.
 1. When a merge is complete the feature branch **should be deleted** to avoid proliferation of branches.
 
+## QA
+1. For any ticket that is testable in QA, the final step in the ticket should be to assign it to QA for testing and ultimate closing. For those tickets for which this applies, this should be done after code review and merging. 
+1. If there are any problems at the QA stage, the ticket should be re-assigned back to the original developer for additional work.
+
 ##Tests
 1. All tests should pass always.
 1. If you make changes that break the tests, you should fix the tests. Don't expect someone else will fix them.
