@@ -11,7 +11,7 @@ If you are willing to brave the bugs and test a beta version, we hope that you w
 The current Beta versions port Lantern to the Go programming language, significantly reducing installer size. They also introduce panning and zooming on the map as well as graphical performance improvements. Finally, this version includes new installers on all platforms.
 
 ### Download Links
-* [Windows](https://s3.amazonaws.com/lantern/lantern-installer-beta.exe) (2.0.0 Beta 3)
-* [Mac](https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg) (2.0.0 Beta 3)
+* [Windows](https://s3.amazonaws.com/lantern/lantern-installer-beta.exe) (2.0.0 Beta 4)
+* [Mac](https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg) (2.0.0 Beta 4)
 * [Linux 64-bit](https://s3.amazonaws.com/lantern/lantern-installer-beta-64.deb) (2.0.0 Beta 1)
 * [Linux 32-bit](https://s3.amazonaws.com/lantern/lantern-installer-beta-32.deb) (2.0.0 Beta 1)
