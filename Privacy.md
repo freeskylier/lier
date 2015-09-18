@@ -1,10 +1,9 @@
 ## <a name="information-gathering-and-usage"></a>Information Gathering and Usage
 Lantern's central servers store the following information:
 
-* Your e-mail address.
-* The e-mail address of the account that invited you.
-* The e-mail addresses of anyone you invite.
-* A Google Talk "refresh token" which allows Lantern to run under your account from the cloud when your computer is asleep.
+* Your IP address (used to associate you with other Lantern access points)
+* Error reports if you have reporting turned on
+* Google analytics if you have reporting turned on
 
 For more specific details on what information Lantern has access to, see the <a href="https://docs.google.com/a/getlantern.org/spreadsheet/pub?key=0Ap6nn0WEcFTRdHUtTm9GcFpsNFpoOGFXQlBfODN4TkE&single=true&gid=0&output=html" target="_blank">Lantern Information Disclosure Matrix</a>.
 
