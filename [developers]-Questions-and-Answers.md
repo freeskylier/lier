@@ -1,5 +1,10 @@
 # Questions and Answers
 
+### Where can I learn more details about the Lantern architecture?
+
+Check out our (developers' README)[https://github.com/getlantern/lantern/blob/valencia/README-dev.md].
+
+
 ### <a name="other-circumvention-tools"/> Does Lantern work with other circumvention tools?
 
 Running Lantern in Get Access mode may not work with other tools such as VPN software running at the same time. However, it should have no problem running at the same time as tools like the Tor Browser Bundle, which only affect their own connectivity, rather than all programs running on the computer. By default, Lantern in Get Access mode sets itself as your system proxy, so that all browsers running on the system will just use it automatically. So this is incompatible with other tools that expect to modify system-wide connectivity too. Lantern can be configured to not set itself as the system proxy (requiring you to specifically configure your browser to use it) under advanced settings.
