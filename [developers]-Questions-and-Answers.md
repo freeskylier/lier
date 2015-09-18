@@ -2,7 +2,7 @@
 
 ### Where can I learn more details about the Lantern architecture?
 
-Check out our (developers' README)[https://github.com/getlantern/lantern/blob/valencia/README-dev.md].
+Check out our [developers' README](https://github.com/getlantern/lantern/blob/valencia/README-dev.md).
 
 
 ### <a name="other-circumvention-tools"/> Does Lantern work with other circumvention tools?
