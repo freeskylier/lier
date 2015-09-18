@@ -12,21 +12,8 @@ Lantern uses the following cipher suite for all connections between peers: TLS_E
 
 First, Lantern connects to Google Talk servers over TLS. Lantern embeds the Google Talk signing certificate in its install and only trusts that certificate and a handful of others as trusted certificates, a sort of hard-coded form of certificate pinning. Lantern's connections between peers use self-signed certificates that are exchanged over XMPP through that trusted Google Talk connection. Lantern then only allows connections with those trusted certificates, thwarting any possible man-in-the-middle attack.
 
-### <a name="google"/> Why does Lantern require a Google login? What happens with the generated OAuth tokens?
-
-Lantern requires users to log in to Google for the following reasons:
-
-1. It allows you to easily connect with your existing Google Talk contacts via Lantern in order to bootstrap the trust network
-2. It allows Lantern to use Google's XMPP servers to negotiate direct P2P connections between users
-3. Google Talk is also largely unblocked, so it provides a channel through which Lantern can usually communicate
-
-When you log in to Google via OAuth, Lantern stores your OAuth refresh token on your local computer in an encrypted form using your operating system's keychain.
-
-### <a name="fallback"/> What if Google Talk is blocked?
-If Google Talk is blocked, Lantern detects this and starts to tunnel access to Google Talk through fallback proxies. Those proxies are also distributed through the Lantern trust network using <a href="#-kscope">Kaleidoscope</a> to keep them from being enumerated and blocked. Those proxies are also used in cases where no peers are available.
-
 ### <a name="kscope"/> How does Lantern distribute information about proxies?
-Lantern uses an algorithm called Kaleidoscope to distribute information about proxies. More information is available at Lantern's separate Kaleidoscope library implementation [here](https://github.com/getlantern/kaleidoscope). The core idea behind Kaleidoscope is to distribute information through a trust network in a limited manner such that no single actor on the trust network can enumerate all information distributed even if the trust network is compromised.
+Lantern uses an algorithm called Kaleidoscope to distribute information about p2p proxies. More information is available at Lantern's separate Kaleidoscope library implementation [here](https://github.com/getlantern/kaleidoscope). The core idea behind Kaleidoscope is to distribute information through a trust network in a limited manner such that no single actor on the trust network can enumerate all information distributed even if the trust network is compromised.
 
 ### <a name="performance"/> How will running Lantern affect performance on my computer?
 
@@ -37,10 +24,6 @@ intermittently donated to other users, but based on the other users online
 at the time, you may not even notice. We plan to intelligently limit the
 resources Lantern consumes while you're using your computer in the future (see
 [#19](https://github.com/getlantern/lantern/issues/19)).
-
-### <a name="udp"/> How does Lantern use reliable UDP?
-Lantern makes use of UDP to cross NATs and firewall. We then use those NAT/firewall traversed connections to send [UDT](http://udt.sourceforge.net/) data. Lantern runs true TLS directly on top of that UDT layer.
-
 
 ### <a name="contributing"/> How can I contribute?
 
