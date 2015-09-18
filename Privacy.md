@@ -32,7 +32,6 @@ If you enable this option we use:
 
 * Google Analytics with [IP Anonymization](https://support.google.com/analytics/answer/2763052?hl=en) to store information about your usage.
 * Loggly.com to store information about errors in the Lantern software.
-* Google App Engine to store information about the countries you have logged in from and the number of bytes you have sent and received.
 
 When you install Lantern, we ask if you want to contribute this information. You can change this setting at any time in the settings menu.
 
