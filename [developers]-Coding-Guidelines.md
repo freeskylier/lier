@@ -11,7 +11,7 @@ This document outlines general coding guidelines for programmers working on the 
 1. All tickets we actually work on should have a milestone, a priority, and an assignee. If they don’t, and you feel you should start working on a ticket, either add them or contact the appropriate ticket wranglers.
 When a ticket is fixed, add the “QA” label if it’s possible to test in QA, leave the ticket open, and assign it to @sunshine19090. Otherwise label it as “NOT TESTABLE IN QA” and close it.
 1. All the issues moved to QA should be tested by Sunshine when the build is ready to test.
-1. After testing, if the issue is not resolved then move it to verified (need to add this under labels) and assign it to the dev person to fix the issue. Follow step 2.
+1. After testing, if the issue is not resolved then move it to REJECTED and assign it to the dev person to fix the issue. Follow step 2.
 1. After testing, if the issue is resolved then close it.
 1. If an issue is a duplicate, add duplicate label and close it.
 1. If a issue is recurring, reopen the ticket and assign it to the dev person and follow step 2.
