@@ -6,7 +6,18 @@ This document outlines general coding guidelines for programmers working on the 
 1. We follow the branching strategy described in more detail [here](http://nvie.com/posts/a-successful-git-branching-model/)
 1. In general all work should take place on **feature branches**. In most cases those branch names will correspond with the number of the actual ticket prepended with "issue-" to avoid potential conflicts with commit short codes (happens surprisingly often when ticket numbers get large apparently). Depending on the feature, those branches will be merged into **either the devel branch or the current release branch**, with the current release branch being reserved for changes going into updates to the current beta. As such, they should generally only contain more stable changes while more destabilizing changes should be merged to devel for inclusion in the subsequent, as yet unreleased beta version.
 
-##Priorities
+##Tickets
+1. When initially creating tickets, specify the milestone, priority, and assignee if you feel you know them. Otherwise leave them blank and let the ticket wranglers handle that part.
+1. All tickets we actually work on should have a milestone, a priority, and an assignee. If they don’t, and you feel you should start working on a ticket, either add them or contact the appropriate ticket wranglers.
+When a ticket is fixed, add the “QA” label if it’s possible to test in QA, leave the ticket open, and assign it to @sunshine19090. Otherwise label it as “NOT TESTABLE IN QA” and close it.
+1. All the issues moved to QA should be tested by Sunshine when the build is ready to test.
+1. After testing, if the issue is not resolved then move it to verified (need to add this under labels) and assign it to the dev person to fix the issue. Follow step 2.
+1. After testing, if the issue is resolved then close it.
+1. If an issue is a duplicate, add duplicate label and close it.
+1. If a issue is recurring, reopen the ticket and assign it to the dev person and follow step 2.
+1. Before releasing, all the major tickets for that release should have been closed. If the ticket is decided to be of low importance at that moment, then move it to next release.
+
+###Ticket Priorities
 Priorities are tracked as labels in GitHub. All issues in the short-term milestone should have priorities, and engineers should work on issues in order of priority as they see fit.
 
 **P0** -- This is a severe issue in production that needs to be fixed right away.
